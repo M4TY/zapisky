@@ -29,6 +29,7 @@
 - [Franstišek Martin Pelcl](#franstišek-martin-pelcl)
 - [František Palacký - otec národa](#františek-palacký---otec-národa)
 - [Pavel Josef Šafařík](#pavel-josef-šafařík)
+- [Opakování v hodině](#opakování-v-hodině)
 
 # Obrození
 
@@ -245,6 +246,46 @@ Dobrovský učil jak Nosticovi syni, tak Plecla
 # Pavel Josef Šafařík
 
 - Slovanské starožitnosti
+
+# Opakování v hodině
+
+Kdy
+
+Co bylo prioritou
+
+O 2 tendencích
+
+Osobnosti - nov, vydavat
+
+Kdo psal historická pojednání
+
+Kdo psal jazyková pojednání
+
+Purismus
+
+Jak pojmout situaci nejlépe
+
+Další jména
+
+Magdalena Dobromila Rettigová
+
+- Kuchařka
+
+Jan Evangelista Purkyně
+
+- vědec, přírodní vědy
+
+Jan Svatopluk Presl
+
+- biolog
+- fauna flóra
+- novotvary
+
+Slavistika - věda o slovanských národech
+
+Austroslavismus - život bez nejde Rakouska
+
+Představitelem Autroslavismu - Palacký a Borovský
 
 <style>
 body {
