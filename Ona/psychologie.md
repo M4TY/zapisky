@@ -75,3 +75,17 @@ Každý je jedinečný, nikdo není nahraditelný a všichni jsou něčím unik�
 Stabilita - chování se rychle nemění
 
 Labilita - nálad se rychle mění
+
+# Opakování v hodině
+
+- co to je - Věda
+- o čem - o člověku
+- socální věda
+- 3 složky - biologická složka, psychická složka, sociální složka
+- Přizpůsobení chování a reakcí na okolí- adaptivnost
+- Nepřizpůsobení - expresivně
+- Prožívání
+  - vědomě
+  - nevědomě
+- Temperamentové typy
+  - Temperament (= reakce na podměty (dynamika vnitřního prožívání))
