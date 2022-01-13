@@ -1,9 +1,9 @@
 # Čtyři základní tělesné šťávy
 
-- Sangvis
-- Chole
-- Melachole
-- Flegma
+-   Sangvis
+-   Chole
+-   Melachole
+-   Flegma
 
 Neexistuje čistý temperamentní typ
 
@@ -17,15 +17,15 @@ Pouze míchání temperamentních typů
 
 ## Dva typy osobností:
 
-- _Introvert_ - plachý, nejistý, málo průbojný
-- _Extrovert_ - společenský přístupný, otevřený
+-   _Introvert_ - plachý, nejistý, málo průbojný
+-   _Extrovert_ - společenský přístupný, otevřený
 
 Přiřadil také jednotlivé etapy lid. života dětství, dospívání, dospělost, stáří k jednotlivým temperamentům.
 
-- Dětství cholerické
-- Dospívání melancholické
-- Dospělost snagvinická
-- Stáří flegmatické
+-   Dětství cholerické
+-   Dospívání melancholické
+-   Dospělost snagvinická
+-   Stáří flegmatické
 
 ---
 
@@ -37,8 +37,8 @@ Model osobnosti
 
 Užívá zákldních termínů:
 
-- introverze - extroverze
-- stabilita - labilita
+-   introverze - extroverze
+-   stabilita - labilita
 
 ---
 
@@ -55,7 +55,7 @@ Tvorba na zákl. vloh
   <style>
   body {
   background-color: rgb(38, 38, 38);
-  filter: invert(0);
+  filter: invert(1);
   }
   </style>
   <footer class="footer">
