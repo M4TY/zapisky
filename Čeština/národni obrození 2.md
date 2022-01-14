@@ -66,8 +66,6 @@ dubisko - Rusko
 - Obsahem rukopisu bylo několik lyrických a epických skladeb
 - Václav Hanka
 
-## 9.11.2021
-
 <style>
 body {
 background-color: rgb(38, 38, 38);
