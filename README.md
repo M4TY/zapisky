@@ -21,4 +21,4 @@ Přidání zápisků není o moc težší než přidání kvízu. Všechny zápi
 
 # To-do
 
-[ ] - Přidat podporu obrázků v kvízech
+- [] Přidat podporu obrázků v kvízech
