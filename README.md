@@ -17,3 +17,8 @@ Pokud chcete přidat kvíz, stačí si tlačítkem v pravém horním rohu forkno
 ### Přidání zápisků
 
 Přidání zápisků není o moc težší než přidání kvízu. Všechny zápisky jsou psané v jazyku Markdown a jsou předem kompilované do struktury HTML. Pokud chci přidat nové zápisky, vezmu svůj Markdown soubor a pomocí <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">tohoto rozšíření</a> z něho vytvořím html soubor. <a href="https://github.com/M4TY/zapisky">V struktuře repozitáře</a> poté pouze najdu složku daného předmětu a **oba** soubory tam umístím. Samozřejmě stejně jako u předchozího návodu, musím nejprve vytvořit fork a poté pull request. Upozorňuji, že jak jsou soubory pojmenované v repozitáři, tak stejné jméno mají i na webu. Důvod proč volím variantu nahrávání obou souborů je jednodušší zpětná úprava.
+
+
+# To-do
+
+[] - Přidat podporu obrázků v kvízech
