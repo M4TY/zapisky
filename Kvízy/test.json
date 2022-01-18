@@ -1,231 +1,74 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@M4TY
-M4TY /
-zapisky
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-zapisky/Kvízy/
-in
-main
-
-1
-
 [
-
-2
-
     {
-
-3
-
         "subject": "Čeština",
-
-4
-
         "theme": "Národní obrození 2"
-
-5
-
     },
-
-6
-
     {
-
-7
-
         "question": "Kdo napsal Toman a lesní panna",
-
-8
-
         "answer": "František Ladislav Čelakovský"
-
-9
-
     },
-
-10
-
     {
-
-11
-
         "question": "Příběh Toman a lesní panna (stručně)",
-
-12
-
         "answer": "Byl zamilovaný, chtěl vyznat svojí lásku. Jel přes les a potkal lesní pannu, svedla ho z cesty a zemřel. Kuň se vrátil k sestře bez jezdce"
-
-13
-
     },
-
-14
-
     {
-
-15
-
         "question": "Co dalšího napsal Čelakovský?",
-
-16
-
         "answer": "Ohlasovou poezii"
-
-17
-
     },
-
-18
-
     {
-
-19
-
         "question": "Co to je ohlasová poezie?",
-
-20
-
         "answer": "Dokonalá nápodoba lidové poezie"
-
-21
-
     },
-
-22
-
     {
-
-23
-
         "question": "Jaké ohlasy Čelakovský napsal?",
-
-24
-
         "answer": "Ohlas písní českých a ohlas písní ruských"
-
-25
-
     },
-
-26
-
     {
-
-27
-
         "question": "Co znamená \"psoty a sloty\"",
-
-28
-
         "answer": "Nepřízeň počasí"
-
-29
-
     },
-
-30
-
     {
-
-31
-
         "question": "O čem je Ilja Muromec?",
-
-32
-
         "answer": "Mluví se o mladém sokolovi a o mladých jestřábech (sokolem se myslí mladé zvíře a jestřábem dravější zvíře) jestřábi byli Tataři (= psi, zbabělci) začali ho svlékat a okrádat. Muromec zabil Tatary, zabil je kuší a lukem. Obět pohřbil"
-
-33
-
     },
-
-34
-
     {
-
-35
-
         "question": "Co je to sonet?",
-
-36
-
         "answer": "Forma básně, přesně učený počet veršů (4 sloky, 2 sloky čtyř vesršové a 2 sloky tří veršové)"
-
-37
-
     },
-
-38
-
     {
-
-39
-
         "question": "Jaké známe dva rukopisy?",
-
-40
-
         "answer": "Zelenohorský a Královedvorský"
-
-41
-
     },
-
-42
-
     {
-
-43
-
         "question": "Jak se našel rukopis Zelenohorský?",
-
-44
-
         "answer": "Přišel schovaný v listě na úřad"
-
-45
-
     },
-
-46
-
     {
-
-@M4TY
-Commit changes
-Commit summary
-Optional extended description
-Commit directly to the main branch.
-Create a new branch for this commit and start a pull request. Learn more about pull requests.
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
+        "question": "O čem je rukopis Zelenohorský?",
+        "answer": "Spor mezi dvěma bratry kteří se přou o majetek. Nepříznivý výsledek soudu pak kladou za vinu Libuši"
+    },
+    {
+        "question": "Do jakého období se rukopis Zelenohorský řadí?",
+        "answer": "9.století"
+    },
+    {
+        "question": "Kdo kritizoval rukopis Zelenohorský?",
+        "answer": "Dobrovský"
+    },
+    {
+        "question": "Do jakého období se řadí rukopis Královedvorský?",
+        "answer": "13.století"
+    },
+    {
+        "question": "Jak a kde byl Královedvorský rukopis objeven?",
+        "answer": "Náhodou při návštěve kostela v Dvoře Králové"
+    },
+    {
+        "question": "Co je obsahem rukopisu Královedvorského?",
+        "answer": "Několik lyrických a epických skladeb"
+    },
+    {
+        "question": "Co je bylina ?",
+        "answer": "Ruská pověst (žánr ruských epických hrdinských básní)"
+    }
+]
