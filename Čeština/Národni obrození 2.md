@@ -2,23 +2,23 @@
 
 ## František Ladislav Čelakovský
 
-- preromantik
-- první polovina 19. stol
-- ohlasová poezie = dokonalá nábodoba lidové poezie
-  - ohlas = zpětná vazba
-  - ohlas písní českých
-  - ohlas písní ruských
+-   preromantik
+-   první polovina 19. stol
+-   ohlasová poezie = dokonalá nábodoba lidové poezie
+    -   ohlas = zpětná vazba
+    -   ohlas písní českých
+    -   ohlas písní ruských
 
 ## Toman a lesní panna
 
-- Ohlas píšní českých
-- První česká balada
+-   Ohlas píšní českých
+-   První česká balada
 
 Příběh:
 
-- Byl zamilovaný, chtěl vyznat svojí lásku
-- Jel přes les a potkal lesní pannu, svedla ho z cesty a zemřel
-- Kuň se vrátil k sestře bez jezdce
+-   Byl zamilovaný, chtěl vyznat svojí lásku
+-   Jel přes les a potkal lesní pannu, svedla ho z cesty a zemřel
+-   Kuň se vrátil k sestře bez jezdce
 
 Domek jedna svíce - metafora
 
@@ -40,31 +40,33 @@ Ohlasová poezie - autor se snaží napsat poezii jakožto lidovou
 
 Sonet - nějaká forma básně, přesně učený počet veršů (4 sloky, 2 sloky čtyř vesršové a 2 sloky tří veršové)
 
-Slávý dcera - alegorie (bohyně), dost proslovanské
-
 dubisko - Rusko
+
+## Ján Kollár
+
+Slávý dcera - alegorie (bohyně), dost proslovanské
 
 # Rukopisy
 
 ## Zelenohorský
 
-- Zařazen do 9.století
-- Přichází list ze Zelené hory na úřady (v něm se skrývá rukopis)
-- Spor mezi dvěma bratry kteří se přou o majetek
-- Nepřízniví výsledek soudu kladou za vinu Libuši
-- "Běda mužům kterým žena vládne"
-- Josef Linde
-- Kritizuje ho i Dobrovský
-- 1880 TGM provadí kritiku z vědeckých oblastí
+-   Zařazen do 9.století
+-   Přichází list ze Zelené hory na úřady (v něm se skrývá rukopis)
+-   Spor mezi dvěma bratry kteří se přou o majetek
+-   Nepřízniví výsledek soudu kladou za vinu Libuši
+-   "Běda mužům kterým žena vládne"
+-   Josef Linde
+-   Kritizuje ho i Dobrovský
+-   1880 TGM provadí kritiku z vědeckých oblastí
 
 ## Královedvorský
 
-- 1817
-- Dvůr Králové
-- Zařazen do 13. století
-- Objeven náhodou při návštěvě kostela
-- Obsahem rukopisu bylo několik lyrických a epických skladeb
-- Václav Hanka
+-   1817
+-   Dvůr Králové
+-   Zařazen do 13. století
+-   Objeven náhodou při návštěvě kostela
+-   Obsahem rukopisu bylo několik lyrických a epických skladeb
+-   Václav Hanka
 
 <style>
 body {
