@@ -1,0 +1,102 @@
+[
+    {
+        "subject": "Čeština",
+        "theme": "Figury a tropy"
+    },
+    {
+        "question": "Co je to metafora?",
+        "answer": "Přenesení významu na základě vnější podobnosti"
+    },
+    {
+        "question": "Co je to personifikace?",
+        "answer": "Přenesení lidských vlastností a činností na neživé věci, zvířata, rostliny"
+    },
+    {
+        "question": "Co je to synestézie?",
+        "answer": "Záměna počitků různých smyslů při pojmenování určitého jevu"
+    },
+    {
+        "question": "Co je to přirovnání?",
+        "answer": "Vzniká porovnáním dvou jevů na základě společné vlastnosti"
+    },
+    {
+        "question": "Co je to oxymóron?",
+        "answer": "Spojuje slova protichůdného významu"
+    },
+    {
+        "question": "Co je to metonymie?",
+        "answer": "Přenesení významu na základě vnitřní spojitosti"
+    },
+    {
+        "question": "Co je to synekdocha?",
+        "answer": "Záměna pojmenování části za pojmenování celku (nepřišla ani noha)"
+    },
+    {
+        "question": "Co je to hyperbola?",
+        "answer": "Zveličení. nadsázka"
+    },
+    {
+        "question": "Co je to eufemismus?",
+        "answer": "Zdrobnělina, zjemnění"
+    },
+    {
+        "question": "Co je to dysfemismus?",
+        "answer": "Opak eufemismu"
+    },
+    {
+        "question": "Co je to ironie?",
+        "answer": "Způsob vyjádření, jehož skutečný význam je opačný"
+    },
+    {
+        "question": "Co je to symbol?",
+        "answer": "Je znak zastupující obecný pojem"
+    },
+    {
+        "question": "Co je to básnický přívlastek (epiteton)?",
+        "answer": "Vyjadřuje subjektivní, citové hodnocení"
+    },
+    {
+        "question": "Co je to aliterace?",
+        "answer": "Opakování hlásek na počátku po sobě následujících slov"
+    },
+    {
+        "question": "Co je to zvukomalba?",
+        "answer": "Seskupení hlásek s cílem vyvolat dojem, představu, či napodobit zvuk"
+    },
+    {
+        "question": "Co je to anafora?",
+        "answer": "Opakování slov nebo celých sousloví na počátku dvou po sobě jdoucích celků"
+    },
+    {
+        "question": "Co je to epifora?",
+        "answer": "Opakování slov nebo celých sousloví na konci dvou po sobě jdoucích celků"
+    },
+    {
+        "question": "Co je to epanastrofa?",
+        "answer": "Opakování slov nebo celých sousloví na konci a na počátku dvou po sobě jdoucích celků"
+    },
+    {
+        "question": "Co je to epizeuxis?",
+        "answer": "Prosté opakování dvou slov za sebou"
+    },
+    {
+        "question": "Co je to antiteze?",
+        "answer": "Opakování slov z významového hlediska protikladných"
+    },
+    {
+        "question": "Co je to apostrofa?",
+        "answer": "Oslovení nepřitomné / neživé věci"
+    },
+    {
+        "question": "Co je to řečnická otázka?",
+        "answer": "Otázka, která nevyžaduje odpověď"
+    },
+    {
+        "question": "Co je to motiv?",
+        "answer": "Nejmenší stavební a významová složka literárního díla"
+    },
+    {
+        "question": "Co je to téma?",
+        "answer": "Je výsek skutečnosti zobrazovaný literárním dílem"
+    }
+]
