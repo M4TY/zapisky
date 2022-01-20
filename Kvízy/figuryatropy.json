@@ -98,5 +98,9 @@
     {
         "question": "Co je to téma?",
         "answer": "Je výsek skutečnosti zobrazovaný literárním dílem"
+    },
+    {
+        "question": "Co je to alegorie?",
+        "answer": "Skrytý význam"
     }
 ]
