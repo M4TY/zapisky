@@ -30,6 +30,7 @@ suchu, dešti, sloty, boty
 zvrhne, přejdem, sejdem
 </pre>
 
+sejdou se na hřbitově - depresivní
 psoty a sloty = nepřízeň počasí
 
 ## Ilija Muromec
@@ -44,7 +45,12 @@ dubisko - Rusko
 
 ## Ján Kollár
 
-Slávý dcera - alegorie (bohyně), dost proslovanské
+Slávý dcera - alegorie (bohyně), dost proslovanské, má očinit křivdy spáchané na slovanech
+
+-   5 částí
+-   Plná znělek (sonetů)
+-   Alegirocká skladba - skrytý význam
+    Sláva - bohyně slovanů
 
 # Rukopisy
 
@@ -66,8 +72,11 @@ Slávý dcera - alegorie (bohyně), dost proslovanské
 -   Zařazen do 13. století
 -   Objeven náhodou při návštěvě kostela
 -   Obsahem rukopisu bylo několik lyrických a epických skladeb
--   Václav Hanka
+-   Václav Hanka (ho měl najít)
 
+# Opakování
+
+-   Rukopisy jsou zfalšované
 <style>
 body {
 background-color: rgb(38, 38, 38);
