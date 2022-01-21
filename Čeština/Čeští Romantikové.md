@@ -13,9 +13,14 @@
 -   Lori Šomková
     -   Jeho snoubenka
     -   matka Máchova syna Ludvíka - zemřel po jednom roce
--   Zemřel chvíli před svatbou
+-   Mácha zemřel chvíli před svatbou
 -   byl žárlivý
--   pomáhal při hašení požáru, oněmocní, zemře
+-   pomáhal při hašení požáru, naprosto vysílen zemře doma v noci
+-   rád kreslil, hlavně sobě oblíbená místa v Máchově kraji
+-   Máchovo jezero je rybník
+-   Na Petříně Máchova socha
+-   Byl pohřben v Litoměřicích, v říjnu roku 1938 převezen na hřbitov na Vyšehradě
+-   Převoz ostatků byl dost honosný, masivní akce
 
 ## Karel Jaromír Erben
 
