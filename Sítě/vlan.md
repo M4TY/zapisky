@@ -9,6 +9,9 @@ switchport access vlan 10
 end
 ```
 
-<footer class="footer">
-<p>&copy; <a href="https://github.com/M4TY" target="_blank"
-rel="noopener noreferrer">Matyáš Himmer</a></p>
+<style>
+body {
+background-color: rgb(38, 38, 38);
+filter: invert(1);
+}
+</style>

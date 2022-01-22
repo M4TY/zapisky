@@ -1,9 +1,10 @@
-[{
+[
+    {
         "subject": "Čeština",
         "theme": "Národní obrození 2"
     },
     {
-        "question": "Kdo napsal Toman a lesní panna",
+        "question": "Kdo napsal Toman a lesní panna?",
         "answer": "František Ladislav Čelakovský"
     },
     {
@@ -20,19 +21,19 @@
     },
     {
         "question": "Jaké ohlasy Čelakovský napsal?",
-        "answer": "ohlas písní českých a ohlas písní ruských"
+        "answer": "Ohlas písní českých a ohlas písní ruských"
     },
     {
-        "question": "Co znamená \"psoty a sloty\"",
-        "answer": "nepřízeň počasí"
+        "question": "Co znamená \"psoty a sloty\"?",
+        "answer": "Nepřízeň počasí"
     },
     {
         "question": "O čem je Ilja Muromec?",
-        "answer": "Mluví se o mladém sokolovi a o mladých jestřábech (sokolem se myslí mladé zvíře a jestřábem dravější zvíře) jestřábi byli Tataři (= psi, zbabělci) začali ho svlékat a okrádat. Muromec zabil Tatary, zabil je kuší a lukem"
+        "answer": "Mluví se o mladém sokolovi a o mladých jestřábech (sokolem se myslí mladé zvíře a jestřábem dravější zvíře) jestřábi byli Tataři (= psi, zbabělci) začali ho svlékat a okrádat. Muromec zabil Tatary, zabil je kuší a lukem. Obět pohřbil"
     },
     {
-        "question": "Co je sonet?",
-        "answer": "forma básně, přesně učený počet veršů (4 sloky, 2 sloky čtyř vesršové a 2 sloky tří veršové)"
+        "question": "Co je to sonet?",
+        "answer": "Forma básně, přesně učený počet veršů (4 sloky, 2 sloky čtyř vesršové a 2 sloky tří veršové)"
     },
     {
         "question": "Jaké známe dva rukopisy?",
@@ -59,15 +60,15 @@
         "answer": "13.století"
     },
     {
-        "question": "Jak a kde byl objeven?",
-        "answer": "Náhodou při návštěve kostela. V Hradci Králové"
+        "question": "Jak a kde byl Královedvorský rukopis objeven?",
+        "answer": "Náhodou při návštěve kostela v Dvoře Králové"
     },
     {
-        "question": "Co je obsahem rukopisu ?",
+        "question": "Co je obsahem rukopisu Královedvorského?",
         "answer": "Několik lyrických a epických skladeb"
     },
     {
-        "question": "Co je bylina ?",
+        "question": "Co je bylina?",
         "answer": "Ruská pověst (žánr ruských epických hrdinských básní)"
     },
     {
@@ -77,5 +78,13 @@
     {
         "question": "Do jakých ohlasových písní patří Toman a lesní panna?",
         "answer": "Patří do Ohlasu písní českých"
+    },
+    {
+        "question": "Co byla první česká balada a kdo ji napsal?",
+        "answer": "Toman a lesní panna - František Ladislav Čelakovský"
+    },
+    {
+        "question": "Kdo kritizoval rukopis Královedvorský i Zelenohorský?",
+        "answer": "TGM"
     }
 ]
