@@ -11,7 +11,7 @@
         "answer": "Byl zamilovaný, chtěl vyznat svojí lásku. Jel přes les a potkal lesní pannu, svedla ho z cesty a zemřel. Kuň se vrátil k sestře bez jezdce"
     },
     {
-        "question": "Co dalsšího napsal Čelakovský?",
+        "question": "Co dalšího napsal Čelakovský?",
         "answer": "Ohlasovou poezii"
     },
     {
@@ -69,5 +69,13 @@
     {
         "question": "Co je bylina ?",
         "answer": "Ruská pověst (žánr ruských epických hrdinských básní)"
+    },
+    {
+        "question": "Do jakých ohlasových písní patří Ilja Muromec ?",
+        "answer": "Patří do Ohlasu písní ruských"
+    },
+    {
+        "question": "Do jakých ohlasových písní patří Toman a lesní panna ?",
+        "answer": "Patří do Ohlasu písní českých"
     }
 ]
