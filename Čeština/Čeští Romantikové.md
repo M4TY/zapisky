@@ -50,6 +50,19 @@
 - Jarmila (milenka Viléma) spáchala sebevraždu, skokem do jezera
 - Hynek je sám autor (on se vidí v těch postavách)
 
+## Křivoklad
+
+- Karel IV
+
+- Obrazy ze života mého
+
+## Další díla
+
+- Večer na Bezdězu
+- Márinka
+- Pouť krkonošská
+- Cikáni
+
 <style>
 body {
 background-color: rgb(38, 38, 38);
