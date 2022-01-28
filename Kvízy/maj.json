@@ -1,0 +1,82 @@
+[
+    {
+        "subject": "Čeština",
+        "theme": "Dílo Máj"
+    },
+    {
+        "question": "Kdo je autorem?",
+        "answer": "Karel Hynek Mácha"
+    },
+    {
+        "question": "Literární druh",
+        "answer": "lyricko-epická báseň"
+    },
+    {
+        "question": "Jak definujeme epiku",
+        "answer": "Má děj, většinou členěna podle obsahu na malou, střední a velkou"
+    },
+    {
+        "question": "Jak definujeme lyriku",
+        "answer": "Nemá děj. Vyjadřuje pocity, nálady, dojmy a myšlenky"
+    },
+    {
+        "question": "Jaké jsou hlavní postavy ?",
+        "answer": "Vilém, Hynek, Jarmila"
+    },
+    {
+        "question": "Kdo je Vilém a co se s ním v příběhu stane?",
+        "answer": "Loupežník který si říká \"stašný lesů pán\". Otec ho kdysi vahnal z domu. Je to typický romantický hrdina == viní společnost a ta ho odsuzuje, lituje se, žije mimo společnost. Je odsouzen za vraždu muže co svedl Jarmilu a nakonec popraven."
+    },
+    {
+        "question": "Kdo je Jarmila a co se s ní v příběhu stane?",
+        "answer": "Je to mladá dívka. Je cudná a nezkušená. Když se dozví o Vilémově smrti sama se utopí v jezeře."
+    },
+    {
+        "question": "Kdo je Hynek?",
+        "answer": "Je symbolem poutníka. Autor se v něm sám ztotožňuje."
+    },
+    {
+        "question": "Kde se děj odehrává",
+        "answer": "Okolí hradu hradu Bezděz."
+    },
+    {
+        "question": "Kolik má báseň Intermezz a zpěvů",
+        "answer": "2 Intermezza a 4 zpěvy"
+    },
+    {
+        "question": "Co je Intermezzo?",
+        "answer": "Mezihra, vsuvka"
+    },
+    {
+        "question": "Děj prvního zpěvu",
+        "answer": "Oslava máje pospis krásné májové přírody. Jarmila čeké na svého milého u břehu jezera, ale místo něj připluje na loďce Hynek, ten pro ní má zprávu, že má být Vilém druhého dne popraven za vraždu Jarmilina svůdce. Jarmila skočí do jezera a utopí se."
+    },
+    {
+        "question": "Děj druhého zpěvu",
+        "answer": "Vilém ve vězení přemýšlí a sám sebe přesvedčuje že to není jeho chyba. Dozvídá se že muž kterého zabil byl jeho otec, který ho kdysi vyhodil z domu a kvůli tomu se stal vůdcem loupežníků. Počítá padající kapky jakoby by počítal čas. Svůj příběh vypráví žalářníkovi ten se už nikdy neusmál."
+    },
+    {
+        "question": "I. Intermezzo",
+        "answer": "Na popravišti čeká sbor duchů. Ti si připravují na to kdo co udělá při přípravě jeho pohřbu. Zároveň vysvětlují, že ten kdo je jako poslední zemřelý je také stává se také strážcem hřbitova a dokud ho nevystřídá další mrtvý."
+    },
+    {
+        "question": "Děj třetího zpěvu",
+        "answer": "Vilém se obává co bude po smrti a loučí se s přírodou kterou už nikdy neuvidí. Je popraven setnutím hlavy. Jeho tělo je vpleteno do kola a jeho hlava je pro výstrahu nechána na popravišti."
+    },
+    {
+        "question": "II. Intermezzo",
+        "answer": "Vilémovi spolu-loupežníci sedí potichu kolem ohně. Jsou nešťastní ze ztráty svého vůdce."
+    },
+    {
+        "question": "Děj čtvrtého zpěvu",
+        "answer": "Do vesnice se vrací sá autor po sedmi letech poslední den v roce. V hospodě se dozvídá příběh. Děj končí je ztotožněním se s dějem => \"Hynku! Viléme! Jarmilo!\"."
+    },
+    {
+        "question": "Jaký typ vypravěče je v básni použit? (er, ich)",
+        "answer": "Po celou dobu er-forma, ale na konci u ztotožnění s dějem je použita ich-forma."
+    },
+    {
+        "question": "Vliv díla",
+        "answer": "Ovlivnilo májovce, máj považován za první moderní báseň. Kritika náboženství a boha, který připustil smrt dvou mladých lidí."
+    }
+]
