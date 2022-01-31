@@ -1,0 +1,22 @@
+[
+    {
+        "subject": "Čeština",
+        "theme": "Rýmy"
+    },
+    {
+        "question": "ABAB",
+        "answer": "Verš střídavý"
+    },
+    {
+        "question": "AABB",
+        "answer": "Verš sdružený"
+    },
+    {
+        "question": "ABBA",
+        "answer": "Verš obkročný"
+    },
+    {
+        "question": "ABCB",
+        "answer": "Verš přerývavý"
+    }
+]
