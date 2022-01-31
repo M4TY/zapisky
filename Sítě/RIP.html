@@ -1,0 +1,54 @@
+<h1>RIP</h1>
+<ul>
+<li>Routing Information Protocol</li>
+<li>Používá k výměně informací UDP packety</li>
+<li>Routovací informace se zasílají kazdých 30s (advertising) nebo při změně topologie</li>
+<li>Timeout 240s =&gt; packet je odebrán z routovacích tabůlek</li>
+<li>nepoužívá se, RIPv2</li>
+<li>Je založený na vzdálenosti vektorové strategii</li>
+<li>Cena metriky je počet hopů k destinaci<ul>
+<li>Není ideální řešení</li>
+</ul>
+</li>
+<li>Nekonečno definováno jako 16 =&gt; vhodný pro malé sítě</li>
+</ul>
+<h2>Nevýhody RIP</h2>
+<ul>
+<li>HOP count není ideální metrika</li>
+<li>Nepodporuje VLSM, je classfull routing protocol</li>
+<li>Broadcastuje routovací tabulku do celé sítě<ul>
+<li>Zahlcování sítě</li>
+</ul>
+</li>
+<li>Pomalá konvergence - při selhání trvá minutu stabilizovat novou cestu</li>
+<li>Maximální vzdálenost 15 hopů</li>
+<li>Není spolehliv</li>
+</ul>
+<h2>Výhody RIP</h2>
+<ul>
+<li>Nenáročný na nastavení</li>
+</ul>
+<h2>Konfigurace</h2>
+<ul>
+<li>Povolení RIP protokolu</li>
+</ul>
+<pre><code>(config)# router rip
+
+
+</code></pre>
+<ul>
+<li>Zapnutí verze 2 RIP</li>
+</ul>
+<pre><code>(config-router)# version 2
+
+</code></pre>
+<pre><code>(config-router)# no auto-summary
+</code></pre>
+<ul>
+<li>Určení sítí, které má RIP spravovat (maska není potřeba)</li>
+</ul>
+<pre><code>(config-router)# network X.X.X.X
+</code></pre>
+<p>Nastavení propagace default gatewaye</p>
+<pre><code>(config-router)# default-information originate
+</code></pre>
