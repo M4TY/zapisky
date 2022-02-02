@@ -92,6 +92,62 @@
 -   Ženě to tahá srdce a sama spáchá sebevraždu skokem do řeky
 -   Je pohřbena na břehu
 -   Namísto náhrobku nad jejím hrobem spočívá jen obrovský kámen
+
+## Záhořovo lože
+
+-   Poutník spěchá v mnišském hábitu na západ
+-   Přichází do lesa, kde obr přepdává pocestné
+-   Vyřití se na poutníka a zeptá se ho kam jde
+-   Odpovídá do pekla, protože se otec upsal za synovu duši ještě před tím než se narodil
+-   Obr poutníka propouští pod pomínkou, že mu řekne, co v pekle viděl
+-   Po roce se vrací
+-   Satan mu prý nechtěl dát zápis, musel mu Lucifer pohrozit, že ho jinak vloží do Záhořova lože
+-   Tu se obr zachvěl, protože Záhoř je jeho jméno
+-   Obr se zpovídá ze svých vražd a prosí o pomoc
+-   Poutník zarazí obrův kyj do skály; obr má činiti na tom místě pokání.
+-   Uplyne devadesát let a poutník se vrací jako biskup na místo, kde se potkal s Záhořem
+-   Provází ho jinoch, kterého biskup pošle aby utrhl jablko
+-   Temný hlas mu v tom ale brání
+-   Biskup vidí, že jabloň vyrostla z obrova kyje
+-   Poznává Záhoře a dá mu odpuštění
+-   Pak v jednom okamžiku oba zemřou a jako dvě holubice se vznášejí k nebi
+
+## Vodník
+
+(bude doplněn)
+
+## Vrba
+
+-   Jedna žena byla přes den normální jako každý jiný
+-   V noci byla však studená a vypadala jako mrtvá
+-   Manžel se šel poradit k bábě, zda se jedná o nemoc
+-   Bába mu povídá, že jeho žena má jen půl živobytí - přes den je jeho paní, v noci vrbou
+-   Manžel přijde k vrbě a pozdraví jí
+-   V tu chvíli žena zemře, manžel se ptá co má dělat
+-   Vrba mu odvěti z jejího proutí udělat kolébku, ať je k synovi co nejlbíže
+
+## Lilie
+
+-   Umírá mladá dívka, která nechtěla být pochováná na hřbitově ale u lesa
+-   Jeji přání bylo splněno
+-   Na jejím hrobu po čase roste krásná lilie
+-   Mladému králi se lilie líbíla a nechal ji přemístit k sobě do zámecké zahrady
+-   Jednou v noci se lilie proměnilav dívku a král se do ní zamiloval, měli svatbu
+-   Porodila mu dítě
+-   Když však král odjel do boje, jeho matka dítě zabila a lilie zvadla. Král za to svou matku proklel
+
+## Dceřina kletba
+
+-   Matka se smutné dcery ptá co ji je
+-   Ona se ji přizná, že zabila své nemanželské dítě
+-   Matka se jí ptá, jak chce uklidnit hněv boha a napravit chybu
+-   Dcera odvětí, že se půjde oběsit na popraviště
+-   Svému milovanému přeje, aby se mu zle vedlo
+-   Matce, za to že ji ve výchově nechávala příliš vůle a svobody zanechává kletbu, aby neměla po smrti klid
+
+## Věštkyně
+
+-   Jedná se o závěrečnou báseň sbírky, je považována za její myšlenkový vrchol. Ožívají v ní dávná proroctví, pojednává o budoucnosti českého národa, o věštkyni, která věští o Přemyslu Oráčovi, Libuši a jiných historických událostech českého národa. Ve sbírce je tematicky blízko první básni Kytice, jako vlastenecká báseň s výrazným prvkem lidové slovesnosti vytvářející rámec díla.
 <style>
 body {
 background-color: rgb(38, 38, 38);
