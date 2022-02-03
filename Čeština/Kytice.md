@@ -1,27 +1,31 @@
-# Karel Jaromír Erben Kytice
+## Karel Jaromír Erben
 
--   Literární druh
-    -   lyriko-epika
--   Žánr
-    -   Balada
--   Doba
-    -   Národní obrození, 2.polovina 19.století
+-   Kytice - Erben "svázal" básně
+    -   Matka = česká země
+    -   Siroty = český národ
+-   Texty vytvořeny na základě pověstí
 
 # Příbehy
 
--   Kytice
--   Poklad
--   Svatební košile
--   Polednice
--   Zlatý kolovrat
--   Štědrý den
--   Holoubek
--   Záhořovo lože
--   Vodník
--   Vrba
--   Lilie
--   Dceřina kletba
--   Věstkyně
+1.  Kytice
+2.  Poklad
+3.  Svatební košile
+4.  Polednice
+5.  Zlatý kolovrat
+6.  Štědrý den
+7.  Holoubek
+8.  Záhořovo lože
+9.  Vodník
+10. Vrba
+11. Lilie
+12. Dceřina kletba
+13. Věstkyně
+
+První a poslední nejsou balada
+
+Kompozičnost = Jedna balada zepředu a zezadu mají stejné prvky (1 a 13, 2 a 12...)
+
+Etičnost = Ve všech baladách je etický princip, překročí zákon společnosti a pykají za to (např Poklad, poruší mateřskou lásku)
 
 ## Kytice
 
@@ -57,6 +61,7 @@
 -   Chytí své dítě do náruče a brání jej, mačká ho tak silně, že ho udusí
 -   Když Polednice viděla, že chlapec je už mrtev, otočila se a odešla
 -   Manžel přichází domu a vidím brečící ženu nad bezvládným tělem
+-   _Strašák pro děti, ale i pro dospělé protože měli mít ve 12 hodin navařeno_
 
 ## Zlatý kolovrat
 
