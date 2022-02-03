@@ -119,7 +119,14 @@ Etičnost = Ve všech baladách je etický princip, překročí zákon společno
 
 ## Vodník
 
-(bude doplněn)
+-   Matka varuje dceru aby nechodila k jezeru
+-   Ta ji neposlechne a na jezeru se pod ní propadne lávka
+-   V jezeře je donucena se vdát za vodníka
+-   Po čase spolu mají syna
+-   Žena po nějaké době prosí vodníka o propuštění na návštěvu za matkou
+-   Po dlouhém přemlouvání ji pustí, ale má podmínku "od klekání do klekání" a pro jistotu si nechá jejich dítě v jezeře
+-   Žena běží přímo za matkou, dlouho si povídají a ona ji pak po klekání nechce pustit zpátky
+-   Vodník si pro svou ženu nakonec přijde a když ani potřetí nepovolí, tak na prahu jejich domu zabije jejich dítě
 
 ## Vrba
 
