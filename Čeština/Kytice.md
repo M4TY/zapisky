@@ -4,6 +4,7 @@
     -   Matka = česká země
     -   Siroty = český národ
 -   Texty vytvořeny na základě pověstí
+-   určeno pro jeho děti a nás
 
 # Příbehy
 
@@ -87,6 +88,7 @@ Etičnost = Ve všech baladách je etický princip, překročí zákon společno
 -   Marie vidí kostel a rakev
 -   Vidění bylo pravdivé, Hana se vdá a Marie umírá
 -   Po roce děvčata zase předou, ale bez Hany a Marie
+-   Dívky se zpronevěří křesťanství tím že využijí pohanský zvyk
 
 ## Holoubek
 
