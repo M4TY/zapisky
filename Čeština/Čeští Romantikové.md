@@ -23,6 +23,12 @@
 - Převoz ostatků byl dost honosný, masivní akce
 
 ## Karel Jaromír Erben
+- Pohádky
+  - O rozumu a štěstí
+  - O dívce se zlatými vlasy (Zlatovláska)
+  - Dlozhý, široký a bystrozraký
+- Sbíral pověsti (lidovou slovesnost)
+  - Různým způsobem zpracovával na pohádky nebo balady (Balada je báseň s pochmůrným dějem a tragickým koncem)
 
 ## Josef Kajetán Tyl
 
