@@ -28,6 +28,10 @@ Kompozičnost = Jedna balada zepředu a zezadu mají stejné prvky (1 a 13, 2 a 
 
 Etičnost = Ve všech baladách je etický princip, překročí zákon společnosti a pykají za to (např Poklad, poruší mateřskou lásku)
 
+"Kytice" - sesbíral květiny na dávne mohyle
+
+Inspiruje se lidovými pověstmi - Erben sbíral lidovou poezii
+
 ## Kytice
 
 -   Je to úvodní balada
