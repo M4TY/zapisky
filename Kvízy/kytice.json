@@ -20,8 +20,8 @@
         "answer": "Ve většině balad je hlavní postava potrestána za to že poruší nějaký etický, křesťanský nebo jiný podobný zákon (např. mateří lásku atd..)"
     },
     {
-        "question": "Která básní je v díle?",
-        "answer": "Všechna"
+        "question": "Kolik básní je v díle?",
+        "answer": "Všechny jsou básně"
     },
     {
         "question": "Co je to balada?",
@@ -45,10 +45,22 @@
     },
     {
         "question": "Která báseň poukazuje na český národ?",
-        "answer": "Kytice"
+        "answer": "Kytice, Věštkyně"
     },
     {
         "question": "Ve které básni se objevují české pověsti?",
         "answer": "Věštkyně"
+    },
+    {
+        "question": "Ve které básni se stane něco špatného kvůli pochybení matky?",
+        "answer": "Lilie, Dceřina kletba, Poklad, Polednice, "
+    },
+    {
+        "question": "Ve které z básní se snaží postava odčinit (odprosit) své špatné činy?",
+        "answer": "Poklad, Záhořovo lože"
+    },
+    {
+        "question": "Ve kterých z básní je někdo pohřben mimo hřbitov?",
+        "answer": "Lilie, Holoubek"
     }
 ]
