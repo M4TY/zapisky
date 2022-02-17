@@ -69,6 +69,8 @@
         -   Kutnoshorští havíři
         -   Krvavý soud
         -   Jan Hus
+-   Sentimentalismus - literární směr - soustředí se na emoce
+-   Fraška - přehnaná komedie
 
 ### Kajetánské Divadlo
 
