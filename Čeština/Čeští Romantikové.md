@@ -32,7 +32,7 @@
 -   Sbíral pověsti (lidovou slovesnost)
     -   Různým způsobem zpracovával na pohádky nebo balady (Balada je báseň s pochmůrným dějem a tragickým koncem)
 
-### Zlatovláska
+### Zlatovláska
 
 -   O králi který dostane od bábi dostane hada
 -   Král si nechá hada, aby rozumněl zvířatům
@@ -48,7 +48,7 @@
 -   Zlatovláska ho oživí pomocí živé vody a on nejen ožije ale i omládne
 -   Král to chce taky a nechá si setnout hlavu ale jeho už nikdo neoživí
 
-## Dlouhý široký a bystrozraký
+### Dlouhý široký a bystrozraký
 
 -   Král chce ženu tak jde do věže kde je 12 obrazů s pannami
 -   Vybere si jednu, která je zakrytá a je prokletá černokněžníkem
@@ -63,7 +63,7 @@
 -   Nestíhají se vrátit, tudíž princeznu hodí oknem a stihnou to těsně před příchodem stráží
 -   Končí svatbou
 
-## Hrnečku vař
+### Hrnečku vař
 
 -   Vdova chodí v létě do lesa a na trh prodávat vejce
 -   Vdova onemocní a aktivity musí dělat dcera
@@ -78,7 +78,7 @@
 -   Dcera se vrací a zakřičí hrnečku dost
 -   Obyvatelé vesnice se musí prokousávat kaší
 
-## Tři zlaté vlasy děda vševěda
+### Tři zlaté vlasy děda vševěda
 
 -   Jde o krále který je spokojený, ale nemá děti
 -   Jde do lesa kde zabloudí a v chýši najde uhlíře, kterého prosí o cestu. Ten čeká dítě a nemůže
