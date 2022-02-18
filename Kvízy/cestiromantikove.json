@@ -8,43 +8,83 @@
         "answer": "Ignác"
     },
     {
-        "question": "Víme jak vypadal ?",
+        "question": "Víme jak Mácha vypadal ?",
         "answer": "NE"
     },
     {
-        "question": "Kdo ruzluštil jeho deníky ?",
+        "question": "Kdo ruzluštil Máchovy deníky ?",
         "answer": "Jakub Arbes"
     },
     {
-        "question": "Jak psal své deníky?",
+        "question": "Jak psal Mácha své deníky?",
         "answer": "Řeckou abecedou zprava doleva"
     },
     {
-        "question": "Co si do deníků psal ?",
+        "question": "Co si do deníků Mácha psal?",
         "answer": "Osobní a divadelní život"
     },
     {
-        "question": "Jak se jmenovala jeho snoubenka ?",
+        "question": "Jak se jmenovala Máchova snoubenka?",
         "answer": "Lori Šimková"
     },
     {
-        "question": "Kdy a v kolika Mácha zemřel ?",
+        "question": "Kdy a v kolika Mácha zemřel?",
         "answer": "Zemřel chvíli před svatbou, ve 25 letech (1810 - 1836)"
     },
     {
-        "question": "Za jakých okolností zemřel ?",
+        "question": "Za jakých okolností Mácha zemřel?",
         "answer": "Pomáhal při požáru, naprosto vysílen zemřel doma"
     },
     {
-        "question": "Byl žárlivý ?",
+        "question": "Byl Mácha žárlivý?",
         "answer": "ANO"
     },
     {
-        "question": "Co rád kreslil",
+        "question": "Co rád Mácha kreslil",
         "answer": "Zříceniny a Máchovu krajinu"
     },
     {
-        "question": "Je Máchovo jezero opravdu jezero ?",
+        "question": "Je Máchovo jezero opravdu jezero?",
         "answer": "Ne je to rybník"
+    },
+    {
+        "question": "V jakém divadle hrál Tyl?",
+        "answer": "V Kajetánském divadle na Malé straně"
+    },
+    {
+        "question": "Co je to sentimentalismus?",
+        "answer": "Literární směr, který se soustředí na emoce"
+    },
+    {
+        "question": "Kdo založil Květy české?",
+        "answer": "Tyl"
+    },
+    {
+        "question": "Kdo byl dramaturgem Stavovského divadla?",
+        "answer": "Tyl"
+    },
+    {
+        "question": "Jak zemřel Tyl?",
+        "answer": "Při staci kočovného divadla"
+    },
+    {
+        "question": "Je Máchovo jezero opravdu jezero?",
+        "answer": "Ne je to rybník"
+    },
+    {
+        "question": "Co je to fraška?",
+        "answer": "Komedie s vytyčenými komediálními rysy"
+    },
+    {
+        "question": "Od kdy do kdy bylo aktivní Kajetánské divadlo?",
+        "answer": "1834 - 1835"
+    },
+    {
+        "question": "Do jakých rolí byl Tyl obsazován?",
+        "answer": "Rolí milovníků"
+    },
+    {
+        "question": "Hrál tyl pod pseudonymem?",
+        "answer": "Ano"
     }
 ]
