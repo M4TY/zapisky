@@ -84,7 +84,47 @@
         "answer": "Rolí milovníků"
     },
     {
-        "question": "Hrál tyl pod pseudonymem?",
+        "question": "Hrál Tyl pod pseudonymem?",
         "answer": "Ano"
+    },
+    {
+        "question": "Kdy se narodil a kdy zemřel Karel Jaromír Erben?",
+        "answer": "1811 - 1870"        
+    },
+    {
+        "question": "Co Erben sbíral?",
+        "answer": "Lidovou poezii a pohádky."
+    },
+    {
+        "question": "Jakou poezii napsal Erben?",
+        "answer": "Sbírku balad Kytici."
+    },
+    {
+        "question": "Jaké pohádky napsal Erben?",
+        "answer": "Zlatovláska - Hrnečku vař - Dlouhý, Široký, a bystrozraký."
+    },
+    {
+        "question": "Jak vznikla Kytice?",
+        "answer": "Sjednotením lidových pověstí."
+    },
+    {
+        "question": "Kdo napsal Hrnečku vař?",
+        "answer": "Erben"
+    },
+    {
+        "question": "Kdo napsal Zlatovlásku?",
+        "answer": "Erben"
+    },
+    {
+        "question": "Je Kytice sbírka pohádek?",
+        "answer": "Ne, je to sbírka balad."
+    },
+    {
+        "question": "Napsal Dlouhý, široký a bystrozraký Tyl?",
+        "answer": "Ne, napsal to Erben"
+    },
+    {
+        "question": "Kdo byl Erben?",
+        "answer": "Český romantický básník a archivář."
     }
 ]
