@@ -1,0 +1,66 @@
+[
+    {
+        "subject": "Čeština",
+        "theme": "Dílo Kytice"
+    },
+    {
+        "question": "Kdo je autorem?",
+        "answer": "Karel Jaromír Erben"
+    },
+    {
+        "question": "Proč název Kytice?",
+        "answer": "Svázal básně"
+    },
+    {
+        "question": "Co je kompozičnost díla?",
+        "answer": "Jsou spolu vždy nějak tématicky nebo dějově spojeny první a poslední balada (např. 1 a 13, 2 a 12.....)"
+    },
+    {
+        "question": "Co je etičnost díla?",
+        "answer": "Ve většině balad je hlavní postava potrestána za to že poruší nějaký etický, křesťanský nebo jiný podobný zákon (např. mateří lásku atd..)"
+    },
+    {
+        "question": "Kolik básní je v díle?",
+        "answer": "Všechny jsou básně"
+    },
+    {
+        "question": "Co je to balada?",
+        "answer": "Balada má pochmurný děj a tragický konec"
+    },
+    {
+        "question": "Kolik balad je v díle?",
+        "answer": "11"
+    },
+    {
+        "question": "V kterých básních se jedná o porušení náboženských zákonů?",
+        "answer": "Svatební košile, Štědrý večer"
+    },
+    {
+        "question": "V kterých básních se jedná o neuposlechnutí matky?",
+        "answer": "Polednice, Vodník"
+    },
+    {
+        "question": "Která báseň je spojena s Velkým pátkem?",
+        "answer": "Poklad"
+    },
+    {
+        "question": "Která báseň poukazuje na český národ?",
+        "answer": "Kytice, Věštkyně"
+    },
+    {
+        "question": "Ve které básni se objevují české pověsti?",
+        "answer": "Věštkyně"
+    },
+    {
+        "question": "Ve které básni se stane něco špatného kvůli pochybení matky?",
+        "answer": "Lilie, Dceřina kletba, Poklad, Polednice, "
+    },
+    {
+        "question": "Ve které z básní se snaží postava odčinit (odprosit) své špatné činy?",
+        "answer": "Poklad, Záhořovo lože"
+    },
+    {
+        "question": "Ve kterých z básní je někdo pohřben mimo hřbitov?",
+        "answer": "Lilie, Holoubek"
+    }
+]

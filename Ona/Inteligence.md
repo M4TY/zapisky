@@ -40,6 +40,32 @@
 -   120 je nadprůměr
 -   69 je hodně bad
 
+## Člověk
+
+Dovednost - dispozice k vykonávání určitě činnosti
+
+Kreativita - tvořivost - něco nového
+
+Vědomost - učením osvojený poznatek
+
+Návyk - opakováním získaných sklon k vykonávání určitě činnosti /zautomatizováno/
+
+## Charakter
+
+-   Souhrn psychických vlastností
+-   Projev mravní stránka chování a jednání
+
+-   Vztah člověka
+    -   K ostatním lidem
+    -   K práci
+    -   K přírodě
+    -   K sobě samému
+-   Formování díky výchově, společenským jevům
+
+## Pojmy související s charakterem
+
+-   Charakter = Emoční inteligence
+
 ## Stupně retardace
 
 1.  Lehká mentální retardace (debilita)
