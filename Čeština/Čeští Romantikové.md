@@ -196,12 +196,76 @@
 
 # Opakování
 
-Mácha
+## Mácha
 
-<style>
-body {
-background-color: rgb(38, 38, 38);
-/* Dat na 0 v případě, že chci upravovat. Nechat na 1, když printuju document */
-filter: invert(1);
-}
-</style>
+-   neznámé jeho podobu
+-   psal si vlastní deník (Arbes ho rozšifroval)
+-   zemřel mladý
+-   jmenoval se Ignác ale později jméno pustil a vzal si Hynek
+-   je podle ně pojmenovaný Máchův kraj (severně od Prahy, Bezděz, Máchovo jezero)
+-   Máchovo jezero (název kvůli díle Máj, kde se utopila Jarmila) je rybník
+-   zamýšlel napsat soubor Kat, ale napsal jsen Křivoklad
+-   Rád maloval zříceniny
+-   Měl snoubenku Lori Šomkovou
+-   Zemřel těsně před svatbou
+-   Jeho syn zemřel ani ne v jednom roku
+-   Byl žárlivý, zakazoval ji opoštěj domov jeho rodičů
+-   Chtěli se přestěhovat do Litoměřic, byl tam pohřben
+-   v 1938 ho převezli ze sudet na Vyšehrad na Slavín
+-   Další díla Večer na Bezdězu, Cikání
+-   Soubor ze života mého: Marinka a Večer na Bezdězu
+-   Večer na bezdězu:
+    -   Odehrává se to večer
+    -   Nesa žene košík a v něm je rakvička s dítětem
+-   Marinka:
+    -   Je platonicky(duševně) zamilovaná do umělce
+-   Na Petříně má sochu (nejvíce navštěvovaná v máji)
+-   Dát si pusu pod kvetoucí třešní
+
+## Erben
+
+a- Sbíral lidovou slovesnost
+
+-   Zlatovláska, Tři vlasy dědavševěda, Hrnečeku vař, dlouhý široký a bystrozraký
+-   Hrnečku vař:
+    -   Hrnečku dost
+    -   Sedláci se museli prkoousat kaší
+-   Tři zlaté vlasy děda vševěda:
+    -   Jiří po ochutnání hada rozuměl zvířečí řeči
+    -   Na omlazení je potřeba umřít a živá a mrtvá voda (Nejdřív mrtvá voda a pak živá)(v praxi toto není možné :D)
+    -   Král chtěl nechat Plaváčka zneškodnit (utopit, popravit, posláním k dědovi vševědovi)
+-   Dlouhý, široký a bystrozraký:
+    -   Dlouhý uměl rychle chodit
+    -   Široký uměl pít vodu
+    -   Bystrozraký všechno viděl
+
+## Tyl
+
+-   Kočovné divadlo
+-   Dramatik - píše hry
+-   Dramaturg - program divadel
+-   Je autorem dramatický báchorek(pohádek)
+-   Strakonický dudák:
+    -   Znaky báchorky: nadpřirozené bytosti - lesní panna (jeho matka)
+    -   Začarovala mu dudy
+    -   Jižní čechy jsou proslulé hraním na dudy
+-   Fidlovačka:
+
+    -   Není příliš dobrá hra, ale úžasností je hymna
+    -   Kde domov můj - původně 2 sloky
+    -   První sloka o české kráse (příroda)
+    -   Druhá sloka o lidech (jací jsou)
+    -   Autorem slov: Josef Kajetán Tyl
+    -   Autorem hudby: František Škroup
+    -   Téma obrozenecké
+    -   Správný čech má dobře mluvit česky
+    -   Nástroj na vydělávání (dělat kůži)
+    -   Ševcovské slavnosti
+
+    <style>
+      body {
+      background-color: rgb(38, 38, 38);
+      /* Dat na 0 v případě, že chci upravovat. Nechat na 1, když printuju document */
+      filter: invert(1);
+      }
+      </style>
