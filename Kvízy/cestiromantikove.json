@@ -36,8 +36,16 @@
         "answer": "Pomáhal při požáru, naprosto vysílen zemřel doma"
     },
     {
+        "question": "V kolika letech zemřel Máchův syn?",
+        "answer": "Ani ne v jednom roce"
+    },
+    {
         "question": "Byl Mácha žárlivý?",
         "answer": "ANO"
+    },
+    {
+        "question": "Kdy a kam byly Máchovi ostatky převezeny?",
+        "answer": "V roce 1938 ho převezli ze sudet na Vyšehrad na Slavín"
     },
     {
         "question": "Co rád Mácha kreslil",
@@ -62,6 +70,10 @@
     {
         "question": "Kdo byl dramaturgem Stavovského divadla?",
         "answer": "Tyl"
+    },
+    {
+        "question": "Jaký je rozdíl mezi dramaturgem a dramatikem?",
+        "answer": "Dramatik píše hry, Dramaturg připravuje program divadel"
     },
     {
         "question": "Jak zemřel Tyl?",
