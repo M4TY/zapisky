@@ -59,3 +59,10 @@ Druhy:
 ## Postoje
 
 - Skolny člověka reagovat
+
+<style>
+  body {
+  background-color: rgb(38, 38, 38);
+  filter: invert(1);
+  }
+  </style>
