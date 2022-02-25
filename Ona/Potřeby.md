@@ -13,11 +13,26 @@
 -   Biologické (primární, vrozené)
     -   např.: potřeba bezpečí, dýchání, spánku....
 -   Sociální (získané)
+
     -   kulturní
         -   např.: vzdělávání...
     -   psychické
         -   např.: radost, štěstí, láska...
 
+-   Seberealizace
+-   Potřeba úcty
+-   Potřbea lásky
+-   Potřeba bezpečí
+-   Fyziologické potřeby
+
+## Druhy motivů
+
+-   Pud
+-   Zájem
+-   Aspirace (ambice)
+-   Cíl
+-   Ideály
+-   Zvyk
 <style>
  body {
  background-color: rgb(38, 38, 38);
