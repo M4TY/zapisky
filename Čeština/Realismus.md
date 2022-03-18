@@ -14,13 +14,14 @@
 
 -   Lyrický subjket vypráví ze svého života
 -   Vypráví měsíčku co se mu vše stalo
+-   Vysmívá se Rakousku
 -   Co se mu stalo:
     -   Byl zatčen o půl třetí ráno
     -   Kritizoval rakouskou nadvládu, přišli si pro něho
     -   Naloží ho do vozu a odvezou ho do Brixenu (dnes Itálie, tehdy Rakousko)
     -   Držteli ho tam několik let báli se aby se nedoslal ke slovu
     -   Udájně se měli na cestě splašit koně a on se měl zachovat jako hrdina
-    -   Je to satirické až na dva momenty: Při zatýkání a po cestě
+    -   Je to satirické až na dva momenty: Při zatýkání kvůli rodině a po cestě když je okolo kostela
 
 ## Realistický hrdina
 
