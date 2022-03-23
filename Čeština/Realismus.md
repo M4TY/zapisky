@@ -39,6 +39,28 @@
 -   Vrchol je 8. zpěv kde je příhoda se splašenými koni
 -   V 9. zpěvu je popsán příjezd do Brixenu
 
+## Zpěvy
+-   I. Zpěv
+    -   Promluva k měsíci
+-   II. Zpěv
+    -   Probuzen policisty, nucen odejít do exilu
+-   III. Zpěv
+    -   Přibližuje obsah soudního řízení
+-   IV. Zpěv
+    -   Popis nátlaku který na něj vyvíji komisař Dedera
+-   V. Zpěv
+    -   Loučení s rodinou
+-   VI. Zpěv
+    -   Popis míst která se mu vzdalují
+-   VII. Zpěv
+    -   Popis cesty přes Alpy
+    -   Popis svých myšlenek
+-   VIII. Zpěv
+    -   Problémy na voze
+    -   Výsměch satirické poznámky
+-   IX. Zpěv
+    -   Příjezd do Brixenu
+
 ## Realistický hrdina
 
 -   Oproti romantickému hrdinovi je naprosto typický a jedná se o obyčejného člověka
