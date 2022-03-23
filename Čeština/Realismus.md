@@ -10,8 +10,11 @@
 
 -   Elegie: žalozpěv
 
-### Tyrolské Elegie
+# Tyrolské Elegie
 
+-   Literární druh : Epika (veršovaná skladba, má děj)
+-   Literární žánr : Satirická báseň
+-   Elegir == žalozpěv
 -   Lyrický subjket vypráví ze svého života
 -   Vypráví měsíčku co se mu vše stalo
 -   Vysmívá se Rakousku
@@ -22,6 +25,19 @@
     -   Držteli ho tam několik let báli se aby se nedoslal ke slovu
     -   Udájně se měli na cestě splašit koně a on se měl zachovat jako hrdina
     -   Je to satirické až na dva momenty: Při zatýkání kvůli rodině a po cestě když je okolo kostela
+    -   Končí tám že Borovský dojede na místo (Brixen) a povzdechne si že tam musí zůstat
+
+-   Popisuje svůj odjezd do vyhnanství, loučení s rodinou
+-   Vlastně ani nevěděl kam jede nebo jestli se ještě někdy vrátí. Na cestě ho provázeli policisté a komisař Dedera
+-   Sebrali ho proto že se nehodil Bachovi. Borovský byl proti Bachovu absolutismu
+-   Vyvrcjolením příběhu je příhoda která se stala při přechodu přes Alpy. Kočár se řítí po příkré cestě a všichni strážci z něj vyskákali, když jim Borovský připoměl příběh o Jonášovi z Bible. Jen "hříšník" Borovský měl čisté svědomí a dojel v kočáru na poštu kde stačil povečeřet a počkal až ho doženou pochroumaní strážci. Samozřejmě si neodpustil ani pár satirických poznámek na režim který chce na šňůrce vodit všechny národy, ale nedokáže ukočírovat ani čtyři koně.
+
+## Kompozice
+-   Devět zpěvů
+-   Úvod tvoří verš méně známé lidové písně z Chrudimska
+-   Dále příběh pokračuje jeho zatčením.....
+-   Vrchol je 8. zpěv kde je příhoda se splašenými koni
+-   V 9. zpěvu je popsán příjezd do Brixenu
 
 ## Realistický hrdina
 
