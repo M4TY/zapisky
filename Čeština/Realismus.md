@@ -14,7 +14,7 @@
 
 -   Literární druh : Epika (veršovaná skladba, má děj)
 -   Literární žánr : Satirická báseň
--   Elegir == žalozpěv
+-   Elegie == žalozpěv
 -   Lyrický subjket vypráví ze svého života
 -   Vypráví měsíčku co se mu vše stalo
 -   Vysmívá se Rakousku
