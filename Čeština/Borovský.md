@@ -54,6 +54,13 @@
     -   Múzám
     -   Králi
 
+## Král Lávra
+-   Má oslí uši. Nechce aby to nikdo věděl
+-   Každý rok vybere holiče kterého po práci následně nechá popravit
+-   Jeden holič se s tím, ale šel svěřit vrbě a pošeptal to do ní
+-   Následně si z této vrby vyrobí hudebník kolíček 
+-   Pak hraje na zámku ale ta basa s tím kolíčkem začne vyprávět pravdu
+
 ## Satirické skladby
 
 -   Král Lávra
