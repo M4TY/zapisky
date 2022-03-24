@@ -56,10 +56,12 @@
 
 ## Král Lávra
 -   Má oslí uši. Nechce aby to nikdo věděl
--   Každý rok vybere holiče kterého po práci následně nechá popravit
--   Jeden holič se s tím, ale šel svěřit vrbě a pošeptal to do ní
--   Následně si z této vrby vyrobí hudebník kolíček 
+-   Každý rok vylosuje holiče kterého po práci následně nechá popravit
+-   Jeden kadeřník krále ostříhal a přimluvila se za něj matka že ho bude stříhat jenom on a proto ho král nezabil
+-   Pak se s tím, ale šel svěřit vrbě a pošeptal to do ní
+-   Pan Červíček ztratil cestou na bál kolíček a proto si z této vrby vyrobil nový
 -   Pak hraje na zámku ale ta basa s tím kolíčkem začne vyprávět pravdu
+-   Vyústilo to tak že to každému bylo jedno a všichni v pohodě přijali že má oslí uši
 
 ## Satirické skladby
 
