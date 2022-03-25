@@ -40,7 +40,7 @@
 ## Epigramy
 
 -   Krátká básnická skladba (třeba jen dva verše)
--   Někoho zesměšňovala, kritizovala (satyra)
+-   Někoho zesměšňovala, kritizovala (satira)
     -   Krátké
     -   Básnické
     -   Kritické
