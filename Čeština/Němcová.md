@@ -1,7 +1,3 @@
-## Božena Němcová
-
----
-
 ### Díla:
 
 -   Babička
@@ -38,6 +34,8 @@
 -   Na hranici romantismu a realismu
 -   Sbírala lidovou poezii
 -   Báchorky a pověsti
+-   Pohádky: nadpřirozné schopnosti
+-   Pověst: částěčně reálné,
 
 ## Němcová
 
@@ -58,6 +56,7 @@
 -   Sbírala pohádky a lidovou slovesnost
 -   Psala přvážně ze života venkovského lidu
 -   Texty jsou do teď zajímavé a čitelné
+-   Ženský vzor tehdejší doby
 
 ### Život
 

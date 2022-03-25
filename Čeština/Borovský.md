@@ -40,7 +40,7 @@
 ## Epigramy
 
 -   Krátká básnická skladba (třeba jen dva verše)
--   Někoho zesměšňovala (satyra)
+-   Někoho zesměšňovala, kritizovala (satyra)
     -   Krátké
     -   Básnické
     -   Kritické
@@ -55,6 +55,7 @@
     -   Králi
 
 ## Král Lávra
+
 -   Má oslí uši. Nechce aby to nikdo věděl
 -   Každý rok vylosuje holiče kterého po práci následně nechá popravit
 -   Jeden kadeřník krále ostříhal a přimluvila se za něj matka že ho bude stříhat jenom on a proto ho král nezabil
@@ -62,6 +63,7 @@
 -   Pan Červíček ztratil cestou na bál kolíček a proto si z této vrby vyrobil nový
 -   Pak hraje na zámku ale ta basa s tím kolíčkem začne vyprávět pravdu
 -   Vyústilo to tak že to každému bylo jedno a všichni v pohodě přijali že má oslí uši
+-   Animovaná verze: Karel Zeman
 
 ## Satirické skladby
 
@@ -72,9 +74,39 @@
 -   Perun
 -   1851 Brixen
 
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>
+## Křest svatého Vladimíra
+
+-   poezie
+-   Odehrává se na přelomu 9 a 10 stol
+-   Car Vladimír a Bůh Perun
+-   Děj:
+
+    -   Car si řekl aby Perun zahřměl na jeho narozeniny
+    -   Perun odmítl, nelíbilo se mu, že si ho car neváží jako boha
+    -   Peruna odsoudili u vojenského soudu
+    -   Církev se rozpadá
+    -   Car udělal inzerát na nového boha
+    -   Z celého začali jezdit zájemci
+    -   Skladba vytýká Rusku, že moc byla v moci cara než Boha
+
+-   Dráb (dozorce, nějaký policista)
+-   Kanonáda: palba na počest
+
+-   10 zpěvů
+
+-   Zpěv I: Perun a car Vladimír
+-   Zpěv II: Hospodářství
+-   Zpěv III: Vojenský soud
+-   Zpěv IV: Testament Perunův
+-   Zpěv V: Bezbožnost v Rusích
+-   Zpěv VI: Audience
+-   Zpěv VII: Ministerská rada
+-   Zpěv VIII: Kamarila
+-   Zpěv IX: Jezkovitský marš
+-   Zpěv X: Konkurs
+      <style>
+      body {
+      background-color: rgb(38, 38, 38);
+      filter: invert(1);
+      }
+      </style>
