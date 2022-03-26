@@ -78,7 +78,7 @@
     -   Je už velmi nemocná
     -   Odveze je odsud manžel a ona doma umírá
 
-### Babička
+### Babička
 
 -   Babička - Magdalena Novotná
     -   Povídka
@@ -114,7 +114,7 @@
 -   Pohorská vesnice
 -   V zámku a podzámčí (příběh jsme si říkali)
 
-### Divá Bára
+### Divá Bára
 
 -   Idealismus:
     -   Táta ji nechá dělat co chce
