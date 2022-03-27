@@ -4,6 +4,11 @@
         "theme": "Němcová a Borovský"
     },
     {
+    
+        "question": "V jakém období začíná realismus",
+        "answer": "První polovina 19. století"
+    },
+    {
         "question": "Kdo napsal Babičku ?",
         "answer": "Němcová"
     },
@@ -127,5 +132,95 @@
     
         "question": "Děj V zámku a v podzámčí ?",
         "answer": "https://www.cesky-jazyk.cz/ctenarsky-denik/bozena-nemcova/v-zamku-a-v-podzamci-10.html"
-    }
+    },
+    {
+    
+        "question": "Jak je to s realistickým hrdinou a láskou ?",
+        "answer": "Realistický hrdina má na lásku šanci. Někdy mu láska vyjde a někdy zase ne. Narozdíl od romantického hrdiny u kterého to vždy skončí tragicky"
+    },
+    {
+    
+        "question": "Jaký je realistický hrdina člověk ?",
+        "answer": "Oproti romantickému hrdinovi je to obyčejný člověk"
+    },
+    {
+    
+        "question": "Kam chodil Borovský na gymnázium ?",
+        "answer": "Německý brod (Havlíčkův brod)"
+    },
+    {
+    
+        "question": "Jak Borovský zemřel ?",
+        "answer": "Na tuberkulózu"
+    },
+    {
+    
+        "question": "Co Borovskému proti tuberkulóze pomohlo ?",
+        "answer": "Když ho odvedli do Brixenu(Alpy), pomohl mu tam horský vzduch"
+    },
+    {
+    
+        "question": "Kdo psal Obrazy z Rus ?",
+        "answer": "Borovský"
+    },
+    {
+    
+        "question": "Co jsou obrazy z Rus ?",
+        "answer": "Soubor článků. Tyto články nejdříve obdivovali Rusko. Později ale začali být kritické"
+    },
+    {
+    
+        "question": "Do jakých novin psal Borovský ?",
+        "answer": "Pražské noviny, Národní noviny, Slovan"
+    },
+    {
+    
+        "question": "Jaké noviny Borovský založil ?",
+        "answer": "Národní noviny a Slovan"
+    },
+    {
+    
+        "question": "Co je to epigram ?",
+        "answer": "Krátká básnická (satirická) skladba, někoho zesměšňuje / kritizuje"
+    },
+    {
+    
+        "question": "Kdo napsal Král Lávra ?",
+        "answer": "Borovský"
+    },
+    {
+    
+        "question": "Král Lávra děj",
+        "answer": "Král má oslí uši a nechce aby to nikdo věděl. Každý rok tak vylosuje kadeřníka který ho ostříhá a následně je popraven. Za jednoho kadeřníka se ale přimluví jeho matka aby ho král nechal na živu pod podmínkou že to nikomu neřekne a bude ho stříhat jenom on. Kadeřník se ale s tajemstvím svěří vrbě. Z této vrby si následné pan Červíček vyrobí nový kolíček ke své base. Když dojde Červíček na zámek tak při hraní jeho basa začne vyprávět pravdu o králi. V závěru bylo každému jedno že má oslí uši a všichni s tím byli v pohodě."
+    },
+    {
+    
+        "question": "Od koho jsme viděli animovanou verzi Krále Lávri ?",
+        "answer": "Karel Zeman"
+    },
+    {
+    
+        "question": "Kdo napsal Křest sv. Vladimíra",
+        "answer": "Borovský"
+    },
+    {
+    
+        "question": "Jaký je děj Křestu sv. Vladimíra ?",
+        "answer": "https://rozbor-dila.cz/krest-svateho-vladimira-rozbor-dila-6/"
+    },
+    {
+    
+        "question": "Kolik zpěvů má Křest sv. Vladimíra ?",
+        "answer": "10"
+    },
+    {
+    
+        "question": "Kdo napsal Tyrolské elegie",
+        "answer": "Borovský"
+    },
+    {
+    
+        "question": "V jakém zpěvu vyvrcholí Tyrolské elegie ? A čím ?",
+        "answer": "V 8 zpěvu. Příhodou s koňmi"
+    },
 ]
