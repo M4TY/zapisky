@@ -1,8 +1,3 @@
-## Realistický hrdina a láska
-
--   V realistickém románu někomu láska a vztah vychází a někomu ne (Realistický má na vztah šanci)
--   Zatímco v romantismu ten vztah nikdy někam nevede
-
 # Karel havlíček Borovský
 
 -   1821 - 1856
@@ -104,9 +99,61 @@
 -   Zpěv VIII: Kamarila
 -   Zpěv IX: Jezkovitský marš
 -   Zpěv X: Konkurs
-      <style>
-      body {
-      background-color: rgb(38, 38, 38);
-      filter: invert(1);
-      }
-      </style>
+
+# Tyrolské Elegie
+
+-   Literární druh : Epika (veršovaná skladba, má děj)
+-   Literární žánr : Satirická báseň
+-   Elegie == žalozpěv
+-   Lyrický subjket vypráví ze svého života
+-   Vypráví měsíčku co se mu vše stalo
+-   Vysmívá se Rakousku
+-   Co se mu stalo:
+    -   Byl zatčen o půl třetí ráno
+    -   Kritizoval rakouskou nadvládu, přišli si pro něho
+    -   Naloží ho do vozu a odvezou ho do Brixenu (dnes Itálie, tehdy Rakousko)
+    -   Držteli ho tam několik let báli se aby se nedoslal ke slovu
+    -   Udájně se měli na cestě splašit koně a on se měl zachovat jako hrdina
+    -   Je to satirické až na dva momenty: Při zatýkání kvůli rodině a po cestě když je okolo kostela
+    -   Končí tám že Borovský dojede na místo (Brixen) a povzdechne si že tam musí zůstat
+
+-   Popisuje svůj odjezd do vyhnanství, loučení s rodinou
+-   Vlastně ani nevěděl kam jede nebo jestli se ještě někdy vrátí. Na cestě ho provázeli policisté a komisař Dedera
+-   Sebrali ho proto že se nehodil Bachovi. Borovský byl proti Bachovu absolutismu
+-   Vyvrcjolením příběhu je příhoda která se stala při přechodu přes Alpy. Kočár se řítí po příkré cestě a všichni strážci z něj vyskákali, když jim Borovský připoměl příběh o Jonášovi z Bible. Jen "hříšník" Borovský měl čisté svědomí a dojel v kočáru na poštu kde stačil povečeřet a počkal až ho doženou pochroumaní strážci. Samozřejmě si neodpustil ani pár satirických poznámek na režim který chce na šňůrce vodit všechny národy, ale nedokáže ukočírovat ani čtyři koně.
+
+## Kompozice
+-   Devět zpěvů
+-   Úvod tvoří verš méně známé lidové písně z Chrudimska
+-   Dále příběh pokračuje jeho zatčením.....
+-   Vrchol je 8. zpěv kde je příhoda se splašenými koni
+-   V 9. zpěvu je popsán příjezd do Brixenu
+
+## Zpěvy
+-   I. Zpěv
+    -   Promluva k měsíci
+-   II. Zpěv
+    -   Probuzen policisty, nucen odejít do exilu
+-   III. Zpěv
+    -   Přibližuje obsah soudního řízení
+-   IV. Zpěv
+    -   Popis nátlaku který na něj vyvíji komisař Dedera
+-   V. Zpěv
+    -   Loučení s rodinou
+-   VI. Zpěv
+    -   Popis míst která se mu vzdalují
+-   VII. Zpěv
+    -   Popis cesty přes Alpy
+    -   Popis svých myšlenek
+-   VIII. Zpěv
+    -   Problémy na voze
+    -   Výsměch satirické poznámky
+-   IX. Zpěv
+    -   Příjezd do Brixenu
+  
+<style>
+body {
+background-color: rgb(38, 38, 38);
+filter: invert(1);
+}
+</style>
