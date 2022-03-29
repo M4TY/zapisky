@@ -4,11 +4,11 @@
 
 ## Němcová
 
--   viz <a href="https://materialy.matyashimmer.eu/note?link=https://raw.githubusercontent.com/M4TY/zapisky/main/Čeština/Němcová.html">Němcová</a>
+-   viz <a href="https://materialy.matyashimmer.eu/note?link=https://raw.githubusercontent.com/M4TY/zapisky/main/Čeština/Němcová.html" target="_blank" rel="noopener noreferrer">Němcová</a>
 
 ## Borovský
 
--   viz <a href="https://materialy.matyashimmer.eu/note?link=https://raw.githubusercontent.com/M4TY/zapisky/main/%C4%8Ce%C5%A1tina/Borovsk%C3%BD.html">Borovský</a>
+-   viz <a href="https://materialy.matyashimmer.eu/note?link=https://raw.githubusercontent.com/M4TY/zapisky/main/%C4%8Ce%C5%A1tina/Borovsk%C3%BD.html" target="_blank" rel="noopener noreferrer">Borovský</a>
 
 ## Realistický hrdina
 
