@@ -125,6 +125,10 @@
 -   Idealismus:
     -   Změna názoru paní Skočdopolové na chudé lid
 
+### Karla
+
+-   Nechtěla přijít o syna tak ho vychovávala jako dívku
+
 <style>
 body {
 background-color: rgb(38, 38, 38);
