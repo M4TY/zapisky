@@ -22,13 +22,33 @@ Realismus
     -
 -   Dopis má formální hlavičku
     -   Adresa odesilatele
-    -   SSPŠ a gymnázium
-    -   Preslova 25
-    -   15000 Praha 5 - Smíchov  
-         Kdy a Kde
-    -   Oslovení
+    -   Adresa adresáta
+        Kdy a Kde
+    -   Oslovení (vážený/á, případně neurčujeme rod)
 -   Uvádení důvodu:
+
     -   Rozcházím se z důvodu...
+
+-   Při odesílání
+    -   Podací lístek (potvrzení o poslání)
+
+### Cvičení v hodině
+
+Žádáme o vztah:
+
+-   Pěkné
+    -   Vaše visuální stránka je přijatelná
+-   Finančně založené
+-   Rozumíme si
+-   Umí vařit
+    -   Máte přijatelnou gastronomicou dovednost
+-   Protože se jí líbím já
+    -   Jsem rád že oceňujete moji fyzickou stránku
+-   Je chytrá
+
+    -   Oceňuji váš zisk vysokoškolského diplomu
+
+-   Píšeme takhle nepřímo, slova cizího původu
 
 <style>
 body {
