@@ -57,9 +57,51 @@
 -   Dlouhodobě prožívané
 -   Láska k životnímu partnerovi
 -   Touha po majetku
+
+### Učení
+
+-   Aktivní a tvořivý proces
+-   Rozšiřuje možnosti jedince
+-   Získávání, osvojování...
+-   Naučené - opak vrozeného
+-   Záměrné
+-   Bezděčné
+
+### Druhy Učení
+
+-   Senzomotorické
+    -   Smyslově pohybové př. kreslit, šít
+-   Vědomostní
+    -   Osvojování poznatků
+-   Intelektové
+    -   Řešení problémů či úloh
+-   Sociální
+    -   Učení seciální interakce
+-   Dalova pyramida učení
+
+### Efektivita učení
+
+-   Lépe se učí to, čemu rozumíme
+-   Vybrat a uspořádat poznatky
+-   Pozornost věnujeme střední část učiva
+-   Učit se po seznámění s látkou
+-   Hlasité opakování
+-   Stanovit pravidelný režim učení
+-   Spolupráce se studijním partnerem
+
+#### Proces podmiňování
+
+-   Hraje roli:
+    -   Nálada
+    -   Pozornost
+    -   Schopnosti
+    -   Charakter
+    -   Fyziologie
+-   Vědomá kontrole učení /chyba a její napravení/
+-   Asociace - spojení
       <style>
-        body {
-        background-color: rgb(38, 38, 38);
-        filter: invert(1);
-        }
-        </style>
+      body {
+      background-color: rgb(38, 38, 38);
+      filter: invert(1);
+      }
+      </style>
