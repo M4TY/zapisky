@@ -26,11 +26,21 @@ Realismus
         Kdy a Kde
     -   Oslovení (vážený/á, případně neurčujeme rod)
 -   Uvádení důvodu:
-
     -   Rozcházím se z důvodu...
-
 -   Při odesílání
     -   Podací lístek (potvrzení o poslání)
+-   Nemáme dávat přímé informace ale psát obecně
+
+## Strukturovaný životopis
+
+-   Info o mě
+-   Vzdělání
+-   Pracovní zkušenosti
+-   Kurzy
+-   Dovednosti
+-   Jazykové znalosti
+-   Zájmy
+-   V Praze kdy .. a podpis
 
 ### Cvičení v hodině
 
