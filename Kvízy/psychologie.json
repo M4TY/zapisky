@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Občanská nauka",
+        "theme": "Psychologie"
+    },
+    {
+        "question": "Co jsou to emoce ?",
+        "answer": "Psychické procesy, které hodnotí různé situace a nějak na ně reagují"
+    },
+    {
+        "question": "Jaká je charakteristika emocí ?",
+        "answer": "Subjektivní, Spontánnost, Předmětnost, Aktuálnost, Polarita"
+    },
+    {
+        "question": "Jaké jsou druhy emocí ?",
+        "answer": "Morální emoce, Afekty, Estetické emoce, Intelektuální emoce, Sociální emoce"
+    },
+    {
+        "question": "Jaký je popis jednotlivých druhů emocí ?",
+        "answer": "Afekty jsou rychlé vzplanutí emocí, Estetické emoce jsou vnímání venkovního počasí atd.., Intelektuální známená že se cítíme lépe díky tomu že každý den víme něco víc, Sociální jsou emoce vyvolány kontaktem s ostatními lidmi"
+    },
+    {
+        "question": "Co je to nálada ?",
+        "answer": "Nějaký citový vztah, trvá delsší dobu (hodiny - dny)"
+    },
+    {
+        "question": "Co je to afekt ?",
+        "answer": "Je to nárazový a intenzivní. Prudký a náhlý výbuch vzteku"
+    }
+]
