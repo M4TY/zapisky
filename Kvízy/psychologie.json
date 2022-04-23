@@ -26,5 +26,33 @@
     {
         "question": "Co je to afekt ?",
         "answer": "Je to nárazový a intenzivní. Prudký a náhlý výbuch vzteku"
+    },
+    {
+        "question": "Co je to vášeň ?",
+        "answer": "Dlouhodobě prožívaná, vázaná k určitým subjektů či činnostem. Láska k životnímu partnerovi, touha po majetku"
+    },
+    {
+        "question": "Co je to učení ?",
+        "answer": "Aktivní tvořivý proces, rozšiřuje možnosti jedince. Naučené - opak vrozeného"
+    },
+    {
+        "question": "Jaké jsou druhy učení ?",
+        "answer": "Senzomotorické, Vědomostní, Intelektové, Sociální"
+    },
+    {
+        "question": "Jaký je popis jedtnotlivých druhů učení ?",
+        "answer": "Senzomotorické je smyslově pohybové př. kreslit, šít, Vědomostní osvojování poznatků, Intelektové řešení problémů či úloh, sociální učení je sociální interakce"
+    },
+    {
+        "question": "Jak se efektivně učit ?",
+        "answer": "Lépe se učí to čemu rozumíme, učit se co nejdříve po seznámení s učivem, hlasité opakování, stanovení pravidelného režimu učení, spolupráce se studijním partnerem"
+    },
+    {
+        "question": "Jaké jsou druhy učení ?",
+        "answer": "Senzomotorické, Vědomostní, Intelektové, Sociální"
+    },
+    {
+        "question": "Co hraje roli v efektivitě učení ?",
+        "answer": "Nálada, pozornost, schopnosti, charakter, fyziologie"
     }
 ]
