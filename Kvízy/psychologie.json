@@ -4,55 +4,55 @@
         "theme": "Psychologie"
     },
     {
-        "question": "Co jsou to emoce ?",
+        "question": "Co jsou to emoce?",
         "answer": "Psychické procesy, které hodnotí různé situace a nějak na ně reagují"
     },
     {
-        "question": "Jaká je charakteristika emocí ?",
+        "question": "Jaká je charakteristika emocí?",
         "answer": "Subjektivní, Spontánnost, Předmětnost, Aktuálnost, Polarita"
     },
     {
-        "question": "Jaké jsou druhy emocí ?",
+        "question": "Jaké jsou druhy emocí?",
         "answer": "Morální emoce, Afekty, Estetické emoce, Intelektuální emoce, Sociální emoce"
     },
     {
-        "question": "Jaký je popis jednotlivých druhů emocí ?",
+        "question": "Jaký je popis jednotlivých druhů emocí?",
         "answer": "Afekty jsou rychlé vzplanutí emocí, Estetické emoce jsou vnímání venkovního počasí atd.., Intelektuální známená že se cítíme lépe díky tomu že každý den víme něco víc, Sociální jsou emoce vyvolány kontaktem s ostatními lidmi"
     },
     {
-        "question": "Co je to nálada ?",
+        "question": "Co je to nálada?",
         "answer": "Nějaký citový vztah, trvá delsší dobu (hodiny - dny)"
     },
     {
-        "question": "Co je to afekt ?",
+        "question": "Co je to afekt?",
         "answer": "Je to nárazový a intenzivní. Prudký a náhlý výbuch vzteku"
     },
     {
-        "question": "Co je to vášeň ?",
+        "question": "Co je to vášeň?",
         "answer": "Dlouhodobě prožívaná, vázaná k určitým subjektů či činnostem. Láska k životnímu partnerovi, touha po majetku"
     },
     {
-        "question": "Co je to učení ?",
+        "question": "Co je to učení?",
         "answer": "Aktivní tvořivý proces, rozšiřuje možnosti jedince. Naučené - opak vrozeného"
     },
     {
-        "question": "Jaké jsou druhy učení ?",
+        "question": "Jaké jsou druhy učení?",
         "answer": "Senzomotorické, Vědomostní, Intelektové, Sociální"
     },
     {
-        "question": "Jaký je popis jedtnotlivých druhů učení ?",
+        "question": "Jaký je popis jedtnotlivých druhů učení?",
         "answer": "Senzomotorické je smyslově pohybové př. kreslit, šít, Vědomostní osvojování poznatků, Intelektové řešení problémů či úloh, sociální učení je sociální interakce"
     },
     {
-        "question": "Jak se efektivně učit ?",
+        "question": "Jak se efektivně učit?",
         "answer": "Lépe se učí to čemu rozumíme, učit se co nejdříve po seznámení s učivem, hlasité opakování, stanovení pravidelného režimu učení, spolupráce se studijním partnerem"
     },
     {
-        "question": "Jaké jsou druhy učení ?",
+        "question": "Jaké jsou druhy učení?",
         "answer": "Senzomotorické, Vědomostní, Intelektové, Sociální"
     },
     {
-        "question": "Co hraje roli v efektivitě učení ?",
+        "question": "Co hraje roli v efektivitě učení?",
         "answer": "Nálada, pozornost, schopnosti, charakter, fyziologie"
     },
     {
@@ -94,5 +94,30 @@
     {
         "question": "Jaký druh inteligence je ovlivněn prostředím, ve kterém vyrůstáme?",
         "answer": "Krystalická"
+    },
+    {
+        "question": "Co je základní forma motivů??",
+        "answer": "Potřeba"
+    },
+    {
+        "question": "Druhy motivů?",
+        "answer": "Pud, zájem, aspirace, cíl, ideál, zvyk"
+    },
+    {
+        "question": "Druhy potřeby?",
+        "answer": "Biologická (bezpečí, dýchání, spánek - rodíme se s nimi nebo je získáváme během života), Sociální (vzdělání, radost, seberealizace)"
+    },
+    {
+        "question": "Druhy volních vlastností?",
+        "answer": "Inteligence - řešení problémů, Temperament - soubor převážné vrozených vlastností, Schopnosti - vlohy, Motivy - pohnutky příčin a činností, Charakter - souhrn vlastností"
+    },
+    {
+        "question": "Maslowova pyramida lidských potřeb",
+        "answer": "https://www.mentem.cz/static-155/uploads/blog/illustrations/maslowCZ.png"
+    },
+    {
+        "question": "Co jsou to postoje?",
+        "answer": "Hodnocení a reakce jedince v§či aspektu světa"
     }
+
 ]
