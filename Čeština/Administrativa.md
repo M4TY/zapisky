@@ -1,21 +1,3 @@
-Romantický hrdina a láska
-
--   Končí tragicky
--   Smrt hlavního hrdiny
-
-Realismus
-
--   Všichni se rozhodují jestli s láskou zůstat či ne
--   Důvody k rozchodu:
-    -   Odlišné společenské vrstvy
-    -   Nerozumí si
-    -   Nevěra
-    -   Incest? :d
-    -   Láska na dálku není realizovatelná
-    -   Odlišná sexuální orientace
-    -   Ošklivost / Hloupost
-    -   Přestanu ho mít rád
-
 # Administrativní funkční styl
 
 -   ## Formální
