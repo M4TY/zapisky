@@ -54,5 +54,45 @@
     {
         "question": "Co hraje roli v efektivitě učení ?",
         "answer": "Nálada, pozornost, schopnosti, charakter, fyziologie"
+    },
+    {
+        "question": "Co získáme při narození a určuje naše schopnosti?",
+        "answer": "Vlohy"
+    },
+    {
+        "question": "Jaké jsou tři stupně schopností?",
+        "answer": "Nadání, Talent, Genialita"
+    },
+    {
+        "question": "Jaké jsou základní druhy schopností?",
+        "answer": "Verbální, Prostorová představivost, Numerická paměť, umělecké"
+    },
+    {
+        "question": "Jaké máme dva druhy inteligence?",
+        "answer": "Fluidní a krystalickou"
+    },
+    {
+        "question": "Jaká společnost u nás dělá IQ testy?",
+        "answer": "Mensa"
+    },
+    {
+        "question": "Co reprezentuje zkratka IQ?",
+        "answer": "Inteligenční kvocient"
+    },
+    {
+        "question": "Jak vypočítáme IQ?",
+        "answer": "Podíl mentálního věku a fyzického věku vynásobíme 100 (MV/FV * 100)"
+    },
+    {
+        "question": "Jaké jsou tři stupně mentální retardace?",
+        "answer": "Debilita, imbecilita, idioimbecilita"
+    },
+    {
+        "question": "Jaký druh inteligence je vrozený?",
+        "answer": "Fluidní"
+    },
+    {
+        "question": "Jaký druh inteligence je ovlivněn prostředím, ve kterém vyrůstáme?",
+        "answer": "Krystalická"
     }
 ]
