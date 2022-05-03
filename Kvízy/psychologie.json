@@ -48,10 +48,6 @@
         "answer": "Lépe se učí to čemu rozumíme, učit se co nejdříve po seznámení s učivem, hlasité opakování, stanovení pravidelného režimu učení, spolupráce se studijním partnerem"
     },
     {
-        "question": "Jaké jsou druhy učení?",
-        "answer": "Senzomotorické, Vědomostní, Intelektové, Sociální"
-    },
-    {
         "question": "Co hraje roli v efektivitě učení?",
         "answer": "Nálada, pozornost, schopnosti, charakter, fyziologie"
     },
@@ -85,7 +81,7 @@
     },
     {
         "question": "Jaké jsou tři stupně mentální retardace?",
-        "answer": "Debilita, imbecilita, idioimbecilita"
+        "answer": "Debilita, imbecilita, idioimbecilita, idiocie"
     },
     {
         "question": "Jaký druh inteligence je vrozený?",
@@ -117,7 +113,7 @@
     },
     {
         "question": "Co jsou to postoje?",
-        "answer": "Hodnocení a reakce jedince v§či aspektu světa"
+        "answer": "Hodnocení a reakce jedince vůči aspektu světa"
     }
 
 ]
