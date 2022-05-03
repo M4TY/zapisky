@@ -27,6 +27,8 @@
         -   Kniha veršů výpravných /Dědova mísa/
         -   Kniha veršů lyrických /Vším jsem byl rád/
         -   Kniha veršů časových a příležitostných
+    -   Písně kosmické
+        -   Jak lvové bijem o mříže
 -   Soubory z fejetonů
     -   Studie krátké a kratší
     -   Žerty hravé i dravé
@@ -91,9 +93,29 @@
 -   Den před vystěhováním byl krámek zavřený. Otevřela ho až policie která tam našla oběšeného pana Vorela.
 -   V kapse měl svojí krásně nakouřenou pěnovku která se mu stala osudnou.
 
+# Neruda Básník
+
+-   Balada a fomance /Romance o Karlu IV., Balada helgolandská, Balada stará/
+-   Prosté motivy
+    -   4 části podle ročních období. Jako etapy života
+        -   Jaro => dětství
+        -   Léto => ?
+        -   Podzim => Produktivní období
+        -   Zime => Stáří
+-   Zpěvy páteční
+    -   Vydána po smrti Nerudy
+
+## Jak lvové bijem o mříže - písně kosmické
+
+-   Probuzení vlastenectví
+-   Hrdobci => hrdí lidé
+-   Snažíme se dostat z nějaké nevědomosti, nebo Země nás drží
+-   Lvi jsme my. Máme ve znaku lva
+-   Báseň je o určité omezenosti
+
 <style>
 body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
+    background-color: rgb(38, 38, 38);
+    filter: invert(1);
 }
 </style>
