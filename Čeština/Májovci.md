@@ -16,7 +16,9 @@
 -   Joachim Barrande
 -   Kam s ním (Fejeton)
 -   Novinář
-    -   Čas, Hlas, Národní listy
+    -   Čas, Hlas
+    -   Národní listy
+    -   Pod své články se podepisoval trojúhelníčkem - indiánský symbol pro oheň
 -   Fejetony
     -   Krátké satirické
     -   z francouzského feuilleton = lístek
@@ -34,6 +36,7 @@
     -   Žerty hravé i dravé
     -   Obrazy z ciziny
 -   Povídky malostranské
+
     -   13 povídek
     -   Týden v tichém domě
     -   Pan Ryšánek a pan Schlegl
@@ -49,7 +52,10 @@
     -   Psáno o letošních dušičkách
     -   Figurky
 
-## Přivedla žebráka na mizinu
+-   Psal i divadelní hry, ale byly otřesné a nikoho nenadchly
+-   Sám ale divadelní hry hodnotil
+
+### Přivedla žebráka na mizinu
 
 -   Povídka vypráví o žebrákovi Vojtíškovi
 -   Lidé ho měli rádi a protože věděli, že nic nemá tak mu dávali malé almužny
@@ -61,7 +67,7 @@
 -   Lidé mu přestali dávat almužny a on tak v zimě v bídě a hladu umírá
 -   Lidé poznali svůj omyl a litovali toho
 
-## Doktor Kazisvět
+### Doktor Kazisvět
 
 -   Povídka je o doktoru Heribertovi juniorovi
 -   Vystudoval medicínu stejně jako jeho úspěšný otec a chtěl jít v jeho stopách jenže když mu otec zemřel zavřel se do sebe
@@ -72,7 +78,7 @@
 -   Lidé mu sice nevěřili a mysleli že je to nějaký jeho podivínský výmysl ale odnesli mrtvého do hostince kde ho Herbert oživil
 -   Lidé ho pak vychvalovali jak je skvělý doktor, ale on zůstal pořád stejný a stále nepřijímal pacienty
 
-## Hastrman
+### Hastrman
 
 -   Povídka o panu Rybáři, lidé mu přezdívali Hastrman, protože nosil zelený fráček a stále básnil o moři
 -   Velmi si přál, aby bylo v čechách moře a on mohl žít u pláže
@@ -80,7 +86,7 @@
 -   Jednou vzal svoje drahokami k profesorovi přírodopisu aby je ocenil, ale dozvěděl se že nemají žádnou cenu
 -   Naštvaný je vyházel z okna. Lidé mu ale řekli ať je alespoň nechá dětem na hraní a tím mu ukázali že si ho váží i když není bohatý
 
-## Jak si Pan Vorel nakouřil Pěnovku
+### Jak si Pan Vorel nakouřil Pěnovku
 
 -   Pan Vorel si jako nový obyvatel na Malé straně otevřel krámek
 -   Chtěl zapadnout a tak si koupi pěnovku kovanou stříbrem
@@ -93,19 +99,20 @@
 -   Den před vystěhováním byl krámek zavřený. Otevřela ho až policie která tam našla oběšeného pana Vorela.
 -   V kapse měl svojí krásně nakouřenou pěnovku která se mu stala osudnou.
 
-# Neruda Básník
+### Neruda Básník
 
--   Balada a fomance /Romance o Karlu IV., Balada helgolandská, Balada stará/
+-   Balady a romance /Romance o Karlu IV., Balada helgolandská, Balada stará/
 -   Prosté motivy
     -   4 části podle ročních období. Jako etapy života
-        -   Jaro => dětství
-        -   Léto => ?
-        -   Podzim => Produktivní období
+        -   Jaro => Dětství
+        -   Léto => Mládí
+        -   Podzim => Produktivní období (dospěloství)
         -   Zime => Stáří
 -   Zpěvy páteční
-    -   Vydána po smrti Nerudy
+    -   Vydána po smrti Nerudy - Vrchlický
+-   Reflexní báseň - na něco reaguje
 
-## Jak lvové bijem o mříže - písně kosmické
+### Jak lvové bijem o mříže - písně kosmické
 
 -   Probuzení vlastenectví
 -   Hrdobci => hrdí lidé
@@ -113,9 +120,41 @@
 -   Lvi jsme my. Máme ve znaku lva
 -   Báseň je o určité omezenosti
 
-<style>
-body {
-    background-color: rgb(38, 38, 38);
-    filter: invert(1);
-}
-</style>
+## Karolína Světlá (1830 - 1899)
+
+-   Johana Rottová
+-   Pocházela z bohaté Pražské rodiny
+-   Vzala si svého domácího učitele - neexistovalo vyšší vzdělání pro ženy
+-   Petr Mužák - podcházel ze **Světlé** pod Ještěd
+-   Psaní jako terapie po úmrtí dítěte - zotavovala se ve Světlé pod Ještědem
+-   Měla intimní dopisy s Nerudou
+-   Manžel chtěl aby se s ním už nikdy nesetkala a aby si vrátili dopisy
+-   Prosbu manžela dodržovala
+
+### Dílá
+
+-   Hlavní postavou je žena (v té době neobvyklé), která se chce nějak uplatnit ve společnosti a sloužit ji
+    -   Kříž u potoka
+    -   Černý Petříček
+
+## Vítězslav Hálek (1835 - 1874)
+
+-   Dobře se oženil
+-   Píše do Národních listů, časopisu květy
+-   Redaktor
+-   Psal divadelní hry
+-   Prozatimní divadlo - část Národního divadla
+-   Při otevření se hrála hra Král Vukašín
+    -   1862 otevření
+-   Povídky
+    -   Muzikanstlá Liduška
+    -   Poldík Rumař
+-   Lyrika
+    -   V přírodě
+    -   Večerní písně
+    <style>
+    body {
+        background-color: rgb(38, 38, 38);
+        filter: invert(1);
+    }
+    </style>
