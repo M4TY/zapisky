@@ -36,6 +36,7 @@
     -   Žerty hravé i dravé
     -   Obrazy z ciziny
 -   Povídky malostranské
+-   Nepodepsal se pod almanach Máj, bál se
 
     -   13 povídek
     -   Týden v tichém domě
@@ -134,11 +135,12 @@
 ### Dílá
 
 -   Hlavní postavou je žena (v té době neobvyklé), která se chce nějak uplatnit ve společnosti a sloužit ji
-    -   Kříž u potoka
+    -   Kříž u potoka (mluvní cvičení)
     -   Černý Petříček
 
 ## Vítězslav Hálek (1835 - 1874)
 
+-   Po Nerudovi neznámější osobnost z Májovců
 -   Dobře se oženil
 -   Píše do Národních listů, časopisu květy
 -   Redaktor
@@ -147,14 +149,25 @@
 -   Při otevření se hrála hra Král Vukašín
     -   1862 otevření
 -   Povídky
-    -   Muzikanstlá Liduška
-    -   Poldík Rumař
+    -   Muzikanstká Liduška (mluvní cvičení)
+    -   Poldík Rumař (mluvní cvičení)
 -   Lyrika
     -   V přírodě
     -   Večerní písně
+
+## Prozatimní divadlo
+
+-   V. Hálek Král Vukašín
+-   Tylovy hry
+-   Hálkova historická dramatura
+-   Hry Nerudovy generace
+-   16.5.1868 - základní kámen ND
+-   11.6.1881 - provizorní otevření ND
+-   12.8.1881 - budova ND vyhořela
+-   18.9.18áš - definitivní otevření ND
     <style>
-    body {
-        background-color: rgb(38, 38, 38);
-        filter: invert(1);
-    }
-    </style>
+      body {
+          background-color: rgb(38, 38, 38);
+          filter: invert(1);
+      }
+      </style>
