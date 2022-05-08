@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Matematika",
+    "theme": "Tabulka úhlů"
+  },
+  {
+    "question": "sin 0°",
+    "answer": "0"
+  },
+  {
+    "question": "cos 0°",
+    "answer": "1"
+  },
+  {
+    "question": "sin 30°",
+    "answer": "1/2"
+  },
+  {
+    "question": "cos 30°",
+    "answer": "√3/2"
+  },
+  {
+    "question": "sin 45°",
+    "answer": "√2/2"
+  },
+  {
+    "question": "cos 45°",
+    "answer": "√2/2"
+  },
+  {
+    "question": "sin 60°",
+    "answer": "√3/2"
+  },
+  {
+    "question": "cos 60°",
+    "answer": "1/2"
+  },
+  {
+    "question": "sin 90°",
+    "answer": "1"
+  },
+  {
+    "question": "cos 90°",
+    "answer": "0"
+  }
+
+]
