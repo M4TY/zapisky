@@ -126,10 +126,3 @@ $g: y = -x^{-4}$
 $h: y = (x-3)^{-5}+1$
 
 <iframe src="https://www.desmos.com/calculator/vk9bkvjm6q?embed" width="250" height="250" style="border: 1px solid #ccc" frameborder=0></iframe>
-
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>

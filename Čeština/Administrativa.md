@@ -42,9 +42,3 @@
 
 -   Píšeme takhle nepřímo, slova cizího původu
 
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>

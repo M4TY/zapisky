@@ -165,9 +165,4 @@
 -   11.6.1881 - provizorní otevření ND
 -   12.8.1881 - budova ND vyhořela
 -   18.9.18áš - definitivní otevření ND
-    <style>
-      body {
-          background-color: rgb(38, 38, 38);
-          filter: invert(1);
-      }
-      </style>
+

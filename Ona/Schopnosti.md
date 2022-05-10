@@ -52,14 +52,3 @@ Tvorba na zákl. vloh
 
 ---
 
-  <style>
-  body {
-  background-color: rgb(38, 38, 38);
-  filter: invert(1);
-  }
-  </style>
-  <footer class="footer">
-  <p>&copy; <a href="https://github.com/M4TY"target="_blank"
-  rel="noopener noreferrer">Matyáš Himmer</a> | <a href="https://github.com/lukassuprer" target="_blank"
-  rel="noopener noreferrer">Lukáš Procházka</a> | <a href="https://github.com/Vojtysek" target="_blank"
-  rel="noopener noreferrer">Vojtěch Döme</a></p>

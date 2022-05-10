@@ -83,10 +83,3 @@ Středová souměrnost je jednoznačně určena svým středem nebo dvojicí nes
     Zápisem R(S,α):X→X′ budeme rozumět, že bod X' je obrazem bodu X v otočení určeném středem S a orientovaným úhlem α.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Geom_shodnost_rotace.svg/440px-Geom_shodnost_rotace.svg.png">
-
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>

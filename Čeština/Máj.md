@@ -19,10 +19,3 @@ Může za to společnost (znak romantismu), dostatečně nechráníla Viléma
 2 intermeza(mezihra, vsuvka)
 
 Romantické rysy: nerealizovatelná láska, hlavní hrdina umírá, je v přírodě, společnost je proti němu, má povolání na okraji společnosti
-
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>

@@ -77,10 +77,4 @@ Slávý dcera - alegorie (bohyně), dost proslovanské, má očinit křivdy spá
 # Opakování
 
 -   Rukopisy jsou zfalšované
-<style>
-body {
-background-color: rgb(38, 38, 38);
-/* Dat na 0 v případě, že chci upravovat. Nechat na 1, když printuju document */
-filter: invert(1);
-}
-</style>
+

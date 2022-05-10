@@ -86,17 +86,4 @@
   - Ursus - trošku podivínský chlápek, který působí bláznivě, vyjadřuje názory, se kterými jiní lidé nesouhlasí, snaží se působit drsným dojmem a leckdy říká něco jiného, než co cítí
 
 - <a class="link" href="https://www.cesky-jazyk.cz/ctenarsky-denik/victor-hugo/muz-ktery-se-smeje.html">Rozbor</a>
-  <style>
-  body {
-  background-color: rgb(38, 38, 38);
-  filter: invert(1);
-  }
 
-body .link {
-color: green;
-}
-</style>
-
-  <footer class="footer">
-  <p>&copy; <a href="https://github.com/M4TY" target="_blank"
-  rel="noopener noreferrer">Matyáš Himmer</a></p>

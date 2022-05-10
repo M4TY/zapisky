@@ -286,14 +286,3 @@ Slavistika - věda o slovanských národech
 Austroslavismus - život bez nejde Rakouska
 
 Představitelem Autroslavismu - Palacký a Borovský
-
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>
-<footer class="footer">
-<p>&copy; <a href="https://github.com/M4TY" target="_blank"
-    rel="noopener noreferrer">Matyáš Himmer</a>, <a href="https://github.com/lukassuprer" target="_blank"
-    rel="noopener noreferrer">Lukáš Procházka</a></p>

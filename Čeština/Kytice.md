@@ -166,9 +166,3 @@ Inspiruje se lidovými pověstmi - Erben sbíral lidovou poezii
 ## Věštkyně
 
 -   Jedná se o závěrečnou báseň sbírky, je považována za její myšlenkový vrchol. Ožívají v ní dávná proroctví, pojednává o budoucnosti českého národa, o věštkyni, která věští o Přemyslu Oráčovi, Libuši a jiných historických událostech českého národa. Ve sbírce je tematicky blízko první básni Kytice, jako vlastenecká báseň s výrazným prvkem lidové slovesnosti vytvářející rámec díla.
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>

@@ -129,9 +129,3 @@
 
 -   Nechtěla přijít o syna tak ho vychovávala jako dívku
 
-<style>
-body {
-background-color: rgb(38, 38, 38);
-filter: invert(1);
-}
-</style>
