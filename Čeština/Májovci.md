@@ -131,6 +131,9 @@
 -   Měla intimní dopisy s Nerudou
 -   Manžel chtěl aby se s ním už nikdy nesetkala a aby si vrátili dopisy
 -   Prosbu manžela dodržovala
+-   Hubička (mluvní cvičení)
+    -   Eliška Krásnohorská - libreto
+    -   Bedřich Smetana - opera
 
 ### Dílá
 
@@ -155,6 +158,15 @@
     -   V přírodě
     -   Večerní písně
 
+## Jakub Arbes
+
+-   Žil na Smíchově
+-   Romaneto
+    -   Obsahem něco mezi románem a povídkou => novela
+-   Rozluštil Máchovy deníky
+-   Zveřejnil informace, které ohrožovaly vysoce postaveného člověka, přišel o práci
+-   Ve všech romanetech se setkáme s Prahou a žurnalistou
+
 ## Prozatimní divadlo
 
 -   V. Hálek Král Vukašín
@@ -164,5 +176,9 @@
 -   16.5.1868 - základní kámen ND
 -   11.6.1881 - provizorní otevření ND
 -   12.8.1881 - budova ND vyhořela
--   18.9.18áš - definitivní otevření ND
+-   18.9.1883 - definitivní otevření ND
 
+## Opakování
+
+Muzikantská liduška - je bláznívá
+Rumovat - těžit zeminu
