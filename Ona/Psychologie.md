@@ -372,3 +372,11 @@ Návyk - opakováním získaných sklon k vykonávání určitě činnosti /zaut
 -   odkázanost na pomoc druhý lidí
 -   nepřitomnost základních funkcí pro přežití
 -   nevyvinutost hrubé i jemné motoriky
+
+# Socializace
+
+-   Celoživotní proces
+-   Zespolečenšťování
+-   Jeden z hlavních výsledků socializace
+    -   Přijmutí společenské role
+    -   _konflikt role_
