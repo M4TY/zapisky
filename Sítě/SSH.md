@@ -1,7 +1,7 @@
-# Cisco SSH
+# Cisco SSH
 
 ```
-nable
+enable
 
 conf t
 
