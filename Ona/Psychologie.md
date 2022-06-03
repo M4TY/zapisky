@@ -378,5 +378,24 @@ Návyk - opakováním získaných sklon k vykonávání určitě činnosti /zaut
 -   Celoživotní proces
 -   Zespolečenšťování
 -   Jeden z hlavních výsledků socializace
+
     -   Přijmutí společenské role
     -   _konflikt role_
+
+-   _Primární socializace_
+-   V rodině - citová vazba, základní návyky, způsob komunikace, normy
+-   _Sekundární socializace_
+-   V rodině i v dalších skupinách
+
+# Sociální role
+
+-   Soubor očekávání chování člověka
+-   Odrážení jeho chování ve společnosti
+-   /Co se od člověka očekává/
+-   _Konflikt rolí_
+
+# Sociílní pozice /status/
+
+-   Vemezení v rámci společnosti
+-   Hodnota postavení /vzhledem k ostatním postavením/
+-   Vázáno na výkon určité role
