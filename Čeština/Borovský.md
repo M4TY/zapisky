@@ -1,4 +1,4 @@
-# Karel havlíček Borovský
+# Karel Havlíček Borovský
 
 -   1821 - 1856
 -   Borová u Přibyslavi - Rodiště
