@@ -11,7 +11,7 @@
 -   ### Ekonomika
     -   Praktické hospodářské činnosti
     -   Hospodaření školství, armády, ČR, EU, ...
-    -   Národní hospodářsí (Původní název)
+    -   Národní hospodářství (Původní název)
 
 ### Řešení **inflace**
 
@@ -37,7 +37,12 @@
     -   Finanční odměna za půjčení peněz
 -   Hrubý domácí produkt (HDP)
     -   Celkový součet výroby v zemi
+-   Podnik ve ztrátě
+-   Podni v růstu
 
 ---
 
 Zjistit, zda-li vedeme **Stavební spoření**
+
+-   Podníkání ve firmách
+    -   Firmy se snaží o ZISK
