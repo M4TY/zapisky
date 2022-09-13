@@ -32,7 +32,7 @@
         "answer": "Jsou to souřadnice / pozice objektu ve scéně. Když bychom ho dali na 0,0,0 bude uprostřed scény."
     },
     {
-        "question": "Jak získám úhel mezi 2 vektory v prostoru?",
+        "question": "Jak získám úhel mezi 2 vektory v prostoru? (Dot Product)",
         "answer": "Pomocí skaláry neboli výpočtu (skalární součin 2 vektorů)."
     },
     {
