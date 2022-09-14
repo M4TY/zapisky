@@ -1,5 +1,7 @@
 # Odborná slova v literatuře
 
+-   Administrativní funkční styl
+
 ## Cizí slova
 
 1. Epigram
@@ -47,3 +49,17 @@
 3. Hlaholice
 4. Spřežka
 5. Libreto
+
+## Rejstřík
+
+-   věcný (upálení)
+-   jmenný (kostnice, rok)
+
+## Resume
+
+-   shrnutí
+
+## Anotace
+
+-   obsah knihy
+-   na začátku
