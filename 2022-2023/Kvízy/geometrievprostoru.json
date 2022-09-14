@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "Geometrie v prostoru"
+    },
+    {
+        "question": "Co to je Vektor?",
+        "answer": "Vektor je veličina která nese informaci o směru a skaláre."
+    },
+    {
+        "question": "Co to je Normála?",
+        "answer": "Kolmý vektor na 2 vektory v 3D prostoru."
+    },
+    {
+        "question": "Co je to Origin?",
+        "answer": "Defaultní souřadnice objektu 0,0,0."
+    },
+    {
+        "question": "Co je to Skalár?",
+        "answer": "Skalár je veličina určená jedním číslem."
+    },
+    {
+        "question": "Jaký skalár vyjde u dvou normalizovaných vektorů?",
+        "answer": "Výsledek je přímo cos(alpha). V takovém případě výjde kladné číslo pro vektory ve stejném směru a záporné pro vektory opačných směrů."
+    },
+    {
+        "question": "Co je to Local Space?",
+        "answer": "Závisí na jiném objektu (Na svém parentovi), když bychom ho dali na 0,0,0 bude na souřadnicích parenta. Je nezávislý na souřadnicovém systému. Každý objekt ve scéně má vlastní Local Space."
+    },
+    {
+        "question": "Co je to World Space?",
+        "answer": "Jsou to souřadnice / pozice objektu ve scéně. Když bychom ho dali na 0,0,0 bude uprostřed scény."
+    },
+    {
+        "question": "Jak získám úhel mezi 2 vektory v prostoru? (Dot Product)",
+        "answer": "Pomocí skaláry neboli výpočtu (skalární součin 2 vektorů)."
+    },
+    {
+        "question": "Co dělá cross product 2 vektorů?",
+        "answer": "Vektorový součin 2 vektorů. Operace získá normálový (kolmý) vektor na 2 vektory v 3D prostoru. Směr vzniklého vektoru není jednoznačný."
+    },
+    {
+        "question": "K čemu je normalizace vektoru?",
+        "answer": "Izoluje směr vektoru. Skalár je po normalizaci vektoru 1. Např.: Pohyb šikmě ve hře bude normalizovaný, tím pádem stejně rychlý jako kupředu a do strany jinak by byl rychlejší."
+    },
+    {
+        "question": "Jak získám vektor přesně opačného směru?",
+        "answer": "Souřadnice vektoru změníme na záporné (-1, -1, -1)"
+    },
+    {
+        "question": "Čeho dosáhneme skládáním nebo násobením skalárem?",
+        "answer": "Skládáním (sčítáním) lze dosáhnout posunu pozice v prostoru."
+    },
+    {
+        "question": "Jak přesně vyjádříme prostor v 3 rozměrném prostoru?",
+        "answer": "Pomocí 3 os XYZ"
+    },
+    {
+        "question": "Jak jsou osy vizualizované?",
+        "answer": "Pomocí RGB složek."
+    },
+    {
+        "question": "V čem jsou jednotlivé složky os většinou vyjádřeny?",
+        "answer": "Vyjádřeny 32bit floaty."
+    },
+    {
+        "question": "V jakých hodnotách je přesnost os omezená?",
+        "answer": "Ve velmi malých nebo velmi velkých hodnotách."
+    },
+    {
+        "question": "Mají všechny programy stejné XYZ / RGB?",
+        "answer": "Ne nemají Např.: Y směr nahoru = Unity / Z směr nahoru = Unreal Engine."
+    }
+]
