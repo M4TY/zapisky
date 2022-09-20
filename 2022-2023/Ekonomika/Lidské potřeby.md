@@ -16,7 +16,7 @@
         -   Biologie
         -   Velmi často spolu souvisí
         -   Fyzické uspokojení ochrany (třeba lepší oblek), Psychické spokojení že vám lidé závidí
-    -   c) Individuální x Kolektivní (Společnost)
+    -   c) Individuální
         -   Individuální se týkají nás jako jedince
         -   Kolektivní se týkají skupin obyvatel
     -   c) Kolektivní potřeby
@@ -28,3 +28,9 @@
 ## DÚ: 5 příkladů potřeb
 
 -   Př: vzdělávání - primární potřeba, psychická, individuální
+
+-   Sladké jídlo - sekundární, psychická
+-   Mobilní telefon - sekundární, psychická
+-   Obuv - primární, fyzická
+-   Dostatečná výplata - primární
+-   Omezená doprava v centru - kolektivní
