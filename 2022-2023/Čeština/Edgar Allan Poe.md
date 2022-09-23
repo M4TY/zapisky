@@ -19,13 +19,8 @@
             -   Starodávný havran: básnický přívlastek, symbol smrti
             -   Ebenový zjev: metafora
             -   Dekadence: pochmurnost, tajemnost,
-
----
-
-přečíst Jáma a kyvadlo
-
-U okna: Předčasný pohřeb
-
-Uprostřed: Černý kocour
-
-U dvěří: Vraždy v ulici Morgue
+    -   Předčasný pohřeb
+    -   Černý kocour
+    -   Vraždy v ulici Morgue
+    -   Zrádné srdce
+    -   Skandál v čechách
