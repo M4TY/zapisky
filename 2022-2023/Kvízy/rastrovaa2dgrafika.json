@@ -1,0 +1,46 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "Rastrová a 2D grafika"
+    },
+    {
+        "question": "Co to je pixel?",
+        "answer": "Pixel je je soubor několika kanálů (hodnot)"
+    },
+    {
+        "question": "Co to je kanál?",
+        "answer": "RGBA"
+    },
+    {
+        "question": "Co to je maskování a skládání kanálů?",
+        "answer": "Maskování je jako rozkládání obrazu na jednotlivé kanály. Skládání kanálů je jako opačný proces."
+    },
+    {
+        "question": "Co to je bitová hloubka?",
+        "answer": "Reprezentuje kolik odtínů barvy dostaneme. Při 8 bitech na 1 kanál máme rozmezí 0-255 pro každou barevnou složku."
+    },
+    {
+        "question": "Co to je dithering?",
+        "answer": "Systematické vynechání jednotlivých pixelů. Může napodobit průhlednost a šetří výkon."
+    },
+    {
+        "question": "Čím je způsobený color banding?",
+        "answer": "Snížením bitové hloubky. Šetří to paměť, ale nemáme pak dostatek jednotlivých odstínů. Lze mitigovat efektem dithering, nebo vyšší bitovou hloubkou"
+    },
+    {
+        "question": "Kdy je vhodné použít .png / .jpg formát?",
+        "answer": "Png se hodí na loga, ikonky, weby a texty, komprimovaný obraz je stejně kvalitní jako originál. Jpg se hodí na fotky, obrázky, komprimovaný obraz už nebude nikdy stejně kvalitní jako originál." 
+    },
+    {
+        "question": "Co to znamená per pixel?",
+        "answer": "Na každý pixel. Např.: 24 bitů per pixel = každý pixel 24 bitů."
+    },
+    {
+        "question": "Které blending operace znáte?",
+        "answer": "Multiply, Divide, Color Burn, Linera Dodge, Color Dodge, Substract, Darker Color, "
+    },
+    {
+        "question": "Co dělají operace Clamp, Remap?",
+        "answer": "Zabrání vstupní funkci překročení vymezeného intervalu. Např. Interval (0, 1). Přizpůsobení funkce do specifického tvaru. Posun / násobení v ose Y."
+    }
+]
