@@ -45,8 +45,8 @@
 
 ### Spotřeba X Použití
 
--   ## Spotřeba
--   Použití
+- Spotřeba
+- Použití
     -   Např.: Šroubovák jen použiji, ale pokud ho nezničím tam ho nespotřebuji
 
 ## Činnosti
@@ -65,13 +65,13 @@
 
 ### Průběh X Výsledek
 
--   Průběh
+- Průběh
 
     -   Činnost, která se vyvíjí v čase
     -   Zážitky
     -   Např.: Průběh konzertu
 
--   ## Výsledek
+- Výsledek
     -   Nové zuby
     -   Operace
     -   Chci mít opravené auto. Nepotřebuji vidět průběh.
@@ -82,4 +82,13 @@
 
 Úkol: 5 Statků, 5 Služeb
 
--   Webová stránka, nehmotný statek
+- Webová stránka, nehmotný statek
+- Voda, hmotný statek
+- Počítač (nebo jiný elektronický přístroj), hmotný statek
+- kryptoměna, nehmotný statek
+- peníze, hmotný statek
+- Výuka, služba
+- Koncert, služba
+- Postavení počítače, služba
+- Restaurace, služba
+- Kino, služba
