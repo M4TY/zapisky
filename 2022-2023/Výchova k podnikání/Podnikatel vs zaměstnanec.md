@@ -24,3 +24,27 @@
 
 -   Majitel
 -   Generální ředitel
+
+## Pracovní smlouva
+
+-   Vymezení smluvních stran
+-   Den nástupu do práce
+-   Náplň práce
+-   Mísot výkonu práce
+-   Hrubý měsíční příjem
+-   Druh parcovního poměru
+    -   Pracovní smlouva na dobu určitou a neurčitou.
+    -   Dohoda o provedení práce (DPP)
+    -   Dohoda o pracovní činnosti (DPČ)
+    -   Poloviční úvazek.
+    -   Pružná pracovní doba.
+    -   Sdílené pracovní místo.
+    -   Práce z domova (homeoffice)
+-   Datum a podpisy
+-   DPČ
+    -   80 hodin měsíčně
+-   DPP
+    -   100 hodin ročně
+-   Nemocenská
+    -   3 dny
+    -   14 dnů
