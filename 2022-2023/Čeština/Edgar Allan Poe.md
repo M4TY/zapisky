@@ -23,4 +23,3 @@
     -   Černý kocour
     -   Vraždy v ulici Morgue
     -   Zrádné srdce
-    -   Skandál v čechách
