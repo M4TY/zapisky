@@ -15,3 +15,5 @@
     -   Veřejné služby (doprava)
     -   Životní prostředí (kvalita ovzduší)
     -   Zdravotní stav
+    -   Kulturní (historické) souvislosti
+    -   Volný čas
