@@ -48,6 +48,8 @@
 
 ### Skandál v čechách
 
+> Za Sherlockem zajde český král. Král měl románek s Irene Adlerovou, která si jako vzpomínku nechala fotografii, která tajný vztah dokazuje. Král se bojí že Irene fotku zveřejní zkazí mu vztah s jeho nynější ženou. Pověří Holmese aby ji získal. Detektiv pomocí různých obleků Irene sleduje a náhou se ocitne na její svatbě. Holmes se v převleku kněze dostane k Irene domů a způsobí fiktivní požár. Během toho si všimne kam se Irene jako první vrhne. Další den s Watsonem dům navštíví, ale na tom místě už není fotografie jen dopis vekterém Irene vysvětluje že Sherlockovu lest prokoukla a že se král nemusí bát, že by fotografii zveřejnila.
+
 ### Spolek ryšavců
 
 > Pan Wilson je vetešník a má jasně červené vlasy. Jeho vetešnictví neprosperuje, ale sídlí vedle banky. John Clay k němu nastoupí za poloviční plat, ve sklepě jakoby vyvolává fotky, ale místo toho kope tunel do banky. Aby dostal vetešníka z krámu, vymyslí spolek ryšavců, vyláká za vidinou odměny Wilsona na místo, kde jako sekretář spolku má opisovat Britskou encyklopedii. najednou ale Wilson zjistí, že nemá kde opisovat, že spolek nikdo nezná a že nebude dostávat svoje peníze. Obrátí se na Holmese, a ten si počíhá v bance na bandu, která ji šla vykrást, protože tunel již byl hotový.
