@@ -37,12 +37,20 @@
 
 ## Pes baskervillský
 
+> sDěj se odehrává v Londýně a na baskervillském zámku v Dvonshiru. Úmrtí sira Charlese Baskervilla, myslelo se že ho zabil pes baskervilský. Legenda o psovi baskervilském která se dědí z pokolení na pokolení, hovoří o prokletí Huga Baskervillského za jeho nekalé a nemravné úmysly. Na blatech ho našli mrtvého a v dálce zaslechli zavýt psa, kterého předtím viděli u mrtvoly. Doktor Watson a Sherlock Holmes při pátrání zjistili, že vrahem není nadpřirozený zjev, ale hmotný človek. Holmes přesvědčí Watsona a Henryho Baskervilla že zůstal v Londýně, ale je tam taky a pozoruje situaci. Zjistí že o vřezdu Henryho se pokouší jeho soused Stapleton. Ale zabije utečence který na sobě měl Henryho šaty. Holmes chce, ale vidět vraha při činu a tak pošle henryho k Stapletonovi domů a řekne mu aby se vracel domů zpět domů po blatech. Tam na něj Stapleton pošle psa. Psa zastřelí a Stapleton se při útěku utopí v bažině.
+
 ## Dobrodružství Sherlocka Holmese
 
--   5 pomerančových jadérek
-    -   KKK
-    -   Bojí se dopisu ve kterých jsou pomerančová jadérka
-    -   Umírá vlastní blbostí
--   Skandál v čechách
--   Spolek ryšavců
--   Strakatý pás
+### 5 pomerančových jadérek
+
+> K Holmesovi přijde John Openshaw a tvrdí, že strýc Eliáš, co se vrátil z Ameriky, dostal dopis s pěti pomerančovými jadérky a písmeny KKK. Strýc zemřel, po něm dědil otec Openshawa - ten také dostal stejný dopis a také zemřel. Openshaw se proto bojí o svůj život. Holmes mu slíbí pomoc, ale při cestě od Holmese Openshaw umírá jakoby nešťastnou náhodou. Holmes vypátrá, že KKK znamená Kuklucklan, jadérky znamenají výzvu, aby adresát zmizel nebo zemře. Zjistí, kdo jsou vrazi, ale ti umírají na lodi při bouři.
+
+### Skandál v čechách
+
+### Spolek ryšavců
+
+> Pan Wilson je vetešník a má jasně červené vlasy. Jeho vetešnictví neprosperuje, ale sídlí vedle banky. John Clay k němu nastoupí za poloviční plat, ve sklepě jakoby vyvolává fotky, ale místo toho kope tunel do banky. Aby dostal vetešníka z krámu, vymyslí spolek ryšavců, vyláká za vidinou odměny Wilsona na místo, kde jako sekretář spolku má opisovat Britskou encyklopedii. najednou ale Wilson zjistí, že nemá kde opisovat, že spolek nikdo nezná a že nebude dostávat svoje peníze. Obrátí se na Holmese, a ten si počíhá v bance na bandu, která ji šla vykrást, protože tunel již byl hotový.
+
+### Strakatý pás
+
+> Příběh vypráví jak Sherlocka Holmese osloví žena, která se bojí o svůj život. Holmsovi vysvětluje, že jeho sestra byla před nedávnem náhodou zemřela po tom, co svému otcovi řekla, že se bude vdávat. Žena oslovující Sherlocka se svému otcovi svěřila před nedávnem, že se bude vdávat a otec jí řekl, ať vyjímečně spí v jiném pokoji. V pokoji stejném, kde zemřela její sestra
