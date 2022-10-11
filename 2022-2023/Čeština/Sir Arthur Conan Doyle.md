@@ -25,9 +25,10 @@
     -   1893 Poslední případ - povídka
         -   Vypadá to že Sherlock zemřel rukou Moriartyho (nezemřel). Zemřel zde u vrchních reichenbašských vodopádů Moriarty.
     -   1903 Prázdný dům - povídka
-        -   Po čtyřech letech se znovu objevuje a vysvětluje, že předstíral smrt, aby zničil nepřátele
+        -   Po čtyřech letech se znovu objevuje a vysvětluje, že předstíral smrt, aby zničil nepřátele.
     -   1927 Konec příběhů SH
 
+-   Vytvořen na základě Dipena
 -   Bydlí u paní Hudsonové v Baker street 221B s Watsonem
 -   Sherlock hraje na housle a užívá opium
 -   Obdivuje Iren Adlerovou a Moriartyho
@@ -53,4 +54,4 @@
 
 ### Strakatý pás
 
-> Příběh vypráví jak Sherlocka Holmese osloví žena, která se bojí o svůj život. Holmsovi vysvětluje, že jeho sestra byla před nedávnem náhodou zemřela po tom, co svému otcovi řekla, že se bude vdávat. Žena oslovující Sherlocka se svému otcovi svěřila před nedávnem, že se bude vdávat a otec jí řekl, ať vyjímečně spí v jiném pokoji. V pokoji stejném, kde zemřela její sestra
+> Příběh vypráví jak Sherlocka Holmese osloví žena, která se bojí o svůj život. Holmsovi vysvětluje, že jeho sestra byla před nedávnem náhodou zemřela po tom, co svému otcovi řekla, že se bude vdávat. Její posledí slova byla ten strakatý pás. Žena oslovující Sherlocka se svému otcovi svěřila před nedávnem, že se bude vdávat a otec jí řekl, ať vyjímečně spí v jiném pokoji. V pokoji stejném, kde zemřela její sestra. Ona se bojí o svoje bezpečí a Sherlock jde do jejího pokoje a čeká na noc. Sherlock dírou ve zdi do pokoje otce vidí lampu, která vrhá stín na zeď, kde vypadá něco jako had. Nakonec zvuky přestanou a Sherlock se jde podívat do pokoje a na zemi leží otec, který je uškrcený hadem, kterého trénoval, aby zabil jejich dcery.
