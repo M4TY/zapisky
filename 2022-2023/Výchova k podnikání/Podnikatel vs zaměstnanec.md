@@ -46,5 +46,20 @@
 -   DPP
     -   100 hodin ročně
 -   Nemocenská
-    -   3 dny
+    -   3 dny (do 1.července 2019 se první 3 dny neplatili)
     -   14 dnů
+-   OČR
+    -   Ošetřování člena rodiny
+
+## Podnikatelská činnost a formy podnikání
+
+-   Fyzická osoba - každý
+-   Pravnická osoba - firma nebo instituce a jako taková musí být založena
+-   činnost prováděný samostatně podnikatelem vlastním jménem a na vlastní odpovědnost za účelem dosažení zisku
+-   Podmínky:
+    -   Plnoletost
+    -   Občanství čr
+    -   Čistrý trestný rejstřík
+    -   Bezdlužnost
+    -   Právní způsobilost
+    -   1000,- kč právní poplatek
