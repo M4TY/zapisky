@@ -11,7 +11,12 @@
 ## Odborná pořekadla
 
 -   Důvěřuj, ale prověřuj.
--   Jaký pá, takový pes.
+    -   Nech ochotu entity nechat ohrozit tvoji budoucnost, i přesto validuj
+    -   Do jisté míry můžeme lidem důvěřovat, ale při okolnostech bychom si měli ověřovat informace
+        -   Informace na internetu
+-   Jaký pán, takový pes.
+    -   Vlastnosti osoby nadřazené mohou dokonale replikovat
+    -   Majitel se chová podobně jako pes (otec, dítě)
 
 1: převést do odborneho
 
