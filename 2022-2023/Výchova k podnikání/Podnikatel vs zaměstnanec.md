@@ -63,3 +63,9 @@
     -   Bezdlužnost
     -   Právní způsobilost
     -   1000,- kč právní poplatek
+-   Druhy živnostní:
+    -   Ohlašovací
+        -   Volné
+        -   Řemeslné
+        -   Vázané
+    -   Koncesované

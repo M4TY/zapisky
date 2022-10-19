@@ -11,7 +11,7 @@
 ## Odborná pořekadla
 
 -   Důvěřuj, ale prověřuj.
-    -   Nech ochotu entity nechat ohrozit tvoji budoucnost, i přesto validuj
+    -   Nech ochotu entity nechat ohrozit tvoji budoucnost, i přesto validuj správnost.
     -   Do jisté míry můžeme lidem důvěřovat, ale při okolnostech bychom si měli ověřovat informace
         -   Informace na internetu
 -   Jaký pán, takový pes.
@@ -24,3 +24,5 @@
 
 -   interpretace vysvětlíme
 -   pokusíme se převést danou situaci na aktuální věci v naší společnosti
+
+Deset věty úvahy
