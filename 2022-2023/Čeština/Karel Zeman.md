@@ -14,6 +14,7 @@
     -   Nech ochotu entity nechat ohrozit tvoji budoucnost, i přesto validuj správnost.
     -   Do jisté míry můžeme lidem důvěřovat, ale při okolnostech bychom si měli ověřovat informace
         -   Informace na internetu
+    -   > Vztahuje se přísloví "Důvěřuj, ale prověřuj" na naší společnost? Myslím si, že toto přísloví prakticky reflektuje naší společnost. V době internetu se dají najít všechny informace a novinky na našem zařízení. Musíme si však dát pozor, ze kterého zdroje tyto informace bereme. Jak přísloví říká, máme informacím získaným od jiné osoby nebo jakékoliv entity důvěřovat, ale musíme je brát s nadsázkou a počítat s tím, že by mohly být nepravdivé. Přísloví se může vztahovat na různou řadu informací. Zprávy ze zpravodajství, zprávy od kamarádů, nebo informace od kolegů a nadřízených. Ideální je si informaci ověřit z více nezávislých zdrojů, abychom si byli jisti, že informace je pravdivá.
 -   Jaký pán, takový pes.
     -   Vlastnosti osoby nadřazené mohou dokonale replikovat
     -   Majitel se chová podobně jako pes (otec, dítě)
