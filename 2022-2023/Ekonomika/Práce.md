@@ -41,18 +41,50 @@ Domácí úkol:
 
 -   10x pracovní proces. Jeden sloupeček **pracovní síla**, **druhý prostředky jednorázové spotřeby**, třetí **prostředky postupné spotřeby**.
 
-**Maty:**
-| PS | PJS | PPS |
-| :------: | :---: | :--------: |
-| Švadlena | Látka | Šicí stroj |
-| Programátor | Elektřina | Počítač |
-| Pekař | Těsto | Chleba |
-| Kuchař | Suroviny | Jídlo |
-| Učitel | Křída | Poznámky na tabuli |
-| Taxikář | Palivo | Peníze |
+|       PS       |    PJS    |    PPS     |
+| :------------: | :-------: | :--------: |
+|    Švadlena    |   Látka   | Šicí stroj |
+|  Programátor   | Elektřina |  Počítač   |
+|     Pekař      |   Těsto   |   Chleba   |
+|     Kuchař     | Suroviny  |   Hrnec    |
+|     Učitel     |   Křída   |   Tabule   |
+|    Taxikář     |  Palivo   |    Auto    |
+|     Účetní     |   Papír   | Kalkulačka |
+| Řidič autobusu |  Palivo   |  Autobus   |
+|     Účetní     |   Papír   | Kalkulačka |
+|    Hráč her    | Elektřina |  Počítač   |
 
-|    PS    |  PJS  |   PPS   |
-| :------: | :---: | :-----: |
-| Učitelka | Papír | Počítač |
+## Dělba práce
 
-|
+        Rozdělování práce na jednotlivé => odvětví / obory
+
+### Vývoj
+
+-   Dělba činností mezi muže a ženy
+-   Sběr
+-   Lov
+-   Chov
+-   Pěstitelství
+-   Řemeslo
+-   Nemateriální
+
+    -   náboženské úkony
+    -   vzdělání
+    -   léčení
+    -   věda
+    -   obrana
+    -   řízení
+    -   organizace
+    -   umění
+
+-   Součastnost:
+
+    -   Specializace
+        -   Úzké zaměření na daný obor / činnost
+        -   Vyšší výkonnost / produktivita specializované práce
+        -   Kvalita
+        -   Kvalifikace zaměstnance
+    -   Kooperace
+        -   Spolupráce
+
+-   Závěr: Dělba práce je v součastnosti vysoce rozvinutá (výroba elektrické energie = výroba potravin = studium jako příprava do budoucí práce). Používá se i v mezinárodním měřítku.
