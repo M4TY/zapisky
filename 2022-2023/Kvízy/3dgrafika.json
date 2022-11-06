@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "3D grafika"
+    },
+    {
+        "question": "Z čeho se skládá polygonální model?",
+        "answer": "Verticies (Body), Edges (Hrany), Faces (Strany), Polygons a pak celý mesh"
+    },
+    {
+        "question": "Které informace může nést vertex?",
+        "answer": "Pozice (XYZ), UV souřadnice (XY), Normála (XYZ), Tangenta (XYZW), Barva (RGBA), Váha kostí (%)"
+    },
+    {
+        "question": "Co je to lineární interpolace?",
+        "answer": "Aplikovatelné na všechny koncepty vyjadřitelné čísly. Metoda dopočítávání neznámé hodnoty mezi 2 body. Lerp(A,B,t)"
+    },
+    {
+        "question": "Jak funguje UV mapování?",
+        "answer": "Aplikování 2D obrazu na 3D model. UV souřadnice jsou uloženy ve vertexech. Souřadnice bodů mezi vertexy jsou dopočítávány lineární interpolací."
+    },
+    {
+        "question": "Jak funguje Phong shading?",
+        "answer": "Vyhlazení hran interpolací normál. Mezi dva vertexy přidáme body pro normály pomocí interpolace. Některé hrany chceme zachovat jako hranaté. Můžeme označit jako hard edges nebo soft edges"
+    },
+    {
+        "question": "Jak funguje skeletal animation?",
+        "answer": "Postavy se animují pomocí kostí. Simulují skutečné, lidské kosti. Animace pak probíhá otáčením kloubů kostí. Obvykle nechceme aby se kosti hýbaly."
+    }
+]
