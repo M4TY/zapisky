@@ -22,7 +22,7 @@
 2.  Prostředky postupné spotřeby
 
     -   Opotřebují se (postupně se opotřebovávají)
-        -   Opotřebení se projevu poruchami, snížením výkonu.......
+        -   Opotřebení se projevu poruchami, snížením výkonu atd.
     -   Nepřetvárí se
     -   Nestávají se produktem
     -   Bábovka
@@ -88,3 +88,64 @@ Domácí úkol:
         -   Spolupráce
 
 -   Závěr: Dělba práce je v součastnosti vysoce rozvinutá (výroba elektrické energie = výroba potravin = studium jako příprava do budoucí práce). Používá se i v mezinárodním měřítku.
+
+## Hospodářský proces
+
+-   Vztahy v Hospodářském procesu
+
+### Stát
+
+-   Poskytuje <span style="color:cyan">_obyvatelstvu_</span> takzvané veřejné statky a služby (2)
+-   Nabízí <span style="color:cyan">_obyvatelstvu_</span> pracovní pozice a hradí jim plat (3)
+-   Nabízí <span style="color:cyan">_podniku_</span> státní zakázky a platí za dodavatelské služby(uniformy, zbraně, dodávky energie...) (5)
+-   Poskytuje <span style="color:cyan">_podniku_</span> nějaké veřejné statky a služby(dotace, granty...) (8)
+
+### Podnik
+
+-   Nabízí <span style="color:cyan">_státu_</span> statky a služby (6)
+-   Odvádějí <span style="color:cyan">_státu_</span> daně (7)
+-   Nabízejí <span style="color:cyan">_obyvatelstvu_</span> rúzné druhy statků a služeb (9)
+
+### Obyvatelé
+
+-   Odvádí <span style="color:cyan">_státu_</span> daně (1)
+-   Nabízí <span style="color:cyan">_státu_</span> pracovní sílu (4)
+-   <span style="color:cyan">_Podniku_</span> uhrazuje statky a služby(elektřina, teplo, internet...) (10)
+-   Obyvatelstvo nabízí podnikům pracovní sílu (11)
+-   Podniky nabízí obyvatelstvu pracovní pozice a platí za ně (12)
+
+![Diagram](https://cdn.matyashimmer.eu/diagram.png)
+
+## Koloběh hospodářského procesu
+
+### Výroba
+
+-   Zhotovování statků či služeb pro někoho jiného
+
+### Rozdělování (Distribuce)
+
+-   Přiblížení statků a služeb spotřebiteli
+-   O rozdělování zdrojů rozhoduje stát
+
+### Směna
+
+-   Nákup a prodej statků a služeb
+-   Ne vždy platí přímo konzument (např.: někdy stát)
+
+### Spotřeba
+
+-   Využití statků a služeb
+-   **Konečná** (Mamka udělá oběd a já ho sním)
+-   Konečnou spotřebou obnovujeme pracovní sílu
+-   **Výrobní** (Mamka má firmu na výrobu obědů)
+
+### Závěr
+
+-   Tento koloběh je kontinuální
+-   V automobilce je část aut vyráběna, čát rozvážena, část prdáváná, část používáná
+-   **Koloběh hospodaření** probíhá nepřetržitě ve všech svých etapách v časových i místních propojeních
+
+| →        | Výroba | ↓           |
+| -------- | ------ | ----------- |
+| Spotřeba |        | Rozdělování |
+| ↑        | Směna  | ←           |
