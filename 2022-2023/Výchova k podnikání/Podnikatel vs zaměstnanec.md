@@ -42,12 +42,13 @@
     -   Práce z domova (homeoffice)
 -   Datum a podpisy
 -   DPČ
-    -   80 hodin měsíčně
+    -   20 hodin týdně
 -   DPP
-    -   100 hodin ročně
+    -   300 hodin ročně
 -   Nemocenská
     -   3 dny (do 1.července 2019 se první 3 dny neplatili)
-    -   14 dnů
+    -   14 dnů - 60%
+    -   Do konce nemoci - stát
 -   OČR
     -   Ošetřování člena rodiny
 
