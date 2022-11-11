@@ -77,3 +77,6 @@
         -   Symbol: Vzpomínky ma mládí
         -   Višňový sad koupil člověk co nebyl na stejné úrovni
             -   Pocházel s rodiny, která odjakživa Raněvským sloužila
+    -   Strýček Váňa
+    -   Racek
+    -   Tři sestry
