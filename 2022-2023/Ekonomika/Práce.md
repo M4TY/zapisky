@@ -105,6 +105,7 @@ Domácí úkol:
 -   Nabízí <span style="color:cyan">_státu_</span> statky a služby (6)
 -   Odvádějí <span style="color:cyan">_státu_</span> daně (7)
 -   Nabízejí <span style="color:cyan">_obyvatelstvu_</span> rúzné druhy statků a služeb (9)
+-   Podniky nabízí <span style="color:cyan">_obyvatelstvu_</span> pracovní pozice a platí za ně (12)
 
 ### Obyvatelé
 
@@ -112,7 +113,6 @@ Domácí úkol:
 -   Nabízí <span style="color:cyan">_státu_</span> pracovní sílu (4)
 -   <span style="color:cyan">_Podniku_</span> uhrazuje statky a služby(elektřina, teplo, internet...) (10)
 -   Obyvatelstvo nabízí podnikům pracovní sílu (11)
--   Podniky nabízí obyvatelstvu pracovní pozice a platí za ně (12)
 
 ![Diagram](https://cdn.matyashimmer.eu/diagram.png)
 
@@ -149,3 +149,32 @@ Domácí úkol:
 | -------- | ------ | ----------- |
 | Spotřeba |        | Rozdělování |
 | ↑        | Směna  | ←           |
+
+## Reprodukce
+
+-   Opakování **hospodářského procesu**
+
+-   Druhy
+    -   Prostá
+        -   Počáteční stav -> (cyklus) -> Stejný stav
+        -   Proces se opakuje ve stále stejném rozsahu
+        -   Tradiční hospodaření ("domorodci")
+        -   [100 -> 100]
+    -   Rozšířená
+        -   Počáteční stav -> (cyklus) -> +20
+        -   Proces se opakuje ve stále se zvětšujícím rozsahu
+        -   Moderní hospodaření ("civilizovaní")
+        -   Většina vyspělých zemí v ekonomickém růstu
+        -   [100 -> 120]
+    -   Zúžená
+        -   Počáteční stav -> (cyklus) -> -20
+        -   Proces se opakuje ve stále se zmenšujícím rozsahu
+        -   Moderní hospodaření ("civilizovaní")
+        -   Zemé v ekonomickém poklesu (i ČR), hospodářské krize, epidemie, ekologické krize, válka
+        -   [100 -> 80]
+    -   Závěr: Jednotlivé typy reprodukce se v dějinách střídají a obměňují
+
+Co je práce
+Co jsou činitele pracovního procesu (Pracovní síla, Prostředky JS, Prostředky PS)
+Dělba práce
+Hospodářský proces (Koloběh, Vztahy)
