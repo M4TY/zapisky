@@ -20,7 +20,7 @@
 
 **Typizace**
 
--   Typizace je zobrazení typických lidských vlastností na jednom člověku. Typizované postavy se objevovaly už ve starší literatuře, příkladem je Don Quijote.
+-   Typizace je zobrazení typických lidských vlastností na jednom člověku. Typizované postavy se objevovaly už ve starší literatuře, příkladem je Don Quijote. N a jednotlivém zobrazeno složité (na jedné postavě vystižen problém celé společnosti)
 
 Úkol: Podívat se na Revizora (zjistit o čem je)
 Úkol: Teams
@@ -80,3 +80,28 @@
     -   Strýček Váňa
     -   Racek
     -   Tři sestry
+
+## Émilé Zola
+
+-   Díla
+    -   Zabiják
+
+## Honoré de Balzac
+
+-   Francouzský literát
+-   Začínal jako tvůrce pokleslé literatury
+    -   Černý román
+        -   Svedené dívky, ušlechtilé činy, krev, souboje
+-   Díla
+    -   Lidská komedie (cyklus knih)
+        -   Román
+            -   Otec Goriot
+            -   Lesk a bída kurtizán
+            -   Ztracené iluze
+
+## Gustave Flaubert
+
+-   Ruský spisovatel
+-   Díla
+    -   Paní Bovaryová
+        -   Bovarismus (značnou část života prožívá v představách a vzdaluje se tak reálnému světu)
