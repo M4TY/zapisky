@@ -81,11 +81,6 @@
     -   Racek
     -   Tři sestry
 
-## Émilé Zola
-
--   Díla
-    -   Zabiják
-
 ## Honoré de Balzac
 
 -   Francouzský literát
@@ -105,3 +100,13 @@
 -   Díla
     -   Paní Bovaryová
         -   Bovarismus (značnou část života prožívá v představách a vzdaluje se tak reálnému světu)
+    -   Salambo
+    -   Citová výchova
+    -   Bouvard a Pécuchet
+
+## Émilé Zola
+
+-   Zakladatelem experimentálního románu
+-   Díla
+    -   Zabiják
+    -   Les Rougon-Macquart
