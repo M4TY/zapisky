@@ -1,0 +1,126 @@
+[
+    {
+        "subject": "EKO",
+        "theme": "Práce"
+    },
+    {
+        "question": "Co je to práce a co od ní očekáváme?",
+        "answer": "Cílěvědomá lidská činnost od které ožekáváme, že bude mít výsledek"
+    },
+    {
+        "question": "Co je to pracovní síla?",
+        "answer": "Psychické nebo fyzické činnosti, u kterých využiváme nějaké znalosti a schopnosti. (jazyky, odborné znalosti, obecné znalosti, vzhled...)"
+    },
+    {
+        "question": "Jaké máme prostředky pro pracovní proces?",
+        "answer": "Prostředky jednorazové spotřeby a prostředky postupné spotřeby"
+    },
+    {
+        "question": "Co jsou prostředky jednorázové spotřeby?",
+        "answer": "Přetvří se, přeměnují se, obvykle se stávají produktem, mění fyzickou podobu. Materiál, voda, benzín..."
+    },
+    {
+        "question": "Co jsou prostředky postupné spotřeby?",
+        "answer": "Postupně se opotřebují (poruchy, snížení výkonu), nepřetváří se, nestávají se produktem"
+    },
+    {
+        "question": "Co je fyzické opotřebení?",
+        "answer": "Opotřebení, které je způsobné používáním (spolehlivost, poruchovost)"
+    },
+    {
+        "question": "Co je morální opotřebení?",
+        "answer": "Opotřebení, které je způsobné používáním (spolehlivost, poruchovost)"
+    },
+    {
+        "question": "Co je to dělba práce?",
+        "answer": "Rozdělování práce na jednotlivé odvětví a obory"
+    },
+    {
+        "question": "Dělba práce v součastnosti",
+        "answer": "Dělí se na specializaci (zaměření na obor, lepší kvalita a vyšší výkonost práce) a kooperaci (spolupráce)"
+    },
+    {
+        "question": "Vztahy obyvatelé => stát",
+        "answer": "Odvádí státu daně, nabízí státu pracovní sílu"
+    },
+    {
+        "question": "Vztahy stát => obyvatelé",
+        "answer": "Nabízí obyvatelům statky a služby, nabízí obyvatelům pozice a hradí plat"
+    },
+    {
+        "question": "Vztahy podniky => stát",
+        "answer": "Nabízí státu statky a služby, odvádí státu daně"
+    },
+    {
+        "question": "Vztahy stát => podniky",
+        "answer": "Nabízí podnikům statky a služby (granty a dotace), nabízí podníkům státní zakázky (uniformy, zbraně, energie)"
+    },
+    {
+        "question": "Vztahy obyvatelé => podniky",
+        "answer": "Nabízí podnikům pracovní sílu, hradí podníkum statky a služby (elektřina, teplo, internet...)"
+    },
+    {
+        "question": "Vztahy podniky => obyvatele",
+        "answer": "Nabízí obyvatelům pracovní pozice a platí za ně, nabízí obyvatelům různé druhy statků a služeb"
+    },
+    {
+        "question": "Jaké čtyři faktory jsou v koloběhu hospodářského procesu?",
+        "answer": "Výroba, rozdělování (distribuce), směna, spotřeba"
+    },
+    {
+        "question": "Co je náplní výroby?",
+        "answer": "Zhotovování statků či služeb pro někoho jiného"
+    },
+    {
+        "question": "Co je náplní rozdělování (distribuce)?",
+        "answer": "Přiblížení statků a služeb spotřebiteli"
+    },
+    {
+        "question": "Co je náplní spotřeby?",
+        "answer": "Využití statků a služeb. Konečná spotřeba (Máma udělá oběd a já ho sním), Výrobní spotřeba (Máma má firmu na výrobu oděvů)"
+    },
+    {
+        "question": "Co je koloběh hospodářského procesu?",
+        "answer": "Kontinuální, stále probíhající koloběh hospodaření"
+    },
+    {
+        "question": "Co je to hospodářská reprodukce?",
+        "answer": "Opakování hospodářského procesu"
+    },
+    {
+        "question": "Jaké máme tři druhy hospodářské reprodukce?",
+        "answer": "Prostá, rozšířená, zúžená"
+    },
+    {
+        "question": "Jaká je definice prosté hospodářské reprodukce?",
+        "answer": "Proces se opakuje ve stále stejném procesu"
+    },
+    {
+        "question": "Jaká je definice prosté hospodářské reprodukce?",
+        "answer": "Proces se opakuje ve stále stejném rozsahu"
+    },
+    {
+        "question": "Jaká je definice rozšířené hospodářské reprodukce?",
+        "answer": "Proces se opakuje ve stále se zvětšujícím rozashu"
+    },
+    {
+        "question": "Jaká je definice zúžené hospodářské reprodukce?",
+        "answer": "Proces se opakuje ve stále se zmenšujícím rozashu"
+    },
+    {
+        "question": "Kde najdeme prostou hospodářskou reprodukci?",
+        "answer": "V zemích kde je tradiční hospodáření (domorodci)"
+    },
+    {
+        "question": "Kde najdeme rozšířenou hospodářskou reprodukci?",
+        "answer": "V zemích kde je moderní hospodáření (\"civilizované\") a ekonomický růst"
+    },
+    {
+        "question": "Kde najdeme zúženou hospodářskou reprodukci?",
+        "answer": "V zemích kde je moderní hospodáření (\"civilizované\") a země je v ekonomické poklesu (hospodářská krize, válka, epidemie, ekologická krize atd.)"
+    },
+    {
+        "question": "Typy reprodukce v dějinách?",
+        "answer": "Jednotlivé typy se v dějinách střídají a obměňují"
+    }
+]
