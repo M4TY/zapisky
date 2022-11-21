@@ -76,6 +76,10 @@
         "answer": "Přiblížení statků a služeb spotřebiteli"
     },
     {
+        "question": "Co je náplní směny?",
+        "answer": "Nákup a prodej statků a služeb"
+    },
+    {
         "question": "Co je náplní spotřeby?",
         "answer": "Využití statků a služeb. Konečná spotřeba (Máma udělá oběd a já ho sním), Výrobní spotřeba (Máma má firmu na výrobu oděvů)"
     },
@@ -90,10 +94,6 @@
     {
         "question": "Jaké máme tři druhy hospodářské reprodukce?",
         "answer": "Prostá, rozšířená, zúžená"
-    },
-    {
-        "question": "Jaká je definice prosté hospodářské reprodukce?",
-        "answer": "Proces se opakuje ve stále stejném procesu"
     },
     {
         "question": "Jaká je definice prosté hospodářské reprodukce?",
