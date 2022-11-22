@@ -178,3 +178,4 @@ Domácí úkol:
 
 -   Přírodní podmínky (zdroje)
 -   Pracovní síla (demografické podmínky, pracovní stav)
+-   Kapitál
