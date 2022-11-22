@@ -110,3 +110,15 @@
 -   Díla
     -   Zabiják
     -   Les Rougon-Macquart
+    -   Nana
+    -   Slovní spojení: Přilezení ke křížku (ponižující žádost o pomoc)
+
+## Charles Dickens
+
+-   významný představitel anglcikého realismu
+-   všechny jeho texty mají hlavní hrdiny z dětského světa (většinou chlapci)
+-   Kronika Pichwikova kruhu
+    -   Je vystavěna na námětu jak se městský člověk dostává na venkov
+-   Díla:
+    -   Nadějě vyhlídky
+    -   Oliver Twist
