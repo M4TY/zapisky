@@ -174,6 +174,8 @@ Domácí úkol:
         -   [100 -> 80]
     -   Závěr: Jednotlivé typy reprodukce se v dějinách střídají a obměňují
 
+10.h / 22.11
+
 ## Výrobní faktory
 
 -   Přírodní podmínky (zdroje)
