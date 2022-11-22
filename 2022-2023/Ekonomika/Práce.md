@@ -174,7 +174,7 @@ Domácí úkol:
         -   [100 -> 80]
     -   Závěr: Jednotlivé typy reprodukce se v dějinách střídají a obměňují
 
-Co je práce
-Co jsou činitele pracovního procesu (Pracovní síla, Prostředky JS, Prostředky PS)
-Dělba práce
-Hospodářský proces (Koloběh, Vztahy)
+## Výrobní faktory
+
+-   Přírodní podmínky (zdroje)
+-   Pracovní síla (demografické podmínky, pracovní stav)
