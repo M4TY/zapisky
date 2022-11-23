@@ -122,9 +122,17 @@
 -   Díla:
     -   Nadějě vyhlídky
     -   Oliver Twist
+    -   David Copperfield
 
 ## Hans Christian Andersen
 
 -   Autorská pohádka, spojuje lidové dění pohádkou
 -   Dobro a zlo
 -   Mělo by vyhrát dobro
+-   Díla:
+    -   Ošklivé káčátko
+    -   Pasáček vepřů
+    -   Křesadlo
+    -   Malá mořská víla
+    -   Děvčátko se sirkami
+    -   Statečný cínový vojáček
