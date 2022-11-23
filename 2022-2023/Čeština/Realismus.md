@@ -122,3 +122,9 @@
 -   Díla:
     -   Nadějě vyhlídky
     -   Oliver Twist
+
+## Hans Christian Andersen
+
+-   Autorská pohádka, spojuje lidové dění pohádkou
+-   Dobro a zlo
+-   Mělo by vyhrát dobro

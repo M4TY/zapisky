@@ -54,6 +54,8 @@
 
 ## Podnikatelská činnost a formy podnikání
 
+**Podnikatelská činnost** = soustavná činnost (ne tedy příležitostná činnost), která je prováděná samostatně podnikatelem vlastním jménem a na vlastní odpovědnost za účelem dosažení zisku.
+
 -   Fyzická osoba - každý
 -   Pravnická osoba - firma nebo instituce a jako taková musí být založena
 -   činnost prováděný samostatně podnikatelem vlastním jménem a na vlastní odpovědnost za účelem dosažení zisku
@@ -70,3 +72,42 @@
         -   Řemeslné
         -   Vázané
     -   Koncesované
+
+## Dotčené orgány
+
+-   Živnostní úřad
+-   Sociální pojištění
+-   Zdravotní pojištění
+-   Úřad práce
+
+### Živnostní úřad
+
+-   Ohlášení živnosti
+-   Žádost o koncesi
+-   Oznámení změny, resp. doplnění údajů dle §49,
+
+### Finanční úřad
+
+### Česká správa sociálního zabezpečení
+
+-   Oznámení o zahájení (ukončení) samostatné výdělečné činnosti OSVČ
+-   Přihláška k důchodovému a nemocenskému pojištění OSVČ
+
+### Úřad práce
+
+-   Hlášení volného pracovního místa, resp. jeho obsazení (týká se jak FO, tak PO)
+
+### Zdravotní pojišťovna
+
+# Podnikatelská etika a udržitelnost
+
+## Podnikatelská etika
+
+-   V **podnikatelské sféře** se v souvislosti s etikou mluví o podnikatelskékultuře, prosazování a dodržování **etického chování** a rozhodování, které by mělo ústit v sociální, morální a ekologickou odpovědnost.
+
+## Konkurenčí boj
+
+-   Reklamy
+-   Ekonomická krize
+-   Ekologie
+-   Konkurenční boj
