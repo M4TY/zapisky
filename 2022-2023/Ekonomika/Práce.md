@@ -174,10 +174,15 @@ Domácí úkol:
         -   [100 -> 80]
     -   Závěr: Jednotlivé typy reprodukce se v dějinách střídají a obměňují
 
-10.h / 22.11
-
-## Výrobní faktory
+## Výrobní faktory - 10.h - 22.11
 
 -   Přírodní podmínky (zdroje)
+    -   Podnebí
+    -   Nerostné suroviny
 -   Pracovní síla (demografické podmínky, pracovní stav)
+    -   Mobilita
 -   Kapitál
+    -   Zdroje, dosud vytvořené člověkem (i PENÍZE, PPJ a PJS)
+-   Řešíme hlavně v rámci společnosti jako celku
+
+## Oprava písemné práce - 11.h - 29.11

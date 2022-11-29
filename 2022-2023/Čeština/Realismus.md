@@ -136,3 +136,18 @@
     -   Malá mořská víla
     -   Děvčátko se sirkami
     -   Statečný cínový vojáček
+
+## Mark Twain
+
+-   Dobrodružství Toma Sawyera
+
+## Práce v hodině
+
+1. Mrtvé duše - Gogol
+2. Evženie Grandetová - Honore de Balzac
+3. Vojna - Tolstoj
+4. Nora - Ibsen
+5. Gösta Berling - Selma Lagerlöfová
+6. Višňový sad - Čechov
+7. Zločin a trest - Dostojevskij
+8. Quo vadis - Sienkiewicz
