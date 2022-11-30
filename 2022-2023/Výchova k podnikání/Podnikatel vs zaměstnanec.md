@@ -111,3 +111,21 @@
 - Ekonomická krize
 - Ekologie
 - Konkurenční boj
+
+## CSR
+
+- Princip zahrnutí sociálních a enviromentálních hledisek do strategie firmy
+- V praxi
+  - Ekonomická
+  - Sociální
+  - Enviromentální
+
+## Základy managementu
+
+- Hlavně mají zodpovědnost a řeší lidi pod sebou
+
+## Profil manažera
+
+- Odborné znalosti
+- Praktické dovednosti
+- Sociální znalost
