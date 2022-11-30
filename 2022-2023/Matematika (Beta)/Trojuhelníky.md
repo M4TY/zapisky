@@ -35,7 +35,7 @@
 
    - $o^2=m^2+t^2-2mt*cos(σ)$
 
---- 
+---
 
 ## Příklady
 
@@ -46,11 +46,13 @@
 - $\gamma = 60°$
 
 1. Určete délku strany c.
+
    - $c^2=a^2+b^2-2ab*cos(\gamma)$
    - $c^2=12,4^2+16,8^2-2*12,4*16,8*cos(60°)$
    - $c=15,08cm$
 
 2. Určete úhel $\alpha$.
+
    - $\alpha=45°24'$
 
 3. Určete úhel $\beta$.

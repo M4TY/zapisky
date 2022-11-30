@@ -1,6 +1,6 @@
 # Odborná slova v literatuře
 
--   Administrativní funkční styl
+- Administrativní funkční styl
 
 ## Cizí slova
 
@@ -52,14 +52,14 @@
 
 ## Rejstřík
 
--   věcný (upálení)
--   jmenný (kostnice, rok)
+- věcný (upálení)
+- jmenný (kostnice, rok)
 
 ## Resume
 
--   shrnutí
+- shrnutí
 
 ## Anotace
 
--   obsah knihy
--   na začátku
+- obsah knihy
+- na začátku

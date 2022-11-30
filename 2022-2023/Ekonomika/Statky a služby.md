@@ -1,80 +1,80 @@
 # Statky a služby
 
--   uspokojování lidských potřeb
--   Služby vám typicky nabízí někdo jiný, než vy sami
+- uspokojování lidských potřeb
+- Služby vám typicky nabízí někdo jiný, než vy sami
 
 ### Statky
 
--   Předměty
+- Předměty
 
-    -   v našém vlastnictní (automobil, ...)
-    -   mimo naše vlastnictní (lavice, ...)
-    -   původce předmětů
-        -   člověk
-        -   příroda
+  - v našém vlastnictní (automobil, ...)
+  - mimo naše vlastnictní (lavice, ...)
+  - původce předmětů
+    - člověk
+    - příroda
 
 ## Statky (předměty)
 
 ### Hmotné X nehmotné
 
--   Hmotné
+- Hmotné
 
-    -   Elektronika
-    -   Potraviny
-    -   Budovy
+  - Elektronika
+  - Potraviny
+  - Budovy
 
--   Nehmotné
-    -   Výtvory lidské duševní činnosti
-        -   Pythagorova věta
-        -   Mozartova symfonie
-        -   Můžouz mít různé nosiče (papír, vytesané do kamene...), ale mají stejný význam
-        -   Lidská řeč
+- Nehmotné
+  - Výtvory lidské duševní činnosti
+    - Pythagorova věta
+    - Mozartova symfonie
+    - Můžouz mít různé nosiče (papír, vytesané do kamene...), ale mají stejný význam
+    - Lidská řeč
 
 ### Volné X Ekonomické
 
     Sběr hub je v České republice povolen (Volné), mezitím co v Itálii atd. je zakázán (Ekonomické)
 
--   Volné
+- Volné
 
-    -   Volně dostupné
-    -   Přírodní úkazy
+  - Volně dostupné
+  - Přírodní úkazy
 
--   Ekonomické
-    -   Omezeně dostupné
-    -   Obecně jich na světě není dost
+- Ekonomické
+  - Omezeně dostupné
+  - Obecně jich na světě není dost
 
 ### Spotřeba X Použití
 
--   Spotřeba
--   Použití
-    -   Např.: Šroubovák jen použiji, ale pokud ho nezničím tam ho nespotřebuji
+- Spotřeba
+- Použití
+  - Např.: Šroubovák jen použiji, ale pokud ho nezničím tam ho nespotřebuji
 
 ## Služby (činnosti)
 
 ### Osobní X Věcné
 
--   Osobní
+- Osobní
 
-    -   Duševní či fyzická potřeba uživatele
-    -   Např.: Na koncertu se uvolním. V restauraci se najím .....
+  - Duševní či fyzická potřeba uživatele
+  - Např.: Na koncertu se uvolním. V restauraci se najím .....
 
--   Věcné
-    -   Činnost která se netýká nás, ale našich předmětů
-        -   Opravit si boty
-        -   Ušít si šaty
+- Věcné
+  - Činnost která se netýká nás, ale našich předmětů
+    - Opravit si boty
+    - Ušít si šaty
 
 ### Průběh X Výsledek
 
--   Průběh
+- Průběh
 
-    -   Činnost, která se vyvíjí v čase
-    -   Zážitky
-    -   Např.: Průběh konzertu
+  - Činnost, která se vyvíjí v čase
+  - Zážitky
+  - Např.: Průběh konzertu
 
--   Výsledek
-    -   Nové zuby
-    -   Operace
-    -   Chci mít opravené auto. Nepotřebuji vidět průběh.
+- Výsledek
+  - Nové zuby
+  - Operace
+  - Chci mít opravené auto. Nepotřebuji vidět průběh.
 
 ---
 
@@ -82,13 +82,13 @@
 
 Úkol: 5 Statků, 5 Služeb
 
--   Webová stránka, nehmotný statek
--   Voda, hmotný statek, ekonomický, použítí
--   Počítač (nebo jiný elektronický přístroj), hmotný statek
--   kryptoměna, nehmotný statek
--   peníze, hmotný statek
--   Výuka, služba
--   Koncert, služba
--   Postavení počítače, služba
--   Restaurace, služba
--   Kino, služba
+- Webová stránka, nehmotný statek
+- Voda, hmotný statek, ekonomický, použítí
+- Počítač (nebo jiný elektronický přístroj), hmotný statek
+- kryptoměna, nehmotný statek
+- peníze, hmotný statek
+- Výuka, služba
+- Koncert, služba
+- Postavení počítače, služba
+- Restaurace, služba
+- Kino, služba

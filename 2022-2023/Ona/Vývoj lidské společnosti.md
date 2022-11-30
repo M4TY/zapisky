@@ -2,9 +2,9 @@
 
 ## Pravěk
 
--   rod = stařešina
-    -   Nejmoudřejší, nejstarší
+- rod = stařešina
+  - Nejmoudřejší, nejstarší
 
 Pak prichazi neolit
 
--   Rodina
+- Rodina
