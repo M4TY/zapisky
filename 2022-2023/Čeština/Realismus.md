@@ -151,3 +151,35 @@
 6. Višňový sad - Čechov
 7. Zločin a trest - Dostojevskij
 8. Quo vadis - Sienkiewicz
+
+## Národní divadlo
+
+- Novorenesance
+- Druhá polovina 19. stol
+- 1862
+- V. Hálek
+- Král Vukašín
+- Tylovy hry
+- Hálkova historická dramata
+- Hry Nerudovy generace
+- 16.5.1868 - základní kámen ND
+- 11.6.1881 - provizorní otevření ND
+- 12.8.1881 - budova ND vyhořela
+- 18.9.1883 - definitivní otevření ND
+
+### Sochařství
+
+- Bohuslav Schnirch
+
+  - trigy, múzy
+
+- Josef Václav Myslbek
+
+  - pouze alegorie hudby
+
+- Opona
+  - Vojtěch Hynais
+
+---
+
+**Mluvní cvičení požár národního divadla**
