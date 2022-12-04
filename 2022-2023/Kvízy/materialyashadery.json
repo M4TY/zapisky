@@ -1,0 +1,82 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "Materiály a shadery"
+    },
+    {
+        "question": "Co to je materiál?",
+        "answer": "Soubor proměnných hodnot předávaných shaderu. V případě PBR jde o jednotlivé mapy + doplňující proměnné"
+    },
+    {
+        "question": "Co je to shader?",
+        "answer": "Program vykonáván grafickou kartou. Silně rozdílné od klasického programování. Extrémní důraz na paralelizaci výpočtů. Píše se i v různých jazycích, dnes ale často nahrazován visuálním programováním."
+    },
+    {
+        "question": "Co je to Shader workflow?",
+        "answer": "Různé povrchy vyžadují různé chování, různé shadery. Např.: Povrch vody se musí hýbat, být průhledný, odrážet světlo, refrakce věcí pod vodou. Univerzální shadery - PBR = Klasické povrchy s různými vstupními texturami, mapami."
+    },
+    {
+        "question": "Co je to textura?",
+        "answer": "Obrazový soubor s barvou v každém pixelu aplikovaný na 3D povrchOznačovaný také jako diffuse/albedo mapa."
+    },
+    {
+        "question": "Na jaké části se dělí shader?",
+        "answer": "Vertex shader – Per-vertex operace, např. posun vertexů v prostoru. Fragment shader – Per-fragment operace, např. UV mapování. Compute shader – Nespecifikované výpočty."
+    },
+    {
+        "question": "Co je to mapa?",
+        "answer": "Obrazový soubor aplikovaný na 3D plochu. Od textury se liší vyjádřením hodnoty v každém pixelu (to můžé být např.: počet kanálů, bitový hloubka)"
+    },
+    {
+        "question": "Co obvykle obsahují mapy?",
+        "answer": "Normály (XYZ), Tangenta (XYZW), Lesklost / Průsvitnost / Výška (%), UV Souřadnice (uv)"
+    },
+    {
+        "question": "Co je to PBR?",
+        "answer": "Univerzální standard způsobu rendrování klasických povrchů. Efektivní simulace chování skutečného světla pomocí specifických map povrchu        "
+    },
+    {
+        "question": "Co je to PBR albedo?",
+        "answer": "Barevná složka povrchu. Albedo by nemělo obsahovat vlastní stínování."
+    },
+    {
+        "question": "Co je to PBR roughness?",
+        "answer": "Simulace mikrospopického povrchu. Opak roughness je glossiness (smooth povrch). Více rough odráží více různě světlo a vypadá pak více leskle."
+    },
+    {
+        "question": "Co je to PBR metallic, AO, Fresnel?",
+        "answer": "Další vstupy do PBR modelu. Metallic určí jak moc je předmět kovový. Ambient Occlusion drobné stínování v rýhách povrchu. Fresnel Odrazivost povrchu pod velkým úhlem."
+    },
+    {
+        "question": "Co je to PBR wokrflow?",
+        "answer": "Je to spojení několika PBR složek pro vytvoření jednoho shaderu povrchu."
+    },
+    {
+        "question": "Jak funguje normal mapa?",
+        "answer": "Specifická modrá barva. V každém pixelu uložený normálový vektor (kolmý na povrch). Funguje pouze ve spolupráci se světlem. Umožňuje per-fragment kalkulaci světla, místo per-vertex (surface)"
+    },
+    {
+        "question": "Které mapy lze použít pro PBR?",
+        "answer": "Specifické mapy povrchu"
+    },
+    {
+        "question": "Co je to texture tiling? Jak se řeší?",
+        "answer": "Pro větší modely se mapy opakují a toto opakování je pak často vidět. Lze řešit nestandartními shadery. Např.: Stochastic texture (míchání více vrstev dle vzdálenosti)"
+    },
+    {
+        "question": "Co je to channel packing?",
+        "answer": "Práce s mapami. Použijeme jednotlivé RGBA kanály pro různé typy map. Úspora grafické paměti a rychlejší vykreslování"
+    },
+    {
+        "question": "Jaká data ukládá pixel?",
+        "answer": "3 kanály po 8 bitech – 24 bitů per pixel (na každý pixel), standard Truecolor. S alpha kanálem – 32 bitů = 2048x2048 obraz má 16Mb dat. Potřebujeme kompresi."
+    },
+    {
+        "question": "Co je to Height mapa?",
+        "answer": "V pixelu je % hodnota výšky. 0 – nejnižší bod, 1 – nejvyšší bod. Lze využít pro simulaci, nebo skutečný posun geometrie. Používané pro drobné povrchy, nebo rozsáhlé terény."
+    },
+    {
+        "question": "Můžeme použít černo-bílou fotku pro height mapu?",
+        "answer": "Ne height mapa musí být správně generovaná a není to jakákoliv černo-bílá fotka."
+    }
+]
