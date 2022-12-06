@@ -166,6 +166,8 @@
 - 11.6.1881 - provizorní otevření ND
 - 12.8.1881 - budova ND vyhořela
 - 18.9.1883 - definitivní otevření ND
+- Foyer - předsálí (původní význam - prostor ohniště)
+- Lunety - malby do půlkruhu
 
 ### Sochařství
 
@@ -183,3 +185,7 @@
 ---
 
 **Mluvní cvičení požár národního divadla**
+
+U okna - Naši furianti
+Uprostřed - Její Pastorkyňa
+U dvěří - Mareš
