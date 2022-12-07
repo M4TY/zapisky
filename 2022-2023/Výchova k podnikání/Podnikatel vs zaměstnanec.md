@@ -129,3 +129,20 @@
 - Odborné znalosti
 - Praktické dovednosti
 - Sociální znalost
+
+## 4 Typy alokátorů
+
+```
+        +-----------------------------+
+EFEKTY  | Manažer    Pravý podnikatel |
+                 | Hobbyista  Misionář         |
+        +-----------------------------+
+                               RIZIKO
+```
+
+## Manažrské styly
+
+- Autoritativní (řeknu a bude)
+- Benevolentní
+- Konzultativní
+- Participativní

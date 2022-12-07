@@ -157,6 +157,16 @@
 - Novorenesance
 - Druhá polovina 19. stol
 - 1862
+- Fakta:
+  - Nazývá se zlatá kaplička
+  - Kapacita 1000 lidí
+  - 5 pater
+  - Přes 20 základních kamenů
+  - Oponu udělal Vojtěch Hynajs
+  - Na oponě jsou znaky měst, která podpořila stavbu ND
+  - Důvod požáru se nikdy nevyřešil
+    - Uhlíky
+    - Němci
 - V. Hálek
 - Král Vukašín
 - Tylovy hry
@@ -182,10 +192,37 @@
 - Opona
   - Vojtěch Hynais
 
----
+## Ladislav Stroupěžnický (1850-1892)
+
+- Dramaturg Národního divadla
+- Veselohry s historiskými náměty
+- Dramatik
+  - Dělá díla
+- Dramaturg
+  - Dělá program
+
+### Historické veselohry s postavou Mikoláše Dačického z Heslova
+
+- Zvíkovský rarášek
+- Paní mincmistrová
+
+### Venkovská veselohra
+
+- Naši furianti
+
+## Gabriela Preissová
+
+- Gazdina roba
+  - Pod názvem Eva - opera Bohuslava Foerstra
+  - Její pastorkyňa (opera Leoše Janáčka)
+  - Gazdina a gazda
+    - Hospodář
+  - Roba
+    - Dívka které pracuje
+- Literární text k opeře - libretto
 
 **Mluvní cvičení požár národního divadla**
 
 U okna - Naši furianti
 Uprostřed - Její Pastorkyňa
-U dvěří - Mareš
+U dvěří - Mariša
