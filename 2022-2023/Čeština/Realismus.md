@@ -209,6 +209,7 @@
 ### Venkovská veselohra
 
 - Naši furianti
+  - Furiant je ten, co má vždy pravdu
 
 ## Gabriela Preissová
 
@@ -221,8 +222,26 @@
     - Dívka které pracuje
 - Literární text k opeře - libretto
 
-**Mluvní cvičení požár národního divadla**
+## Alois Mrštík (1861 - 1925) a Vilém Mrštík (1863 - 1912)
 
-U okna - Naši furianti
-Uprostřed - Její Pastorkyňa
-U dvěří - Mariša
+- Psali impresionestický charakter prózy
+  - Neztvárňovali to jak vypadá realita
+- Imprese - dojem
+- Impresionismus
+  - V přírodě
+  - Působení na všechny smysly
+
+### Maryša
+
+- vneskovské drama
+- struktura viz antické drama
+  - expozice
+  - kolize
+  - krize
+  - periepetie
+  - katastrofa
+- jazyk moravské vesnice
+
+Okno - Psohlavci
+Prostředek - FL věka
+Dveře - Lucerna
