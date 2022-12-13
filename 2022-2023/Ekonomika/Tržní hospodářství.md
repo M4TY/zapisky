@@ -21,6 +21,8 @@
 | Podinky mohou být v soukromém vlastnictví | Jsou podniky vlastněné státem (v ČR) |
 |            Právní samostatnost            |        Právní nesamostatnost         |
 
+> 13.h 13.12
+
 ## Soukromé vlastnictví
 
 ### Právní
@@ -28,20 +30,36 @@
 - Volíte si obor ve kterém podnikáte
 - Místo kde podnikáme
 - Obchodní partnery
-- Zaměstance
+- Zaměstnance
 
 ### Ekonomická
 
 - Volíte samostatně ceny, mzdy (minimální 16 200)
-- Obchodní partnery
-- Rozhodujete o výdělku
+- Rozhodujete o rozdělení zisku
 
-## Veřejné vlastnictví
+### Volná směnitelnost měny
+
+- Export do zahraničí
+- Turismus
+- Stát si bere úvěry
+
+## Státní vlastnictví podniků (v ČR)
 
 ### Právní nesamostatnost
 
-- Stát zasahoval do zaměstnanců ale neurčoval každému kde bude pracovat hlavně z plitických důvodů
+- Stát určuje obor
+- Stát určuje místo kde podnikáme
+- Stát určuje obchodní partnery
+- Stát zasahoval do zaměstnanců, ale neurčoval každému kde bude pracovat
+- Do značné míry předurčeno tím, čemu se podniky věnovaly před 1948
 
 ### Ekonomicky nesamostatné
 
-- Mentálně přemýšlet
+- Stát určoval mzdy a ceny
+- Přerozdělování (stát do značné míry přerozděloval prostředky)
+
+### Neexistovala volná směnitelnost měny
+
+- Neexistoval dostatečný export
+- Nebyl turistický ruch, aby přiváželi zahraniční měnu
+- Stát se nezadlužoval
