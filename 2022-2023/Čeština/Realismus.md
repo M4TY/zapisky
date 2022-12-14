@@ -244,11 +244,12 @@
 
 ## Alos Jirásek (1851 - 1930)
 
-- Jiráskův Hronov
+- Jiráskův Hronov (mají tam Jiráskovo divadlo)
 - Mnohoromány
 - Vrací se zpět
 - Politicky a kulturně činný
 - 1917 Dokument k vytvoření ČSR
+- Zaměstnání Praha a Litomyšl
 
 ### F.L. Věk
 
@@ -260,5 +261,58 @@
 
 - Chodové ztratili práva
 - Šlechtic Lamminger
+  - Česky Lomikar
   - Bylo mu předpovězeno že do roka zemře a stalo se tak
 - Jan Sladký = Kozina
+- Chodové ve znaku měli boty
+  - Do znaku jim psí hlavu vložil Mikoláš Aleš
+- Když nekomu nasadím psí hlavu
+  - Někoho obelhávám
+
+### Venkovská dramata
+
+- Otec
+- Vojnarka
+
+### Historická dramata "trilogie tří Janů"
+
+- Jan... Hus
+- Jan... Žižka
+- Jan... Roháč
+
+## Venkovský realismus
+
+- Karel Václav Rais
+- Terezna Nováková
+- Antal Stašek (Antonín Zeman)
+- Josef Holeček
+- Jan Herben
+- Jindřich Šimon Baar
+- Karel Klostermann
+
+## Rukopisné boje
+
+- T.G. Masaryk
+- Časopis Athenaeum
+
+OPAKOVANÍ
+
+- Činnost Prozatimního divadla byla zahájena jakou historickou hrou
+  - Král Vukašín od Vítězlava Hálka
+- Kdy byla zbudována první samostatná kamenná česká scéna
+  - Prozatimní divadlo 1862
+- Kdy byl položen základní kámen ND a pojí se s ním
+  - 1868
+  - Vydání Almanachu Ruh
+- 188\_ - ** otevření ND při příležitosti \_**
+  - 1881 - slavnostní
+  - návštěva korunního prince Rudolfa
+- Tehdy se hrála opera**_ od _**
+  - Libuše od Smetany
+- 188\_ - tragedie, budova ND **\_\_\_**
+  - 1881 vyhořela
+- 188\_ otevření ND
+  - Tehdy se hrála opera Libuše
+  - 1883 Libuš smetana
+- Budova ND se označuje jako \_\_\_
+  - Zlatá kaplička
