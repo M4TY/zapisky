@@ -242,6 +242,23 @@
   - katastrofa
 - jazyk moravské vesnice
 
-Okno - Psohlavci
-Prostředek - FL věka
-Dveře - Lucerna
+## Alos Jirásek (1851 - 1930)
+
+- Jiráskův Hronov
+- Mnohoromány
+- Vrací se zpět
+- Politicky a kulturně činný
+- 1917 Dokument k vytvoření ČSR
+
+### F.L. Věk
+
+### Lucerna
+
+- mlynář Libor vodí lidi k zámku žije s babičkou a Haničkou
+
+### Psohlavci
+
+- Chodové ztratili práva
+- Šlechtic Lamminger
+  - Bylo mu předpovězeno že do roka zemře a stalo se tak
+- Jan Sladký = Kozina
