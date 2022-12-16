@@ -209,7 +209,10 @@
 ### Venkovská veselohra
 
 - Naši furianti
-  - Furiant je ten, co má vždy pravdu
+  - Děj jednou větou:
+    - Je o sporu mezi místními radními a zároveň mezi lidmi, kteří se uchází o post ponocného
+  - Zuřivý člověk, co má představu o tom, že má vždy pravdu
+  - Odehrává se v Jižních čechách
 
 ## Gabriela Preissová
 
@@ -295,24 +298,43 @@
 - T.G. Masaryk
 - Časopis Athenaeum
 
-OPAKOVANÍ
+# OPAKOVANÍ
 
-- Činnost Prozatimního divadla byla zahájena jakou historickou hrou
-  - Král Vukašín od Vítězlava Hálka
-- Kdy byla zbudována první samostatná kamenná česká scéna
-  - Prozatimní divadlo 1862
+- Monolog jedné postavy - replika
+
+- Činnost Prozatimního divadla byla zahájena \_\_\_ historickou hrou \_\_ od \_\_\_
+  - Král Vukašín od Vítězslava Hálka
+- 186\_ - byla zbudována první samostatná kamenná česká scéna \_\_\_
+  - 1862 - prozatimní divadlo
 - Kdy byl položen základní kámen ND a pojí se s ním
   - 1868
-  - Vydání Almanachu Ruh
-- 188\_ - ** otevření ND při příležitosti \_**
+  - Vydání Almanachu Ruch
+- 188\_ - otevření ND při příležitosti \_\_\_
   - 1881 - slavnostní
   - návštěva korunního prince Rudolfa
-- Tehdy se hrála opera**_ od _**
+- Tehdy se hrála opera \_ od \_
   - Libuše od Smetany
-- 188\_ - tragedie, budova ND **\_\_\_**
+- 188\_ - tragedie, budova ND \_\_\_
   - 1881 vyhořela
 - 188\_ otevření ND
   - Tehdy se hrála opera Libuše
-  - 1883 Libuš smetana
+  - 1883 Libuše smetana
 - Budova ND se označuje jako \_\_\_
   - Zlatá kaplička
+- Budova ND je vystavěna ve slohu \_\_\_\_\_\_
+  - Novorenesance
+- Na slavnostní oponě je nápis: \_\_\_
+  - Národ sobě!
+
+---
+
+- Malířství
+  - V. Hynais
+  - M. Aleš
+  - F. Ženíšek
+- Sochařství
+  - J. V. Myslbek
+  - B. Schnirch
+- Architekt
+  - J. Schulz
+  - J. Zítek
