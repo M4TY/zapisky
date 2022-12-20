@@ -4,7 +4,7 @@
 - Kapitalismus
 
   - **19. stol** - **1948** tržní hospodářství
-  - **1948** -> **1989** centrálně plánované hospodářství
+  - **1948** -> **1989** centrální plánované hospodářství
   - **1989** -> tržní hospodářství
 
 - 17.11.1989 došlo k zásadní změně hospodářského systému
@@ -20,8 +20,11 @@
 | :---------------------------------------: | :----------------------------------: |
 | Podinky mohou být v soukromém vlastnictví | Jsou podniky vlastněné státem (v ČR) |
 |            Právní samostatnost            |        Právní nesamostatnost         |
+|          Ekonomická samostatnos           |      Ekonomická nesamostatnost       |
+|          Volná směnitelnost měny          | Neexistovala volná směnitelnost měny |
 
 > 13.h 13.12
+> 14.h 20.12
 
 ## Soukromé vlastnictví
 
@@ -43,6 +46,10 @@
 - Turismus
 - Stát si bere úvěry
 
+### Volný zahraniční obchod
+
+### Volné zaměstnávání cizích pracovních sil
+
 ## Státní vlastnictví podniků (v ČR)
 
 ### Právní nesamostatnost
@@ -63,3 +70,9 @@
 - Neexistoval dostatečný export
 - Nebyl turistický ruch, aby přiváželi zahraniční měnu
 - Stát se nezadlužoval
+
+### Státní monopol
+
+### Neexistuje zaměstnávání kohokoliv cizího
+
+[TEST 10.1]
