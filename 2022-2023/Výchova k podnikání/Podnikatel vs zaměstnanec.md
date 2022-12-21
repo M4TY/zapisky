@@ -146,3 +146,27 @@ EFEKTY  | Manažer    Pravý podnikatel |
 - Benevolentní
 - Konzultativní
 - Participativní
+
+## Marketingová komunikace
+
+### Marketing
+
+- Soubor aktivit, jejichž cílem je předvídat, zjišťovat, stimulovat a uspokojit potřeby zákazníka
+- Reklama
+- Public relations
+- Podpora prodeje
+- Direkt marketing
+- Osozobní prodej
+
+### Prodej
+
+- Probíhá zde transakce
+- Je třeba nejprve získat důveru zákazníka
+- Je nutné najít společnou řeč
+
+### Model Aida
+
+- Attention = chceme upoutat pozornost zákazníka
+- Interest = vzbudíme v něm zájem o náš produkt
+- Desire = zákazník by po produktu měl začít toužit
+- Action = Co je potřeba udělat, aby produkt mohl získat
