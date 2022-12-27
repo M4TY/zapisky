@@ -1,0 +1,46 @@
+[
+  {
+    "subject": "Čeština",
+    "theme": "Realismus v Čechách"
+  },
+  {
+    "question": "Jaký architektonický směr reflektuje Národní divadlo?",
+    "answer": "Novorenesance"
+  },
+  {
+    "question": "Kdo udělal oponu Národního divadla?",
+    "answer": "Vojtěch Hynajs"
+  },
+  {
+    "question": "Na oponě je napsané?",
+    "answer": "Národ sobě!"
+  },
+  {
+    "question": "Činnost prozatimního divalda začala v roce ___ hrou ____ od ____?",
+    "answer": "1862, Král Vukašín od Vítězslava Hálka"
+  },
+  {
+    "question": "Základní kámen Národního divadla byl položen ____ a pojí se s ním vydání ____",
+    "answer": "1868, Almanachu Ruch"
+  },
+  {
+    "question": "Slavnostní otevření Národního divadla v roce ____ v přílšžitosti návštěvi ____",
+    "answer": "1881, korunního prince Rudolfa"
+  },
+  {
+    "question": "Při slavnostním otevření Národního divadla se hrála opera ___ od ____",
+    "answer": "Libueš od Bedřicha Smetany"
+  },
+  {
+    "question": "Roku ____ se stala tragédie a Národní divadlo vyhořelo",
+    "answer": "1881"
+  },
+  {
+    "question": "Roku ____ proběhlo znovuotevření Národního divadla operou ____ od ____",
+    "answer": "1883, Libuš od Bedřicha Smetany"
+  },
+  {
+    "question": "Budova Národního divadla se označuje jako ___ ____",
+    "answer": "Zlatá kaplička"
+  }
+]
