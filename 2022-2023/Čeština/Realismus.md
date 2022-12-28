@@ -338,3 +338,48 @@
 - Architekt
   - J. Schulz
   - J. Zítek
+
+## Shrnutí
+
+### **Naši furianti - Ladislav Stroupežnický**
+
+Drama se odehrává ve vesnici Honice na Písecku v roce 1869. Obecní zastupitelé Honic mají rozhodnout, komu přidělí uvolněné místo ponocného. Na ponocného jsou dva kandidáti, vysloužilý voják Valentin Bláha a krejčí František Fiala.
+
+Pro Bláhu hlasuje starosta obce Filip Dubský a pro Fialu první radní Jakub Bušek. Dubský s Buškem jsou furianti, vždy musí prosadit svou vůli a vždy mají pravdu (i když ji nemají), nechtějí si navzájem ustoupit už jen z principu. Spor se vyhrocuje nalezením anonymního dopisu, který vyhrožuje požárem vesnice, pokud nebude zvolen Bláha.
+
+Bláha je křivě obviněn za údajné sepsání dopisu a vyhrožování paličstvím, Dubský se Bláhy zastává, Bušek ho naopak obvinil. Švec Habršperk, Bláhův přítel, porovnáním rukopisu odhalí skutečného viníka, respektive je schopen prokázat Bláhovu nevinu. Syn Dubského, Václav, se chce oženit s Verunkou Buškovou. Otcové sňatek nechtějí připustit, vedou hádky o případné věno.
+
+V závěru při volbě ponocného se odhalí skutečný autor dopisu, napsala ho Kristýna Fialová, dcera Františka Fialy, protože jí to otec nařídil, aby Bláhu zdiskreditoval; po odhalení lsti se tedy ponocným pochopitelně stává Bláha. Habršperk donutí Buška ke smíru s Dubským, a to pod pohrůžkou, že ho udá za pytláctví. Drama končí svatbou Václava a Verunky.
+
+### **Její Pastorkyňa - Gabriela Preissová - divadelní hra**
+
+Děj se odehrává na moravském venkově v 19. století. Hlavní postavou je Kostelnička Buryjovka a její pastorkyně Jenůfa. Jenůfa pracuje jako služebná ve mlýně, kde žijí i dva nevlastní bratři Laco a Števa. Jenůfa se zamiluje do Laca, ale když odejde na vojnu, zalíbí se jí Števa. Když se Laco vrátí z vojny, velmi žárlí na Števu, protože ví, že Jenůfu nemiluje a chce ji jen pro její krásu. A tak Jenůfě naschvál udělá jizvu na tváři a Števa o ni přestane mít zájem.
+
+Jenůfa čeká nemanželské dítě se Števou. Proto se schovává po dobu svého těhotenství u kostelničky a lidé si myslí, že je ve Vídni. Števa si odmítá Jenůfu vzít, i když ví, že dítě je jeho. Vtom se nabídne Laca, že si Jenůfu vezme, ale když zjistí, že má dítě se Števou, začne váhat. A tak kostelnička zalže, že dítě zemřelo. Když Jenůfu uspí makovinou, vezme jí dítě a vloží ho v lese pod led. Jenůfě pak namluví, že při své nemoci prospala 3 dny, a tak dítě zemřelo.
+
+Chystá se svatba Jenůfy a Laca, ale lidé objeví v ledu zamrzlé dítě. Jenůfa pozná svého chlapečka. Lidé se dozví celou pravdu a kostelničku odsoudí do vězení. Jenůfa jí odpouští, ale chce Laca ušetřit od jejího osudu. Ten jí ale neopustí a zůstanou spolu.
+
+### **Maryša - Vilém a Alois Mrštík**
+
+Sedlák Lízal ujedná s mlynářem Vávrou, že mu dá za ženu svoji dceru Maryšu. Vávra je starší člověk, který svoji předešlou ženu utrápil. Maryša má ráda Francka, ten je však odveden na vojnu. Při společném loučení přísahá, že se Maryši nevzdá. Její rodiče ji nakonec ke svatbě donutí.
+
+Vynucené manželství je nešťastné. Vávra pije, bije Maryšu a pře se s jejím otcem o věno. Lízal si uvědomí svoji chybu, chce mít dceru zase doma, ale ona už o to nestojí. Po dvou letech se Francek vrací z vojny, veřejně za Maryšou chodí a přesvědčuje ji, aby s ním utekla do Brna. Maryša je ale příliš svázaná náboženskými tradicemi a předsudky lidí z vesnice. Vávra se ale pokusí Francka zastřelit a to se stane posledním podnětem k zoufalému činu – Maryša Vávru otráví jedem v kávě. Tragédie končí tím, že se Maryša ke svému činu přizná.
+
+### **Psohlavci - Alois Jirásek**
+
+Chodové byli strážci hranic (říkalo se jim také psohlavci, protože měli ve znaku psí hlavu), měli také mnoho výsad. Byli svobodníky bez roboty. Po nějaké době je císař dal do rukou věrnému Lammingerovi (Chodové mu říkali Lomikar). Lomikar po nich chtěl, aby se vzdali svých majestátů, které prý stejně už neplatí a také po nich chtěl, aby začali robotovat.
+
+Tyto majestáty schovali u matky Jana Sladkého Koziny. Ten se prvních sporů neúčastnil, protože ho jeho novomanželka nechtěla pustit z domu. Mezi Chody a Lomikarem zuří boje a mezitím Lomikar objeví majestáty a před Chody je zničí. Avšak dva nejdůležitější zůstaly nezničeny. S těmito dokumenty se delegace, ve které je i Kozina, vydává do Vídně k soudu. Bohužel Lomikar díky svému vlivu a penězům soud vyhrává.
+
+Doma jsou nepokoje a pět ze sedmi nejdůležitějších mluvčích Chodů už slíbí poslušnost Lomikarovi. Dva tedy nikoliv - Jan Sladký Kozina a jeho strýc Brychta. Poté byli převezeni do Plzně do společné cely, aby Kozina odvolal to, co vždycky říkal proti Lomikarovi. Kozina neodvolal. Mezitím už zemřel Brychta v cele útrapami. Kozina měl dostat jeden rok žaláře, ale Lomikar si vynutil trest oběšení. A tak byl Kozina 28. listopadu oběšen. Po tomto trestu byli Chodové v poklidu. Avšak rok po popravě dne 29. listopadu zemřel Lomikar na mrtvici.
+A tak byl na Chodsku zase klid a volnost.
+
+### **F.L. Věk - Alois Jirásek**
+
+8 dílů :/
+
+### **Lucerna - Alois Jirásek**
+
+Mlynář nemusí robotovat, není ale úplně svobodný. Symbolem jeho podřízenosti vůči knížatům je lucerna, se kterou je povinen svítit od mlýna k zámečku, kdykoli vrchnost poručí. U mlýna je stará, vzácná lípa, podle pověsti skrývající poklad, která pro mlynáře a jeho rod znamená velmi mnoho. Vrchnost rozhodla, že se lípa pokácí. Kněžna má navštívit vesnici a všichni připravují, jak ji uvítají. Mládenci, mezi nimi Zajíček, by ji chtěli zvlášť přivítat, ale není jim to umožněno. Zajíček by chtěl vyžádat od kněžny povolení učit ve městě, aby měl peníze na svatbu a život se svojí milou Dorničkou.
+
+Pouze mlynář se zlobí na kněžnu kvůli lípě a nejde ani on ani jeho schovanka Hanička kněžnu uvítat. Kněžna se to dozví a chce mlynáře poznat. Poručí mu svítit jí cestou ze mlýna na zámek. Cestou si povídají a ona poznává v mlynáři čestného, správného a hrdého muže. Nabízí mu místo nějakého úředníka a podle ní lepší život. Ale mlynář odmítá. Má rád svůj život, mlýn, lípu a svoji schovanku Haničku. Hanička je pronásledována kněžninými služebníky, kteří ji chtějí odvézt, protože tvrdí, že je majetkem vrchnosti. Hanička běží do lesa za mlynářem a schovává se dovnitř lípy. Klásková se pere s hastrmanem a ten jí prozradí, že se kněžnini služebníci chystají pokácet lípu. Kněžna o tom neví. Klásková to poví mlynáři a kněžně. Všichni běží k lípě. Lípa i Hanička jsou zachráněny. Kněžna dá Zajíčkovi místo učitele a rozbíjí lucernu. Tím osvobodila mlynáře od poddanosti. Kněžna odjíždí zpět do nudy.
