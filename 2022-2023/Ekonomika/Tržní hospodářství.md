@@ -48,7 +48,17 @@
 
 ### Volný zahraniční obchod
 
+- Limitovaný zákonem
+  - Zvířata
+    - Želva
+  - Typ
+    - Zbraně
+    - Jaderný materiál
+    - ...
+
 ### Volné zaměstnávání cizích pracovních sil
+
+---
 
 ## Státní vlastnictví podniků (v ČR)
 
@@ -76,3 +86,5 @@
 ### Neexistuje zaměstnávání kohokoliv cizího
 
 [TEST 10.1]
+
+> 15.h 3.1
