@@ -147,6 +147,11 @@ EFEKTY  | Manažer    Pravý podnikatel |
 - Konzultativní
 - Participativní
 
+## Typ vedení
+
+- transakční
+- transformační
+
 ## Marketingová komunikace
 
 ### Marketing
@@ -170,3 +175,9 @@ EFEKTY  | Manažer    Pravý podnikatel |
 - Interest = vzbudíme v něm zájem o náš produkt
 - Desire = zákazník by po produktu měl začít toužit
 - Action = Co je potřeba udělat, aby produkt mohl získat
+
+# Opakování
+
+- 34% zaměstnavatel
+- 11% zaměstnanec
+- 15% DPP daň z příjmu
