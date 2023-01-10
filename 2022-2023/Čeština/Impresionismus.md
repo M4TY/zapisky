@@ -1,4 +1,4 @@
-¨# Uměleské směry 2. pol 19. století
+# Uměleské směry 2. pol 19. století
 
 - avangardní - něco nového, nevšední
 - impresionismus
@@ -56,6 +56,19 @@
 
 - dandy = člověk, který dbá o svůj zevnějšek
 - homosexuál
+
+## Prokletí básníci
+
+- Francie
+- Znechucení společnosti
+- Provokace společnosti
+- Prokletí společnosti
+- Dekadence /symbolismus, impresionismus/
+
+### Charles Baudelaire
+
+- Květy zla /Mršina, Veselý umrlec.../
+- Hledání krásy ve zlu
 
 Okno - Obraz Doriana Graye  
 Prostřední - pohádka od Oscar Wilde
