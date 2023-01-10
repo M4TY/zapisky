@@ -1,4 +1,4 @@
-# Uměleské směry 2. pol 19. století
+¨# Uměleské směry 2. pol 19. století
 
 - avangardní - něco nového, nevšední
 - impresionismus
@@ -51,6 +51,11 @@
   - Satanismus
   - Smrt
   - Alkohol
+
+## Oscar Wilde
+
+- dandy = člověk, který dbá o svůj zevnějšek
+- homosexuál
 
 Okno - Obraz Doriana Graye  
 Prostřední - pohádka od Oscar Wilde
