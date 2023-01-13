@@ -4,8 +4,6 @@
 - impresionismus
 - symbolismus
 - dekadence
-  - smutek
-  - pochmůrnost
 - civilismus
 
 ## Impresionismus
@@ -36,20 +34,21 @@
 
 ## Dekadence
 
+- Česky: **Úpadek**
 - Pocit umělců znecuhcených společností
 - Životní postoj
 - Znaky:
-  - Pesimistická nálada
+  - **Pesimistická** nálada
   - Morbidita
   - Pocit zmatu
-  - Erotická přesycenost
+  - **Erotická** přesycenost
   - Nevázaný sex
   - Bohémeství
   - Tuláctví
   - Mysticismus
   - Narcismus
   - Satanismus
-  - Smrt
+  - **Smrt**
   - Alkohol
 
 ## Oscar Wilde
@@ -64,6 +63,17 @@
 - Provokace společnosti
 - Prokletí společnosti
 - Dekadence /symbolismus, impresionismus/
+
+### Paul Verlaine
+
+- Moudrost
+- Galantní slavnost
+
+### Jean Artur Rimbaud
+
+- Pobyt v pekle
+- Iluminace
+- Opilý koráb, Samohlásky
 
 ### Charles Baudelaire
 
