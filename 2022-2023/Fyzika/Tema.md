@@ -2,7 +2,7 @@
 
 - Uvolňování (emise) elektronů z povrchu kovu při osvětlení
 
-  ![](FY_JEV.svg)
+  ![](../static/FY_JEV.svg)
 
 - Při experimentu lze měnit
   - Frekveci dopadajícího záření

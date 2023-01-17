@@ -19,9 +19,9 @@
 - Trh
   - Střet poptávek a nabídek
   - N > P
-    - Cena jde nahoru
+    - Cena jde dolů
   - N < P
-    - Cena jde dolu
+    - Cena jde nahoru
   - N = P
     - Cena stálá
 
