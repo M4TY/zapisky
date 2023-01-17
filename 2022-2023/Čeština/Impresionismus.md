@@ -63,6 +63,7 @@
 - Provokace společnosti
 - Prokletí společnosti
 - Dekadence /symbolismus, impresionismus/
+- Rád překládal Vítězslav Nezval
 
 ### Paul Verlaine
 
@@ -72,8 +73,12 @@
 ### Jean Artur Rimbaud
 
 - Pobyt v pekle
+  - sbírka
 - Iluminace
+  - sbírka
+  - vydáno Vertlénem
 - Opilý koráb, Samohlásky
+  - asociace (přiřazení jednoho pojmu ke druhému)
 
 ### Charles Baudelaire
 
@@ -83,3 +88,20 @@
 Okno - Obraz Doriana Graye  
 Prostřední - pohádka od Oscar Wilde
 U dveří - Jak je důležité míti Filipa
+
+### Civilismus
+
+- Znaky:
+  - Technické vymoženosti
+  - Moderní život
+  - Civilizace
+  - Oslava všedních věcí a lidské práce
+
+## Amerika
+
+- Walter Whitman
+- Jednota člověkja a moderního světa
+- _Stébla trávy_
+  - Básnická sbírka
+
+Symbolismus, dekadence, civilismus, impresionismus,
