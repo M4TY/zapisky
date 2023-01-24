@@ -30,7 +30,7 @@
 
 ## Symbolismus
 
-- Zaležno na slově symbol
+- Zaležno na slově symbol - znak
 - Imaginace
 
 ## Dekadence
@@ -124,3 +124,41 @@ Symbolismus, dekadence, civilismus, impresionismus,
 - Dva mladíci, John Worthing (v českých překladech také Jack) a Algernon Moncrieff způsobí nedorozumění tím, že si vymyslí fiktivní osoby – Jack si vymyslí zhýralého bratra Ernesta (v ČR Filipa) a Algernon Burnburyho. Jack se v Londýně vydává za Filipa (fiktivního Algernonova bratra) a uchází se o ruku Algernonovy sestřenice Gwendoliny Fairfaxové. Její matka, lady Bracknellová, však ženicha důkladně zpovídá. Když pátrá po jeho původu musí Jack nakonec přiznat, že je nalezenec (kdosi ho uložil do velké brašny v úschovně londýnského nádraží), čímž jí způsobí šok.
 - Algernon odjede na venkov, kde se zamiluje do Jackovi schovanky Cecilie Cardewové, vydávaje se též za zhýralého bratra Filipa. Jeho tajemné existence Cecilii přitahuje. Když na venkovské sídlo přijede Gwendolina, a setká se s Cecilií dojde k dalšímu nedorozumění. Obě dívky milují Filipa a musí si uvědomit, kterého vlastně. Poté na venkov přijíždí i lady Bracknellová. V Cecíliině vychovatelce slečně Prismové pozná chůvu, jež se kdysi starala o dítě její sestry a zmizela s ním. Vysvětlí si dávný omyl – chůva zaměnila rukopis románu za dítě, jež se tak místo něj ocitlo v nádražní úschovně.
 - Tak vyjde najevo, že Jack je Algernonův starší bratr, opravdu pokřtěný jako Filip. Hra končí zásnubami.
+
+---
+
+# Opakování
+
+Symbol = znak
+Dekadence = úpadek
+Impresionismus = imprese
+
+## 3 atributy dekadence
+
+- pochmurnost
+- vulgární
+- smrt
+
+## Impresionismus
+
+- Příroda
+- Cílí na naše smysly
+- Barevná skvrna
+
+## Symbolismus
+
+- Skrytý význam (metafora, metonymie)
+
+## Civilismus
+
+- Civilizace
+- Moderní život
+- Technické vymoženosti
+- Každodennost
+
+Opilý koráb - cesta životem
+Mršina - všichni nakonec umřeme
+Jak dopadne vlaštovička v Šťastný princ - umrzne / zemře. Anděl jí vezme do nebe.
+Dorian Gray - Svět patří mladým a krásným - přání být mladý a krásný. Místo něj stárne obraz, pak obraz probodne a role se otočí.
+Jak dopadne slavík v pohádce Slavík a růže - zapíchne si trn do srdce a umírá
+Claude Monet - zakladatel impresionismu, obraz Imprese je na něm východ Slunce
