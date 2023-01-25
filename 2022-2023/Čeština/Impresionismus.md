@@ -162,3 +162,27 @@ Jak dopadne vlaštovička v Šťastný princ - umrzne / zemře. Anděl jí vezme
 Dorian Gray - Svět patří mladým a krásným - přání být mladý a krásný. Místo něj stárne obraz, pak obraz probodne a role se otočí.
 Jak dopadne slavík v pohádce Slavík a růže - zapíchne si trn do srdce a umírá
 Claude Monet - zakladatel impresionismu, obraz Imprese je na něm východ Slunce
+
+3/
+
+- 1
+- 2
+  - na pouť, předmět
+  - mlýnů, předmět
+  - které
+  - jako bytosti
+- 3
+  - k, zájmeno
+  - sotva, spojka
+  - další, přídavné jméno
+- 4
+  - jako nestvůrné bytosti
+  - vypadal jako Honza
+  - jeho papír vypadal jako kdyby ho žvýkal pes
+- 5
+  - vyrazili - 3os, c. mnz, minuly, zpusob ozn,
+- 6
+  - napřahovaly - natahovaly
+  - k nebi - k obloze
+- 7
+  -
