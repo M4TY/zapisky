@@ -1,6 +1,6 @@
 > 16.h 10.1 & 17.h 17.1
 
-# Podniky
+# Trh
 
 ## Tržní mechanismus
 
@@ -33,3 +33,36 @@ Součastnost
 
 - Regulace trhu
 - Různá ekonomická síla
+
+> 18.h 31.1
+
+# Podniky
+
+- Zisková organizace
+- Na vlastní
+  - Účet
+  - Riziko
+  - Zodpovědnost
+- Rozdělení na podnikání
+  - Fyzických osob
+  - Právnických osob
+- Druhy podniků
+  - Vlastnictví
+    - Soukromé
+    - Státní
+    - Skupinové
+    - Kombinované
+  - Velikost
+    - Pracovní síla
+    - Majetek
+    - Roční obrat
+    - Zisk
+    - Počet poboček
+
+## Podnikání fyzických osob
+
+- osoba samostatně výdělečně činná
+  - živnostníci
+  - ostatní
+    - bez kvalifikace (pronájem)
+    - vysoká kvalifikace (soukromý lékař)
