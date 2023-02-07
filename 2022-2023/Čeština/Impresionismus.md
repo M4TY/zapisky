@@ -185,4 +185,54 @@ Claude Monet - zakladatel impresionismu, obraz Imprese je na něm východ Slunce
   - napřahovaly - natahovaly
   - k nebi - k obloze
 - 7
-  -
+- 8
+  - Sotva však vyrazili na další pouť, vyrazil jim dech odporný pach
+- 9
+  - dokonavý
+- 10
+  - vy raz it (předpona, kořen, přípona)
+- 11
+  - nestvůrné
+- 12
+  - vyjmenované slovo
+- 13
+  - růže
+- 14
+  - mlýneček
+- 15
+  - rameny
+
+4/
+
+- 1
+- 2
+  - tam, přáblastek
+  - podle zákonů, 
+  - obrů, předmět
+- 3
+  - jak, příslovce
+  - jejichž,zájméno
+  - třicet, číslovka
+- 4
+- 5
+- 6
+  - obr
+- 7
+  - protože objev
+- 8
+  - na které
+- 9
+  - tázací zájmena
+- 10
+  - hrad
+- 11
+  - obohatíme se, 1. os, čmn, budoucí
+- 12
+  - rytíř ských
+- 13
+  - Sančo
+- 14
+  - hned - pak
+  - boj - klid
+- 15
+  - rytířských zákonů - státních zákonů
