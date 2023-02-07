@@ -50,7 +50,7 @@ Součastnost
   - Vlastnictví
     - Soukromé
     - Státní
-    - Skupinové
+    - Skupinové (stát a někdo)
     - Kombinované
   - Velikost
     - Pracovní síla
@@ -62,7 +62,34 @@ Součastnost
 ## Podnikání fyzických osob
 
 - osoba samostatně výdělečně činná
+  - závislá činnost = zaměstnání
   - živnostníci
   - ostatní
     - bez kvalifikace (pronájem)
-    - vysoká kvalifikace (soukromý lékař)
+    - vysoká kvalifikace (soukromý lékař, geodet, advokáti)
+
+> 19.h 7.2
+
+## Živnostenské podnikání
+
+- podnikání fyzických osob
+- zisková činnost
+- podmínky
+  - právní způsobilost
+  - plnoletost
+  - trestní bezúhonnost
+  - bezdlužnost
+  - trvalý pobyt
+- druhy
+  - ohlašovací
+    - nárokové
+    - volné
+      - nákup a prodej zboží
+    - řemeslné
+      - zedník, elektrikář, instalatér
+    - vázané
+      - oční optika, lékárny
+  - koncesované
+    - nenárkové
+    - pohřební služba, prodej zbraní 
+
