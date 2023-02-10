@@ -115,14 +115,36 @@ Symbolismus, dekadence, civilismus, impresionismus,
 
 ### Obraz Doriana Graye - Autor: Oscar Wilde
 
-- Malíř Basil Halward maluje obraz svého krásného a bohatého přítele Doriana Graye. Gray v něm brzo nachází přítele, který mu pomáhá vyznat se v Anglické společnosti té doby. Malíř se snaží zabránit setkání Doriana se svým přítelem Henrym Wottonem, protože je ten znám svou špatnou pověstí a odvážnými názory. Po náhodném setkání Doriena a Henryho je však již vše zbytečné. Dorian je Henrym a jeho revolučními názory přímo okouzlen a nechává se velmi ovlivnit. Henryho názory se úplně rozchází s tehdejší dobou. Nabádá Doriana k úplně jinému způsobu života, než se mu snaží vnutit společnost.
-- Dorian se strhává k životu plného erotiky,alkoholu, drog. Lord Henry Wottonen složí Dorianovi poklonu za jeho krásu, mládí a čistotu, ale zároveň mu připomene, že na rozdíl od něj, obraz nebude nikdy stárnout. To Doriana znejistí. Dorian vyřkne přání, aby obraz stárnul za něj a všechny fyzické i duševní změny byly zachyceny na obraze. Nikdo ani sám Dorian netuší, že přání se naplní. Zanedlouho poté se Dorian seznámí a zamiluje do Sibyli Vanové, které kvůli němu později spáchá sebevraždu. Je to první chvíle, kdy se obraz změní a Dorianovi dochází, že se jeho přání plní.
-- Dorianových hříchů přibývá, když zabije stvořitele obrazu a zároveň jeho přítele. Čím více hříchů Dorian páchá, tím více se obraz mění. Doriana začnou trápit halucinace jím zavražděných lidí, jejich hlasy volající ho k nim a výčitky svědomí. Ve vzteku, zoufalství a i díky příteli Henrymu, který již velmi zestárnul, Dorian probodne obraz nožem, je to však on, kdo padá k zemi mrtev. Přání je tímto činem zlomeno a na obraze se opět ukazuje krásný, mladý a čistý Dorian Gray, zatímco k zemi mrtev padá starý, šeredný, zakrvácený stařec.
+- Malíř Basil Halward maluje obraz svého krásného a bohatého přítele Doriana Graye. Gray v něm brzo nachází přítele,
+  který mu pomáhá vyznat se v Anglické společnosti té doby. Malíř se snaží zabránit setkání Doriana se svým přítelem
+  Henrym Wottonem, protože je ten znám svou špatnou pověstí a odvážnými názory. Po náhodném setkání Doriena a Henryho je
+  však již vše zbytečné. Dorian je Henrym a jeho revolučními názory přímo okouzlen a nechává se velmi ovlivnit. Henryho
+  názory se úplně rozchází s tehdejší dobou. Nabádá Doriana k úplně jinému způsobu života, než se mu snaží vnutit
+  společnost.
+- Dorian se strhává k životu plného erotiky,alkoholu, drog. Lord Henry Wottonen složí Dorianovi poklonu za jeho krásu,
+  mládí a čistotu, ale zároveň mu připomene, že na rozdíl od něj, obraz nebude nikdy stárnout. To Doriana znejistí.
+  Dorian vyřkne přání, aby obraz stárnul za něj a všechny fyzické i duševní změny byly zachyceny na obraze. Nikdo ani
+  sám Dorian netuší, že přání se naplní. Zanedlouho poté se Dorian seznámí a zamiluje do Sibyli Vanové, které kvůli němu
+  později spáchá sebevraždu. Je to první chvíle, kdy se obraz změní a Dorianovi dochází, že se jeho přání plní.
+- Dorianových hříchů přibývá, když zabije stvořitele obrazu a zároveň jeho přítele. Čím více hříchů Dorian páchá, tím
+  více se obraz mění. Doriana začnou trápit halucinace jím zavražděných lidí, jejich hlasy volající ho k nim a výčitky
+  svědomí. Ve vzteku, zoufalství a i díky příteli Henrymu, který již velmi zestárnul, Dorian probodne obraz nožem, je to
+  však on, kdo padá k zemi mrtev. Přání je tímto činem zlomeno a na obraze se opět ukazuje krásný, mladý a čistý Dorian
+  Gray, zatímco k zemi mrtev padá starý, šeredný, zakrvácený stařec.
 
 ### Jak je důležité mít Filipa - Autor: Oscar Wilde
 
-- Dva mladíci, John Worthing (v českých překladech také Jack) a Algernon Moncrieff způsobí nedorozumění tím, že si vymyslí fiktivní osoby – Jack si vymyslí zhýralého bratra Ernesta (v ČR Filipa) a Algernon Burnburyho. Jack se v Londýně vydává za Filipa (fiktivního Algernonova bratra) a uchází se o ruku Algernonovy sestřenice Gwendoliny Fairfaxové. Její matka, lady Bracknellová, však ženicha důkladně zpovídá. Když pátrá po jeho původu musí Jack nakonec přiznat, že je nalezenec (kdosi ho uložil do velké brašny v úschovně londýnského nádraží), čímž jí způsobí šok.
-- Algernon odjede na venkov, kde se zamiluje do Jackovi schovanky Cecilie Cardewové, vydávaje se též za zhýralého bratra Filipa. Jeho tajemné existence Cecilii přitahuje. Když na venkovské sídlo přijede Gwendolina, a setká se s Cecilií dojde k dalšímu nedorozumění. Obě dívky milují Filipa a musí si uvědomit, kterého vlastně. Poté na venkov přijíždí i lady Bracknellová. V Cecíliině vychovatelce slečně Prismové pozná chůvu, jež se kdysi starala o dítě její sestry a zmizela s ním. Vysvětlí si dávný omyl – chůva zaměnila rukopis románu za dítě, jež se tak místo něj ocitlo v nádražní úschovně.
+- Dva mladíci, John Worthing (v českých překladech také Jack) a Algernon Moncrieff způsobí nedorozumění tím, že si
+  vymyslí fiktivní osoby – Jack si vymyslí zhýralého bratra Ernesta (v ČR Filipa) a Algernon Burnburyho. Jack se v
+  Londýně vydává za Filipa (fiktivního Algernonova bratra) a uchází se o ruku Algernonovy sestřenice Gwendoliny
+  Fairfaxové. Její matka, lady Bracknellová, však ženicha důkladně zpovídá. Když pátrá po jeho původu musí Jack nakonec
+  přiznat, že je nalezenec (kdosi ho uložil do velké brašny v úschovně londýnského nádraží), čímž jí způsobí šok.
+- Algernon odjede na venkov, kde se zamiluje do Jackovi schovanky Cecilie Cardewové, vydávaje se též za zhýralého bratra
+  Filipa. Jeho tajemné existence Cecilii přitahuje. Když na venkovské sídlo přijede Gwendolina, a setká se s Cecilií
+  dojde k dalšímu nedorozumění. Obě dívky milují Filipa a musí si uvědomit, kterého vlastně. Poté na venkov přijíždí i
+  lady Bracknellová. V Cecíliině vychovatelce slečně Prismové pozná chůvu, jež se kdysi starala o dítě její sestry a
+  zmizela s ním. Vysvětlí si dávný omyl – chůva zaměnila rukopis románu za dítě, jež se tak místo něj ocitlo v nádražní
+  úschovně.
 - Tak vyjde najevo, že Jack je Algernonův starší bratr, opravdu pokřtěný jako Filip. Hra končí zásnubami.
 
 ---
@@ -159,80 +181,7 @@ Impresionismus = imprese
 Opilý koráb - cesta životem
 Mršina - všichni nakonec umřeme
 Jak dopadne vlaštovička v Šťastný princ - umrzne / zemře. Anděl jí vezme do nebe.
-Dorian Gray - Svět patří mladým a krásným - přání být mladý a krásný. Místo něj stárne obraz, pak obraz probodne a role se otočí.
+Dorian Gray - Svět patří mladým a krásným - přání být mladý a krásný. Místo něj stárne obraz, pak obraz probodne a role
+se otočí.
 Jak dopadne slavík v pohádce Slavík a růže - zapíchne si trn do srdce a umírá
 Claude Monet - zakladatel impresionismu, obraz Imprese je na něm východ Slunce
-
-3/
-
-- 1
-- 2
-  - na pouť, předmět
-  - mlýnů, předmět
-  - které
-  - jako bytosti
-- 3
-  - k, zájmeno
-  - sotva, spojka
-  - další, přídavné jméno
-- 4
-  - jako nestvůrné bytosti
-  - vypadal jako Honza
-  - jeho papír vypadal jako kdyby ho žvýkal pes
-- 5
-  - vyrazili - 3os, c. mnz, minuly, zpusob ozn,
-- 6
-  - napřahovaly - natahovaly
-  - k nebi - k obloze
-- 7
-- 8
-  - Sotva však vyrazili na další pouť, vyrazil jim dech odporný pach
-- 9
-  - dokonavý
-- 10
-  - vy raz it (předpona, kořen, přípona)
-- 11
-  - nestvůrné
-- 12
-  - vyjmenované slovo
-- 13
-  - růže
-- 14
-  - mlýneček
-- 15
-  - rameny
-
-4/
-
-- 1
-- 2
-  - tam, přáblastek
-  - podle zákonů, 
-  - obrů, předmět
-- 3
-  - jak, příslovce
-  - jejichž,zájméno
-  - třicet, číslovka
-- 4
-- 5
-- 6
-  - obr
-- 7
-  - protože objev
-- 8
-  - na které
-- 9
-  - tázací zájmena
-- 10
-  - hrad
-- 11
-  - obohatíme se, 1. os, čmn, budoucí
-- 12
-  - rytíř ských
-- 13
-  - Sančo
-- 14
-  - hned - pak
-  - boj - klid
-- 15
-  - rytířských zákonů - státních zákonů

@@ -1,0 +1,194 @@
+# Rozbor vět
+
+3/
+
+- 1
+  - VV (příslovečná časová) - VH - VV (přívlastková)
+  - Souvětí podřadné
+- 2
+  - na pouť, p uč místa
+  - mlýnů, předmět
+  - které, podmět
+  - jako bytosti, p uč způsobu
+- 3
+  - k, předložka
+  - sotva, spojka
+  - další, přídavné jméno
+- 4
+  - jako nestvůrné bytosti
+  - vypadal jako Honza
+  - jeho papír vypadal jako kdyby ho žvýkal pes
+- 5
+  - vyrazili - 3os, c. mnz, minuly, zpusob ozn, rod činný, vid dokonavý,
+- 6
+  - napřahovaly - natahovaly
+  - k nebi - k obloze
+- 7
+  - při další pouti uviděli skupinu
+- 8
+  - Sotva však vyrazili na další pouť, vyrazil jim dech odporný pach
+- 9
+  - dokonavý
+- 10
+  - vy raz it (předpona, kořen, přípona)
+- 11
+  - nestvůrné, větrných, další, svá
+- 12
+  - vyjmenované slovo
+- 13
+  - píseň
+- 14
+  - mlýnek
+- 15
+  - ramenech
+
+4/
+
+- 1
+  - VH - VV (předmětná) - VV (přívlastková) -slučovací- VV (přívlastková)
+- 2
+  - tam, prislovecne urceni mista
+  - podle zákonů, předmět
+  - obrů, podmět
+- 3
+  - jak, příslovce
+  - jejichž, zájméno
+  - třicet, číslovka
+- 4
+  - třicet, ba více
+- 5
+  - oslovení
+- 6
+  - rytířských, Sancho
+- 7
+  - objevit je od slova jev
+- 8
+  - s nimiž
+- 9
+  - vztažné a tázací
+- 10
+  - hrad
+- 11
+  - obohatíme se, 1. os, čmn, budoucí, oznamovací, činný, dokonavý
+- 12
+  - ry tíř ských
+- 13
+  - Sančo
+- 14
+  - hned - později
+  - boj - mír
+- 15
+  - pustit se v boj - bojovat
+
+5/
+
+- 1
+  - VV(podmínková)-VH-slucovaci-VH-VV(předmětná, za koho co)
+- 2
+  - v ústranní - p uč místa
+  - strach - předmět
+  - kliď se - přísudek
+- 3
+  - za - přeložka
+  - li - spojka
+  - modli se - sloveso
+- 4
+  - Pokud máš
+- 5
+  - vid nedokonavý, rod činný
+- 6
+  - Při strachu (aby tam nebylo sloveso)
+- 7
+  - vyhrál
+- 8
+  - uklidnit, zklidnit,
+- 9
+  - 6, c jednoty, rod stredni, vzor staveni
+- 10
+  - zvítězil bych
+- 11
+  - z vítěz it
+- 12
+  - protože je na začátku slova
+- 13
+  - My bychom zívtězili
+- 14
+  - Měl jsem úkol bez chyby, proto mě učitel pochválil
+- 15
+  - SSPŠ, Čedok
+
+6/
+
+- 1
+  - 7 vět, 2 hlavní, souřadné souvětí
+  - VH - VV (přívlastková) - VV (přívlastková) - VH - VV (příslovečná účelová) - VV (způsobová) - VV (účelová)
+- 2
+  - z ran - p uč místa
+  - projev - podmět
+  - života - přívlastek neshodný
+  - vracejícího se - přívlastek shodný
+- 3
+  - jejího - zájmeno
+  - v čas - příslovce
+  - žádný - zájmeno
+- 4
+  - Hana, Mirek
+- 5
+  - rigorózně
+- 6
+  - včas
+- 7
+  - za cel it
+- 8
+  - pro včasné podávání lektvarů
+- 9
+  - nemluvně
+- 10
+  - píseň a kost
+- 11
+  - mužský rod
+- 12
+  - šel kolem domu - předložka
+  - jen s kolem - podstatné jmeno
+  - pujdeme kolem páté - příslovce
+- 13
+  - rajnhojič, nevlastní
+- 14
+  - slaboučký
+- 15
+  - vracející se život
+
+1/
+
+- 1
+  - VH - VV (přívlastková) - VH
+- 2
+  - p uč zpusob
+  - podmět
+  - p uč místa
+- 3
+  - Dlouhá třída
+- 4
+  - mužů žen dětí
+- 5
+  - divoká
+- 6
+  - za stav ili
+- 7
+  - vypravil se - 3. os, č. j, čas minulý, zpusobů ozn, rod činný, vid dokonavý,
+- 8
+  - Jezdi by zastavili koně
+- 9
+  - obkličte!
+- 10
+  - jarní
+- 11
+  - předložka
+- 12
+  - Dlouhá třída
+- 13
+  - pěší
+- 14
+  - ze všech stran
+- 15
+  - V létě bylo pěkné počasí, ale nejel jsem na výlet
