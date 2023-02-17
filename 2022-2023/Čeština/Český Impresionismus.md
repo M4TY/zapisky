@@ -19,4 +19,5 @@
 - Antonín Sova
 - Otokar Březina
 
-1) Antonín Sova - Rybníky - impresionismus
+## Antonín Sova
+- Rybníky - impresionismus
