@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "Zpracování obrazu"
+    },
+    {
+        "question": "Proč potřebujeme filtrování?",
+        "answer": "Změna velikosti obrazu, zmenšení šumu, zvýšení ostrého ostří, zvýšení detailů"
+    },
+    {
+        "question": "Jak funguje Point filter?",
+        "answer": "Nefiltruje obraz. Vybere se barevná složka ve středu a aplikuje se na celý vykreslený pixel."
+    },
+    {
+        "question": "Jak funguje Bilinear filter?",
+        "answer": "Matematická operace = lineární interpolace. Zajistí že při změně velikosti objektu bude pořád vypadat dobře (dokud nebude menší než polovina nebo větší než dvojnásobek). Používá se i s Mip mapou pro řešení problémů s kvalitou."
+    },
+    {
+        "question": "Jak funguje Mip mapa?",
+        "answer": "Předpočítané filtrování. Jednotlivé kanály umístěny vedle sebe v polovičním rozlišení. Nahrazují původní texturu podle vzdálenosti od kamery. Velmi levné filtrování."
+    },
+    {
+        "question": "Jak funguje Trilinear filter?",
+        "answer": "Interpolace mezi bilineárním filtrováním textury a její mip mapou. Řeší tak problém viditelných přechodů mezi úrovněmi mip map."
+    },
+    {
+        "question": "Jak funguje Anisotropic filter?",
+        "answer": "Zahrnuje do výpočtu úhel kamery. Lze kombinovat s mip mapami. Náročné na propustnost paměti GPU kvůli velkému množství vzorků."
+    },
+    {
+        "question": "Proč potřebujeme anti-aliasing?",
+        "answer": "Bez něj má obraz takový hnusný šum."
+    },
+    {
+        "question": "Jak funguje Super sampling?",
+        "answer": "Vykreslení snímku do větší textury než je výstupní rozlišení. Výsledný obraz je (obvykle) lepší. Velmi důležité ve VR ale je to velmi náročná operace."
+    },
+    {
+        "question": "Jak funguje MSAA?",
+        "answer": "Zásah do procesu renderování. Oproti SSAA nedělá více vzorků tam kde nejsou hrany. Více vzorků (fragmentů) na hranách trojuhelníků. Má problémy s průhlednými povrchy."
+    },
+    {
+        "question": "Jak funguje FXAA?",
+        "answer": "Nezasahuje do procesu renderování (aplikován jako filtr). Aproximuje hrany (s neúplnou úspěšností) a selektivně rozmazává obraz musí být aplikován před UI. Velmi levný efekt. Rozmazává i to co není hrana."
+    },
+    {
+        "question": "Jak funguje TXAA?",
+        "answer": "Hledá hrany rozdílem mezi jednotlivými snímky. Rozmazává selektivně i to co není hrana. Špatně se porovnává na obrázku, musí se posuzovat v pohybu. Vyhlazuje nejen hrany, ale i jiné vizuální artefakty."
+    },
+    {
+        "question": "Jak funguje DLSS a FidelityFX?",
+        "answer": "Renderování scény v menším rozlišení a následné upscalování pomocí různých technik. Lze použít buď pro dosažení lepší kvality se stejným výkonem, nebo lepšího výkonu se stejnou kvalitou renderu. Různé verze a metody."
+    }
+]
