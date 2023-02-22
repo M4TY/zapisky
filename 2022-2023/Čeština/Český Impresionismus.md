@@ -21,3 +21,17 @@
 
 ## Antonín Sova
 - Rybníky - impresionismus
+
+## Petr Bezruč
+- vlastní jméno Vladimír Vašek
+- mluvší slezkézho národa
+- Slezké číslo časopisu Čas
+### Kantor Halfar
+- Učil česky
+  - Nechtěl učit polsky
+- Dívka na něj nechtěla čekat 10 let
+  - Proto se vdala za někoho jiného
+- Měl problémy s alkoholismem
+- DU: Zjistit vyznam slov
+### Maryčka Magdónová
+- končí sebevraždou skokem do Ostravice
