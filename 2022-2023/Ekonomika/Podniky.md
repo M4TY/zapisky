@@ -83,13 +83,28 @@ Součastnost
 - druhy
   - ohlašovací
     - nárokové
-    - volné
-      - nákup a prodej zboží
-    - řemeslné
-      - zedník, elektrikář, instalatér
-    - vázané
-      - oční optika, lékárny
+    - druhy
+      - volné
+        - stačí splnění základních podmínek
+        - nákup a prodej zboží
+      - řemeslné
+        - potřebná kvalifikace (obykle výuční list)
+        - zedník, elektrikář, instalatér
+      - vázané
+        - vyšší kvalifikace
+        - oční optika, lékárny
   - koncesované
     - nenárkové
-    - pohřební služba, prodej zbraní 
+    - pohřební služba, prodej zbraní
+    - stát zkoumá občanskou bezúhonnost
 
+## Povinnosti OSVČ
+
+### Zákazníci
+
+| Zákazníci                   | Stát | Zaměstnanci |
+|-----------------------------|------|-------------|
+| NOZ (nový občanský zákoník) |      |             |
+| Živnostenský zákoník        |      |             |
+
+> 20.h 28.2
