@@ -106,5 +106,11 @@ Součastnost
 |-----------------------------|------|-------------|
 | NOZ (nový občanský zákoník) |      |             |
 | Živnostenský zákoník        |      |             |
+| Označení majitele           |      |             |
+| IČO, DIČ                    |      |             |
+| Reklamační záruka           |      |             |
+| Česká obchodní inspekce     |      |             |
+| Cena                        |      |             |
+| Vrácení zboží               |      |             |
 
 > 20.h 28.2
