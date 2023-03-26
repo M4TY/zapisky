@@ -1,0 +1,50 @@
+[
+    {
+        "subject": "MVVR",
+        "theme": "Renderovací procesy"
+    },
+    {
+        "question": "Co to je View Frustum?",
+        "answer": "Prostor mezi near clipping plane a far clipping plane. Nejlépe chceme vykreslovat jen obsah tohoto prostoru."
+    },
+    {
+        "question": "Co to je Near, Far clipping plane?",
+        "answer": "Jsou to vzdálenosti které určují co se vykreslí ve viewportu."
+    },
+    {
+        "question": "Co to je Bounding box?",
+        "answer": "Je to nejmenší box co fitneme kolem daného objektu. Pomáhá k rychlejšímu vykreslování."
+    },
+    {
+        "question": "Co to je Depth mapa?",
+        "answer": "Vyjadřuje per-pixel vzdáleností mezi Near clipping plane a nejbližším rendrovaným povrchem."
+    },
+    {
+        "question": "Co to je Render pipeline?",
+        "answer": "Sekvence kroků které se provedou při vykreslování. Všechny tyto kroky jsou využívány pro vykreslení jednoho snímku."
+    },
+    {
+        "question": "Jak funguje Frustum Culling?",
+        "answer": "Místo každého polygonu se na view frustum otestuje jen Bounding Box. Culling - optimalizační proces odstraňující práci."
+    },
+    {
+        "question": "K čemu se používá Depth mapa?",
+        "answer": "Používá se pro depth testy, post processing, speciální shadery, Anti-aliasing ..."
+    },
+    {
+        "question": "Popište běžné kroky v render pipeline",
+        "answer": "Vertexy se vyplní fragmenty (fragment je nehotový pixel), fragment se obarví podle dalšího shaderu. Vertex processor => Rasterizer => Fragment processor => Output merging."
+    },
+    {
+        "question": "Čím se Forward render pipeline liší od Deffered?",
+        "answer": "Forward renderuje objekty odzadu dopředu ke kameře (vykreslení je okamžité), Deffered renderuje objekty postupně."
+    },
+    {
+        "question": "Co dělá Forward+ render pipeline?",
+        "answer": "Vychází z klasického forward. Clusterování view frustum a následné počítání světel uvnitř clustrů. Řeší škálování s vyšším rozlišením a je efektivnější pro větší množství světel."
+    },
+    {
+        "question": "Která render pipeline se špatně škáluje s rozlišením?",
+        "answer": "Deferred render pipeline."
+    }
+]
